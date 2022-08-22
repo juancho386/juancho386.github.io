@@ -1,1 +1,78 @@
-Hola
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta charset="utf-8" />
+	<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/combine/npm/jquery,npm/jquery.terminal/js/jquery.terminal.min.js,npm/jquery.terminal/js/xml_formatting.js,npm/js-polyfills/keyboard.js,npm/prismjs/prism.min.js,npm/jquery.terminal/js/prism.js,npm/jquery.splitter/js/jquery.splitter.min.js"></script>
+	<link href="https://cdn.jsdelivr.net/combine/npm/terminal-prism/css/prism-coy.css,npm/jquery.terminal/css/jquery.terminal.min.css,npm/jquery.splitter/css/jquery.splitter.css" rel="stylesheet"/>
+	<script src="https://cdn.jsdelivr.net/npm/jquery.terminal/js/animation.js"></script>
+	<title>Juan Eduardo Casta&ntilde;o Nestares</title>
+</head>
+<body>
+<script>
+// ref: https://stackoverflow.com/q/67322922/387194
+var __EVAL = (s) => eval(`void (__EVAL = ${__EVAL}); ${s}`);
+function repr(object) {
+	if (object) {
+		if (object instanceof $.fn.init) {
+			return '#&lt;jQuery&gt;';
+		} else if (typeof object === 'object') {
+			var name = object.constructor.name;
+			if (name) {
+				return `#&lt;${name}&gt;`;
+			} else {
+				return object.toString();
+			}
+		} else {
+			return new String(object);
+		}
+	} else if (object === null) {
+		return 'null';
+	}
+}
+function repl(fn) {
+	return function(code) {
+		if (code !== '') {
+			try {
+				var result = fn(code);
+				if (result) {
+					this.echo(repr(result));
+				}
+			} catch(e) {
+				this.error(new String(e));
+			}
+		}
+	};
+}
+class HiAnimation extends $.terminal.Animation {
+	constructor(...args) {
+		super(...args);
+		this._i = 0;
+		this._wait=0
+		this.t="I am Juan's website. I am more than a bunch of <if> statements. "
+	}}
+	render(term) {
+		if (this._i < this.t.length) {
+			if ( (this.t.substring(0,this._i).slice(-1) == '.') && (this._wait < 10) ) {
+				this._wait++
+			}else{
+				this._wait=0
+				this._i++;
+			}
+		}
+		return [this.t.substring(0, this._i)];
+	}
+}
+var term = $('body').terminal(
+	repl((code) => __EVAL(code)), {
+		greetings: '', // JavaScript Console using <a href="https://terminal.jcubic.pl/">jQuery Terminal</a>\n',
+		prompt: '> '
+	});
+$.terminal.syntax('bash');
+term.echo(new HiAnimation(15));
+
+</script>
+</body>
+</html>
+
