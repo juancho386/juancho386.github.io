@@ -51,7 +51,7 @@ class HiAnimation extends $.terminal.Animation {
 		this._i = 0;
 		this._wait=0
 		this.t="I am Juan's website. I am more than a bunch of <if> statements. "
-	}}
+	}
 	render(term) {
 		if (this._i < this.t.length) {
 			if ( (this.t.substring(0,this._i).slice(-1) == '.') && (this._wait < 10) ) {
@@ -68,7 +68,8 @@ var term = $('body').terminal(
 	repl((code) => __EVAL(code)), {
 		greetings: '', // JavaScript Console using <a href="https://terminal.jcubic.pl/">jQuery Terminal</a>\n',
 		prompt: '> '
-	});
+	}
+);
 $.terminal.syntax('bash');
 term.echo(new HiAnimation(15));
 
