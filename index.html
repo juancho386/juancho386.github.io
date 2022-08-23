@@ -45,25 +45,6 @@ function repl(fn) {
 		}
 	};
 }
-class HiAnimation extends $.terminal.Animation {
-	constructor(...args) {
-		super(...args);
-		this._i = 0;
-		this._wait=0
-		this.t="I am Juan's website. I am more than a bunch of <if> statements. "
-	}
-	render(term) {
-		if (this._i < this.t.length) {
-			if ( (this.t.substring(0,this._i).slice(-1) == '.') && (this._wait < 10) ) {
-				this._wait++
-			}else{
-				this._wait=0
-				this._i++;
-			}
-		}
-		return [this.t.substring(0, this._i)];
-	}
-}
 var term = $('body').terminal(
 	repl((code) => __EVAL(code)), {
 		greetings: '', // JavaScript Console using <a href="https://terminal.jcubic.pl/">jQuery Terminal</a>\n',
@@ -71,7 +52,18 @@ var term = $('body').terminal(
 	}
 );
 $.terminal.syntax('bash');
-term.echo(new HiAnimation(15));
+term.typing('echo', 100, "Hi!", function(){
+	setTimeout(function(){
+		term.typing('echo', 100, "I am Juan's website", function(){
+			setTimeout(function(){
+				term.typing('echo', 100, "Feel free to ask me anything.", function(){})
+			},1000)
+		})
+	},1000)
+})
+
+
+
 
 </script>
 </body>
