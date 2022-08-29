@@ -13,9 +13,9 @@
 <script>
 document._speed = 100
 document.data = ""
-$.get("./data.json",function(data){document.data=data})
+$.get("http://juancho386.github.io/data.json",function(data){document.data=data})
 var term = $('body').terminal(function(cmd){
-	ans="I don't have the answer to that question ... yet. Sorry"
+	ans="I don't have the answer to that question ... yet. Sorry."
 	for(i=0,j=document.data.length; i<j; i++){
 		for(k=0,l=document.data[i].qs.length;k<l;k++) {
 			if (cmd.toLowerCase() == document.data[i].qs[k])
