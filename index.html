@@ -11,52 +11,39 @@
 </head>
 <body>
 <script>
-// ref: https://stackoverflow.com/q/67322922/387194
-var __EVAL = (s) => eval(`void (__EVAL = ${__EVAL}); ${s}`);
-function repr(object) {
-	if (object) {
-		if (object instanceof $.fn.init) {
-			return '#&lt;jQuery&gt;';
-		} else if (typeof object === 'object') {
-			var name = object.constructor.name;
-			if (name) {
-				return `#&lt;${name}&gt;`;
-			} else {
-				return object.toString();
-			}
-		} else {
-			return new String(object);
+document._speed = 100
+var term = $('body').terminal(function(cmd){
+	var src = [{
+		"qs":["who is juan?","who's juan?"],
+		"ans":"Juan is a great guy. Born in Argentina, father of 2 amazing boys. He lives in Prague, Czech Republic working in the IT industry."
+	},{
+		"qs":["how old is juan?","what is juan's age?"],
+		"ans":"He born in 1979. It was April. You can do the math ;)"
+	},{
+		"qs":["what is the answer to life and the universe and everything?"],
+		"ans":"42"
+	}]
+	ans="I don't have the answer to that question ... yet. Sorry"
+	for(i=0,j=src.length; i<j; i++){
+		for(k=0,l=src[i].qs.length;k<l;k++) {
+			if (cmd.toLowerCase() == src[i].qs[k])
+				ans=src[i].ans
 		}
-	} else if (object === null) {
-		return 'null';
 	}
-}
-function repl(fn) {
-	return function(code) {
-		if (code !== '') {
-			try {
-				var result = fn(code);
-				if (result) {
-					this.echo(repr(result));
-				}
-			} catch(e) {
-				this.error(new String(e));
-			}
-		}
-	};
-}
-var term = $('body').terminal(
-	repl((code) => __EVAL(code)), {
-		greetings: '', // JavaScript Console using <a href="https://terminal.jcubic.pl/">jQuery Terminal</a>\n',
-		prompt: '> '
-	}
-);
+	term.typing('echo',document._speed,ans)
+},{
+	greetings: '',// JavaScript Console using <a href="https://terminal.jcubic.pl/">jQuery Terminal</a>\n',
+	prompt: ''
+})
+
 $.terminal.syntax('bash');
-term.typing('echo', 100, "Hi!", function(){
+term.typing('echo',document._speed, "Hi!", function(){
 	setTimeout(function(){
-		term.typing('echo', 100, "I am Juan's website", function(){
+		term.typing('echo', document._speed, "I am Juan's website.", function(){
 			setTimeout(function(){
-				term.typing('echo', 100, "Feel free to ask me anything.", function(){})
+				term.typing('echo', document._speed, "Feel free to ask me anything.", function(){
+					term.set_prompt('> ')
+				})
 			},1000)
 		})
 	},1000)
