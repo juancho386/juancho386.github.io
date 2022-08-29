@@ -12,22 +12,14 @@
 <body>
 <script>
 document._speed = 100
+document.data = ""
 var term = $('body').terminal(function(cmd){
-	var src = [{
-		"qs":["who is juan?","who's juan?"],
-		"ans":"Juan is a great guy. Born in Argentina, father of 2 amazing boys. He lives in Prague, Czech Republic working in the IT industry."
-	},{
-		"qs":["how old is juan?","what is juan's age?"],
-		"ans":"He born in 1979. It was April. You can do the math ;)"
-	},{
-		"qs":["what is the answer to life and the universe and everything?"],
-		"ans":"42"
-	}]
+	$.get("./data.json",function(data){document.data=data})
 	ans="I don't have the answer to that question ... yet. Sorry"
-	for(i=0,j=src.length; i<j; i++){
-		for(k=0,l=src[i].qs.length;k<l;k++) {
-			if (cmd.toLowerCase() == src[i].qs[k])
-				ans=src[i].ans
+	for(i=0,j=document.data.length; i<j; i++){
+		for(k=0,l=document.data[i].qs.length;k<l;k++) {
+			if (cmd.toLowerCase() == document.data[i].qs[k])
+				ans=document.data[i].ans
 		}
 	}
 	term.typing('echo',document._speed,ans)
