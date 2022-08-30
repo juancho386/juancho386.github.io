@@ -14,7 +14,27 @@
  "qs":["what is the answer to life and the universe and everything?"],
  "ans":"42. Of course."
 },{
- "qs":[""],
- "ans":"Only ENTER? Come on. You can do better!"
-
+ "qs":["command","commands"],
+ "ans":"Hum... ok... you don't want to talk. Fine :( .... ATM you can use: cv, media and contact. May be in the future I will prepare more commands."
+},{
+ "qs":["cv"],
+ "ans":"Yeah... well.. the list is too long to type it here. May be you can ask me more specific questions like: Where Juan worked? or Where Juan studied? or Which are Juan's hobbies? or What languages Juan speaks? ... things like that"
+},{
+ "qs":["where juan worked?","where did juan work?"],
+ "ans":"It is a very long list. Let's see if I remember them all: Telecentro 123, MTSS, Winsoft computación, RCC, Tenroses, HR Smart, -los holandeses-, Vostu, -el chabon de san isidro-, -el de los telefonos-, Northdiving Lanzarote and Monstarlab. Feel free to can ask me individually for any of them to know more. Like 'What about Telecentro 123?'"
+},{
+ "qs":["where juan studied?","where did juan study?"],
+ "ans":"Answer not ready yet"
+},{
+ "qs":["which are juan's hobbies?"],
+ "ans":"Answer not ready yet"
+},{
+ "qs":["what languages does juan speak","what languages juan speaks"],
+ "ans":"He born in Argentina, so Spanish is native. He speaks English since ... before primary school, so... yeah. I'd say he is a C2 in English. He lived in Italy for a while, it means he will understand italian but speak with no errors is expecting too much. He Also studied German and Japanese for fun but long time ago. Don't expect a fluent conversation with those languages. mmmh... what else?...  He tried Chinesse but had to quit because of time availability problems.... And now he lives in Czech Republic but Czech language is VERY difficult so better not to mention his skills there."
+},{
+ "qs":["media"],
+ "ans":"Juan uses Instagram (juancho079) mostly to show toys and to have contact with other humans. There are other social media sites here and there, but not so active. The github profile is a good place to start. Try: https://github.com/juancho386"
+},{
+ "qs":["contact"],
+ "ans":"Telegram: https://t.me/juancho079"
 }]
