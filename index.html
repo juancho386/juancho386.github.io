@@ -13,7 +13,7 @@
 <script>
 document._speed = 100
 document.data = ""
-$.get("http://juancho386.github.io/data.json",function(data){document.data=data})
+$.get("https://juancho386.github.io/data.json?_="+Date.now(),function(data){document.data=data})
 var term = $('body').terminal(function(cmd){
 	ans="I don't have the answer to that question ... yet. Sorry."
 	for(i=0,j=document.data.length; i<j; i++){
