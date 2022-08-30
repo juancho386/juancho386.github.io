@@ -1,15 +1,21 @@
 [{
- "qs":["who is juan?","who's juan?"],
+ "qs":["who is juan?","who's juan?","who are you?"],
  "ans":"Juan is a great guy. Born in Argentina, father of 2 amazing boys. He lives in Prague, Czech Republic working in the IT industry."
 },{
- "qs":["how old is juan?","what is juan's age?"],
- "ans":"He born in 1979. It was April. You can do the math ;)"
+ "qs":["how old is juan?","what is juan's age?","how old are you?"],
+ "ans":"Juan born in 1979. It was April. You can do the math ;)"
+},{
+ "qs":["where are you from?","where are you?"],
+ "ans":"Juan born in Argentina. In an small town close to the ocean you can not find in the map anymore. After few years he moved to Buenos Aires where he lived for about 25 more years. After that he moved to Italy, Thailand, Spain and Czech Republic."
+},{
+ "qs":["how are you?","how you doing?","how are you doing?"],
+ "ans":"Hey! I am fine! I am very happy to see YOU using this baby made with so much love. I wish you the best day in the history of days! =D"
 },{
  "qs":["hi!","hi","hello"],
  "ans":"Hey! I'm glad to meet an educated person that answers a hello :). I hope you are doing great today!"
 },{
  "qs":["help"],
- "ans":"No worries. I will help you. :D. I am a text interface programmed to answer some questions. Remember to use the question mark at the end of your sentence so I understand that you are making an actual question. My anwsers are very limited but I hope they are complete enought. Feel free to use any other channel to get ansers I don't have. Besides formal questions I have an small list of commands as well. But I prefer questions."
+ "ans":"No worries. I will help you. :D. I am a text interface programmed to answer some questions. Remember to use the question mark at the end of your sentence so I understand that you are making an actual question. My answers are very limited but I hope they are complete enought. Feel free to use any other channel to get ansers I don't have. Besides formal questions I have an small list of commands as well. But I prefer questions."
 },{
  "qs":["what is the answer to life and the universe and everything?"],
  "ans":"42. Of course."
@@ -23,10 +29,10 @@
  "qs":["where juan worked?","where did juan work?"],
  "ans":"It is a very long list. Let's see if I remember them all: Telecentro 123, MTSS, Winsoft computación, RCC, Tenroses, HR Smart, -los holandeses-, Vostu, -el chabon de san isidro-, -el de los telefonos-, Northdiving Lanzarote and Monstarlab. Feel free to can ask me individually for any of them to know more. Like 'What about Telecentro 123?'"
 },{
- "qs":["where juan studied?","where did juan study?"],
+ "qs":["where juan studied?","where did juan study?","where did you study?","where you studied?"],
  "ans":"Answer not ready yet"
 },{
- "qs":["which are juan's hobbies?"],
+ "qs":["which are juan's hobbies?","do you have any hobby?"],
  "ans":"Answer not ready yet"
 },{
  "qs":["what languages does juan speak","what languages juan speaks"],
