@@ -5,6 +5,16 @@
  "qs":["how old is juan?","what is juan's age?"],
  "ans":"He born in 1979. It was April. You can do the math ;)"
 },{
+ "qs":["hi!","hi","hello"],
+ "ans":"Hey! I'm glad to meet an educated person that answers a hello :). I hope you are doing great today!"
+},{
+ "qs":["help"],
+ "ans":"No worries. I will help you. :D. I am a text interface programmed to answer some questions. Remember to use the question mark at the end of your sentence so I understand that you are making an actual question. My anwsers are very limited but I hope they are complete enought. Feel free to use any other channel to get ansers I don't have. Besides formal questions I have an small list of commands as well. But I prefer questions."
+},{
  "qs":["what is the answer to life and the universe and everything?"],
- "ans":"42"
+ "ans":"42. Of course."
+},{
+ "qs":[""],
+ "ans":"Only ENTER? Come on. You can do better!"
+
 }]
