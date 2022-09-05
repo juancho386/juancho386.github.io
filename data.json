@@ -26,11 +26,57 @@
  "qs":["cv"],
  "ans":"Yeah... well.. the list is too long to type it here. May be you can ask me more specific questions like: Where Juan worked? or Where Juan studied? or Which are Juan's hobbies? or What languages Juan speaks? ... things like that"
 },{
- "qs":["where juan worked?","where did juan work?"],
- "ans":"It is a very long list. Let's see if I remember them all: Telecentro 123, MTSS, Winsoft computación, RCC, Tenroses, HR Smart, -los holandeses-, Vostu, -el chabon de san isidro-, -el de los telefonos-, Northdiving Lanzarote and Monstarlab. Feel free to can ask me individually for any of them to know more. Like 'What about Telecentro 123?'"
+ "qs":["where juan worked?","where did juan work?","where do you work?","where did you work?","where do you worked?"],
+ "ans":"It is a very long list. Let's see if I remember them all: Telecentro123 (1996), MTSS (1998), Winsoft (1997), Dreamworks, RCC, Tenroses, HRSmart, Atobiz, Caddis, Vostu, Panarea, Aerius, Northdiving, Teracloud and Monstarlab. Feel free to can ask me individually for any of them to know more. Like 'What about Telecentro123?'"
+},{
+ "qs":["what about telecentro123?","what about telecentro 123?"],
+ "ans":"Telecentro 123 was the first place I have been working. Actually it was a family business and a very interesting story: When I was a kid, my mother had a backery. Business went well so she expanded to an small deli-style shop. After many years, big supermarket companies took over the city and every single small business went for bankroupt. Desperated, my mother started to look for a different business and the telephones cabines market was growing. People needs to make phonecalls but there was no landlines nor cell phones in the area; and then they went to these shops. My role there was pretty much the IT guy. Wiring, patching, installing hardware and software; and cashier."
+},{
+ "qs":["what about mtss?"],
+ "ans":"MTSS stands for Ministerio de Trabajo y Seguridad Social. It is the governamental entity that regulates legal work and social security in Argentina. It was a very temporary job because it was at the end of a very specific political period of the country. My job there was a data entry position. After the inspectors visit companies looking for ilegal work, they send their data to the department where I was to be processed."
+},{
+ "qs":["what about winsoft?","what about winsoft computación?","what about winsoft computacion?"],
+ "ans":"Formally named Winsoft Computación. It used to be a computers hardware shop in Buenos Aires downtown. By being a technician there I learnt to hate windows ;)"
+},{
+ "qs":["what about pinnacle?"],
+ "ans":"Pinnacle Systems Latam was the Latin American distribution branch of the Miro/Pinnacle graphic boards. The regional manager had the idea of creating microservices for internet necesities. The project was an absolut disaster, but it was fun and a lot of learning... And I meet my wife there."
+},{
+ "qs":["what about rcc?"],
+ "ans":"RCC stands for Red Cooperativa de Comunicaciones. It is the IT company of a very prestigious argentinian bank. What was my first full GNU/Linux job. I loved my first professional GNU contact: Redhat and Centos distros. Pure love."
+},{
+ "qs":["what about tenroses?"],
+ "ans":"TenRoses SRL was the company I have been forged. I still have many MANY good friends from there. Full of paralell thoughts and an awesome comunity, it was worthy of a best seller book. I started as frontend developer with XSL/XML. Then I moved to PHP 4 and PHP 5 which I still love. No composer nor manager's garbage. Pure love and good code. We had also a project for the Californian (USA) government; and I heard Arnold Schwarzenegger in a call once. :)"
+},{
+ "qs":["what about hrsmart?"],
+ "ans":"HR stands for human resources. HR Smart used to be a company who created a HR software in PHP 5. I was dev there. The software tryed to be awesome but the team was very inconsistent. They paid well but money was not enough. Too many people with high ego doesn't make a good place to be 8 hours per day."
+},{
+ "qs":["what about atobiz?"],
+ "ans":"AtoBiz was a developers company. The main business was getting argentinian devs and sell the product in Netherlands. The owner was a nice very tall dutch guy. Sadly the clients were unmanageable disasters"
+},{
+ "qs":["what about caddis?"],
+ "ans":"Caddis was an small project. Originally they used to sell SIM cards to small shops but one day they started to think about selling them by internet with a large platform. I got in as a Full Stack MySQL/PHP/JS/HTML dev. It was a quick job. "
+},{
+ "qs":["what about vostu?"],
+ "ans":"Vostu requires a full chapter or a full book in the IT industry library. Long story short: I started my Devops/Infra path with a very nice BI team. You know... doing some ETLs. It was a huge company. They used to make facebook farming games. But somebody made big mistakes and they were found guilty of copying copyrighted material from Singa. The entire company went bankroupt. Very sad."
+},{
+ "qs":["what about panarea?"],
+ "ans":"Panarea Digital wanted to be the first company providing learning platform for iPads in highschools and universities. I made a lot of automation and Nagios monitoring in there. I also setted up one of the first autoscalling engines in AWS before the AWS Autoscalling Group were a thing. All manual stuff. I am honestly proud of my achievements there."
+},{
+ "qs":["what about aerius?"],
+ "ans":"Aerius Tech was a project involving drones and special security cameras to guard trucks from the sky. A big argentinian crisis forced the company to close the project before it sees the day light. I built (mostly) the web interface with geo location tracking system and the cam views."
+},{
+ "qs":["what about northdiving?"],
+ "ans":"After Aerius, I decided to emigrate from Argentina. I worked as freelancer for a while and learning to be Scubadiving Instructor. With some savings and after selling my mother appartment in Buenos Aires, I bought this small diving school which I runned for almost 8 years in parallel with IT jobs."
+},{
+ "qs":["what about teracloud?"],
+ "ans":"Teracloud is a GREAT AWS Partner who welcommed me in the path of Full DevOp Engineer. I found very good friends, high quality code and a large learning path to keep growing. I'd stayed with them, but the economic situation didn't allow me to. My partner was moving to Prague and we couldn't get an agreement. Very sad. But I still have friends!"
+},{
+ "qs":["what about monstarlab?"],
+ "ans":"Monstarlab is where I am now. It is a multinational company with many good professionals of many fields. I am in the Infrastructure department. I am doing what I love the most: Bash Scripting!... and sometimes some terraform and other canned solutions."
 },{
  "qs":["where juan studied?","where did juan study?","where did you study?","where you studied?"],
  "ans":"Answer not ready yet"
+
 },{
  "qs":["which are juan's hobbies?","do you have any hobby?"],
  "ans":"Answer not ready yet"
@@ -42,5 +88,6 @@
  "ans":"Juan uses Instagram (juancho079) mostly to show toys and to have contact with other humans. There are other social media sites here and there, but not so active. The github profile is a good place to start. Try: https://github.com/juancho386"
 },{
  "qs":["contact"],
- "ans":"Telegram: https://t.me/juancho079"
+ "ans":"Do you need something more direct? Try Telegram: https://t.me/juancho079"
 }]
+
