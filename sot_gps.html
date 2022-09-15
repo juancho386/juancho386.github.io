@@ -1,0 +1,132 @@
+<!-- 
+Distribución bajo Licencia GPL 3.0
+Descargalo de:
+  https://github.com/juancho386/SeaOfThieves_GPS
+-->
+
+<meta charset="UTF-8"/>
+<input readonly="readonly" value="desde" id="tag" />
+<select onchange="set(this)" desde="">
+  <option value="">--Elige--</option>
+  <option value="q17">Ancient Spire Outpost</option>
+  <option value="v23">Ashen Reaches</option>
+  <option value="o15">Barnacle Cay</option>
+  <option value="o3">Black Sand Atoll</option>
+  <option value="r5">Black Water Enclave</option>
+  <option value="n6">Blind Man's Lagoon</option>
+  <option value="k20">Booty Isle</option>
+  <option value="g5">Boulders Cay</option>
+  <option value="y12">Brian's Bazaar</option>
+  <option value="x18">Brimstone Rock</option>
+  <option value="k14">Castaway Isle</option>
+  <option value="g10">Cannon Cove</option>
+  <option value="i16">Chicken Isle</option>
+  <option value="u14">Cinder Islet</option>
+  <option value="b9">Crecent Isle</option>
+  <option value="o11">Crooked Masts</option>
+  <option value="m16">Crook's Hollow</option>
+  <option value="o17">Crow's Nest Fortress</option>
+  <option value="y13">Cursewaters Shores</option>
+  <option value="m18">Cutlass Cay</option>
+  <option value="m8">Dagger Tooth Outpost</option>
+  <option value="p19">Devil's Ridge</option>
+  <option value="w21">Devil's Thirst</option>
+  <option value="e17">Discovery Ridge</option>
+  <option value="v12">Fetcher's Rest</option>
+  <option value="f17">Finnest Trading Post</option>
+  <option value="v19">Flame's End</option>
+  <option value="w15">Flintlock Peninsula</option>
+  <option value="i14">Fools Lagoon</option>
+  <option value="u16">Forsaken Brink</option>
+  <option value="l14">Fort of the Damned</option>
+  <option value="r8">Galeon's Grave Outpost</option>
+  <option value="z18">Glowstone Cay</option>
+  <option value="d10">Golden Sands Outpost</option>
+  <option value="i8">Hidden Spring Keep</option>
+  <option value="o9">Isle of Last Words</option>
+  <option value="k9">K-9</option>
+  <option value="k12">K-12 Arena</option>
+  <option value="c6">Keel Haul Fort</option>
+  <option value="r12">Kraken's Fall</option>
+  <option value="l6">Kraken Watchtower</option>
+  <option value="d12">Lagoon of Whispers</option>
+  <option value="s11">Liar's Backbone</option>
+  <option value="h6">Lone Cove</option>
+  <option value="g8">Lonely Isle</option>
+  <option value="i20">Lookout Point</option>
+  <option value="h17">Lost Gold Fort</option>
+  <option value="y20">Magmas Tide</option>
+  <option value="q3">Marauder's Arch</option>
+  <option value="b13">Mermaids Hideway</option>
+  <option value="n19">Mutineer Rock</option>
+  <option value="z11">Molten Sands Fortress</option>
+  <option value="v17">Morrows Peak Outpost</option>
+  <option value="n19">Mutineer Rock</option>
+  <option value="h10">North Star Seaport</option>
+  <option value="m4">Old Faithfull Isle</option>
+  <option value="f18">Old Salts Atoll</option>
+  <option value="l17">Paradise Spring</option>
+  <option value="i4">Picaroon Palms</option>
+  <option value="j18">Plunder Outpost</option>
+  <option value="g16">Plunder Valley</option>
+  <option value="q6">Plunderers Plight</option>
+  <option value="j12">Reapers Hideout</option>
+  <option value="d8">Rapier Cay</option>
+  <option value="u21">Roaring Sands</option>
+  <option value="u20">Roaring Traders</option>
+  <option value="y16">Ruby's Fall</option>
+  <option value="h9">Rum Runner Isle</option>
+  <option value="c4">Sailors Bounty</option>
+  <option value="e14">Sailors Knot Stronghold</option>
+  <option value="g3">Salty Sands</option>
+  <option value="f7">Sanctuary Oupost</option>
+  <option value="d5">Sandy Shallows</option>
+  <option value="x11">Scorched Pass</option>
+  <option value="k4">Scurvy Isley</option>
+  <option value="c11">Seadog Rest</option>
+  <option value="p5">Shark Fin Camp</option>
+  <option value="h19">Shark bait Cove</option>
+  <option value="p13">Shark Tooth Key</option>
+  <option value="m10">Shipwreck Bay</option>
+  <option value="q11">Shiver Retreat</option>
+  <option value="p9">Skull Keep</option>
+  <option value="f3">Smugglers Bay</option>
+  <option value="k16">Snake Isle</option>
+  <option value="b7">Spoils of Plenty Store</option>
+  <option value="l16">Stephen's Spoils</option>
+  <option value="p7">Sunken Grove</option>
+  <option value="l20">Thieves Heaven</option>
+  <option value="s9">Three Paces East Seapost</option>
+  <option value="r10">Tri-rock Isle</option>
+  <option value="h11">Twin Groves</option>
+  <option value="f12">Wanderers Refuge</option>
+  <option value="o4">Wild Treassure Store</option>
+</select>
+
+<script>
+function set(obj) {
+  var desde=obj.getAttribute("desde")
+  if (desde=="") { // primera
+    document.getElementById("tag").value="hasta"
+    obj.setAttribute("d",obj.options[obj.selectedIndex].text)
+    obj.setAttribute("desde",obj.value)
+  }else{ // segunda
+    var x1=desde.charCodeAt(0)
+    var x2=obj.value.charCodeAt(0)
+    var x=Math.pow(x1-x2,2)
+    var y1=1*desde.substr(1)
+    var y2=1*obj.value.substr(1)
+    var y=Math.pow(y1-y2,2)
+    var dist=Math.sqrt(x+y)
+    var dir=""
+    if(y1<y2) dir+="S"
+    if(y1>y2) dir+="N"
+    if(x1<x2) dir+="E"
+    if(x1>x2) dir+="W"
+    alert("Ir desde "+obj.getAttribute("d")+"\nhasta "+obj.options[obj.selectedIndex].text+"\nDireccion inicial: "+dir+"\nDistancia: "+dist.toString().substring(0,4)+" cuadraditos")
+    document.getElementById("tag").value="desde"
+    obj.setAttribute("desde","")
+    obj.selectedIndex="0"
+  }
+}
+</script>
