@@ -6,10 +6,9 @@
 <body onclick="getit()">
 Click here
 <script type="module">
-	async function getit() {
-		let cv = await fetch("data.json");
-		console.log(cv)
-	}
+	fetch("data.json")
+		.then(res =>res.json())
+		.then(json=>console.log(json)
 
 </script>
 </body>
