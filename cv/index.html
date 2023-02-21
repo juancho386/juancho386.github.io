@@ -4,11 +4,12 @@
 	<title>Juan Eduardo Castaño Nestares - Curriculum Vitae</title>
 </head>
 <body>
-Click here
 <script type="module">
 	fetch("data.json")
 		.then(res =>res.json())
-		.then(json=>console.log(json))
+		.then(json=>function(json){
+			console.log(json.data)
+		})
 
 </script>
 </body>
