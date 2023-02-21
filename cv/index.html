@@ -7,7 +7,7 @@
 <script type="module">
 	fetch("data.json")
 		.then(res =>res.json())
-		.then(json=>function(json){
+		.then(json=>{
 			console.log(json.data)
 		})
 
