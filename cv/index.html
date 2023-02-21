@@ -3,15 +3,14 @@
 <head>
 	<title>Juan Eduardo Castaño Nestares - Curriculum Vitae</title>
 </head>
-<body>
+<body onclick="getit()">
 Click here
 <script type="module">
 	async function getit() {
-		document.cv = await fetch("data.json");
+		let cv = await fetch("data.json");
+		console.log(cv)
 	}
-	getit()
-	alert(1)
-	console.log(document.cv)
+
 </script>
 </body>
 </html>
