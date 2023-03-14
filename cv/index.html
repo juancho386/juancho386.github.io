@@ -11,13 +11,13 @@
 		}
 	}
 
-	const response = await fetch("data.json", {
+	document.the_document = await fetch("data.json", {
 		method: 'GET',
 		headers: {
 			'Accept': 'application/json'
 		}
 	})
-	show(response)
+	show(document.the_document)
 
 </script>
 </body>
