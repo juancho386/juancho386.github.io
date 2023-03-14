@@ -5,12 +5,16 @@
 </head>
 <body>
 <script type="module">
+	function show(obj) {
+		for (i=0,j=obj.length; i<j; i++) {
+			console.log(obj.data[i])
+		}
+	}
+
 	fetch("data.json")
 		.then(res =>res.json())
 		.then(json=>{
-			for (i=0,j=json.data.length; i<j; i++) {
-				console.log(json.data[i])
-			}
+			show(json)
 		})
 
 </script>
