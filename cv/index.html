@@ -8,7 +8,9 @@
 	fetch("data.json")
 		.then(res =>res.json())
 		.then(json=>{
-			console.log(json.data)
+			for (i=0,j=json.data.length; i<j; i++) {
+				console.log(json.data[i])
+			}
 		})
 
 </script>
