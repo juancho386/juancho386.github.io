@@ -2,7 +2,6 @@
 <html>
 <head>
 	<title>Juan Eduardo Castaño Nestares - Curriculum Vitae</title>
-	<meta http-equiv="Permissions-Policy" content="interest-cohort=()">
 </head>
 <body>
 <script type="module">
@@ -12,11 +11,13 @@
 		}
 	}
 
-	fetch("data.json")
-		.then(res =>res.json())
-		.then(json=>{
-			show(json)
-		})
+	const response = await fetch("data.json", {
+		method: 'GET',
+		headers: {
+			'Accept': 'application/json'
+		}
+	})
+	show(json)
 
 </script>
 </body>
