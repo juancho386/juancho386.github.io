@@ -11,13 +11,24 @@
 		}
 	}
 
-	document.the_document = await fetch("data.json", {
-		method: 'GET',
-		headers: {
-			'Accept': 'application/json'
-		}
-	})
 	show(document.the_document)
+	const doAjax = async () => {
+		const response = await fetch("data.json",{
+			method: 'GET',
+			headers: {
+				'Accept': 'application/json'
+			}
+		});
+		if (response.ok) {
+			const jsonValue = await response.json();
+			document.cv = jsonValue;
+			return Promise.resolve(jsonValue);
+		} else {
+			return Promise.reject("*** it didn't work ***");
+  		}
+	};
+
+	doAjax().then(show)
 
 </script>
 </body>
