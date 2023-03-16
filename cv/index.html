@@ -21,8 +21,9 @@
 		});
 		if (response.ok) {
 			const jsonValue = await response.json();
-			document.cv = jsonValue;
-			return Promise.resolve(jsonValue);
+			const result = Promise.resolve(jsonValue);
+			document.cv = result
+			return result
 		} else {
 			return Promise.reject("*** it didn't work ***");
   		}
