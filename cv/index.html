@@ -11,7 +11,6 @@
 		}
 	}
 
-	show(document.the_document)
 	const doAjax = async () => {
 		const response = await fetch("data.json",{
 			method: 'GET',
@@ -29,6 +28,7 @@
 
 	doAjax().then(json => {
 		document.cv = json
+		show(document.cv)
 	})
 
 </script>
