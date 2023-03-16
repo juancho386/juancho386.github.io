@@ -5,7 +5,12 @@
 </head>
 <body>
 <script type="module">
+	function err() {
+		alert(err)
+	}
+
 	function show(obj) {
+		document.cv = obj
 		for (let i=0,j=obj.length; i<j; i++) {
 			console.log(obj.data[i])
 		}
@@ -26,11 +31,7 @@
   		}
 	};
 
-	doAjax().then(console.log)
-	/*(json) => {
-		document.cv = json
-		show(document.cv)
-	})*/
+	doAjax().then(show).catch(err)
 
 </script>
 </body>
