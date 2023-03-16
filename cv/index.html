@@ -21,15 +21,15 @@
 		});
 		if (response.ok) {
 			const jsonValue = await response.json();
-			const result = Promise.resolve(jsonValue);
-			document.cv = result
-			return result
+			return Promise.resolve(jsonValue);
 		} else {
 			return Promise.reject("*** it didn't work ***");
   		}
 	};
 
-	doAjax().then(show)
+	doAjax().then(json => {
+		document.cv = json
+	})
 
 </script>
 </body>
