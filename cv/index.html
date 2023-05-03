@@ -6,51 +6,27 @@
 	<link href="styles.css" rel="stylesheet" type="text/css"></link>
 </head>
 <body>
+<script src="./draw.js" />
 <script type="module">
-/*
-n deploy($obj,$level=1){
-		$level=(integer)$level;
-		$h=($level>5?5:$level);
-		if (substr($obj->name,0,1)=='@') return true;
-		echo '<div class="'.strtolower(str_replace(array(' '),'_',$obj->name)).'">';
-		if ($obj->value) {
-			if (isset($obj->name)) {
-				echo '<div><span>'.$obj->name.': </span><span>';
-				if(isset($obj->link))
-					echo '<a href="'.$obj->link.'" target="_blank">'.$obj->value.'</a>';
-				else
-					echo $obj->value;
-				echo '</span></div>';
-			} else
-				echo '<div>'.$obj->value.'</div>';
-		}
-		if ($obj->image) { echo '<img src="'.$obj->image.'" title="'.$obj->name.'" />'; }
-		if ($obj->items) {
-			echo '<h'.$h.'>'.$obj->name.'</h'.$h.'>';
-			echo '<div>';
-			foreach ($obj->items as $item)
-				deploy($item, ($level+1) );
-			echo '</div>';
-		}
-		if ($obj->list) {
-			echo '<h'.$h.'>'.$obj->name.'</h'.$h.'>';
-			echo '<ul>';
-			foreach ($obj->list as $item)
-				echo '<li>'.$item.'</li>';
-			echo '</ul>';
-		}
-		echo '</div>';
-	}
-
-*/
 	function err(err) {
 		alert(err)
 	}
 
 	function show(obj) {
-		document.cv = obj.data
-		for (let i=0,j=obj.data.length; i<j; i++) {
-			console.log(obj.data[i])
+		var d=document.getElementById("body")[0]
+
+		var h1=document.createElement("h1")
+		h1.appendChild(document.createTextNode(obj.name))
+		d.appendChild(h1)
+
+		var img=document.createElement("img")
+		const src=document.createAttribute("src")
+		src.value=obj.image
+		img.setAttributeNode(src)
+		d.appendChild(img)
+
+		for (let i=0,j=obj.items.length; i<j; i++) {
+			deploy(d,obj.items[i],2)
 		}
 	}
 
