@@ -1,43 +1,56 @@
 {"cv":{
-	"title":"Juan Eduardo Casta&ntilde;o Nestares :: Curriculum Vitae",
-	"name":"Casta&ntilde;o Nestares, Juan Eduardo",
-	"image":"JuanCV2.jpg",
+	"name":"Casta\u00f1o Nestares, Juan Eduardo",
 	"items":[
-		{"name":"Contacto","items":[
+		{"name":"Contact","items":[
 			{"name":"email","value":"juan+cv@h2obuceo.com","link":"mailto:juan+cv@h2obuceo.com"},
 			{"name":"Telegram ID","value":"Juancho079","link":"https://t.me/Juancho079"}
 		]},
-		{"name":"Datos Personales","items":[
-			{"name":"Fecha de Nacimiento", "value":"19/Abril/79"},
-			{"name":"Genero","value":"Masculino (he-his-him)"},
-			{"name":"@Estado civil","value":"Divorciado"},
-			{"name":"@Hijos","value":"Dos"},
-			{"name":"Current Recidence","value":"Praha 3, Czech Republic"}
+		{"name":"me","items":[
+			{"name":"Born", "value":"April 1979 in Argentina"},
+			{"name":"Gender","value":"Male (he-his-him)"},
+			{"name":"Current Residence","value":"Praha 3, Czech Republic"}
 		]},
-		{"name":"Idiomas","items":[
-			{"name":"Español","value":"Nativo"},
-			{"name":"Inglés","value":"(C1) Fluido. Oral y escrito"},
-			{"name":"Italiano","value":"(A1) Oral básico"}
+		{"name":"Languages","items":[
+			{"name":"Espa\u00f1ol","value":"Nativo"},
+			{"name":"English","value":"(C1) Fluent"},
+			{"name":"Italiano","value":"(A1) Orale, essenziale"}
 		]},
-		{"name":"Experiencia laboral","items":[
+		{"name":"Tools", "items":[
+			{"name":"Linux Bash scripting","value":"Creating and maintainig scripts since 1994."},
+			{"name":"Terraform IaaC","value":"I can create scripts and modules; and apply them in hot."},
+			{"name":"AWS Cloud computing","value":""},
+			{"name":"","value":""},
+			{"name":"","value":""},
+			{"name":"","value":""},
+			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
+			{"name":"Git","value":""}
+		]},
+		{"name":"Previous jobs","items":[
+			{"name":"Monstarlab CZ","items":[
+				{"name":"Period","value":"Feb 2021 - Today"},
+				{"name":"As","value": "Infrastructure Engineer (level 2)"},
+				{"name":"Doing","list":[
+					"Security on AWS, replacing key acceses with OIDC and SSM integrations.",
+					"Improving Terraform for the IaaC of several clients.",
+					"Bash Scripting complex deployment processes.",
+					"Creating and editing expert entries about technology for the company blog.",
+					"Moving client infrastructure to serverless mode."
+				]}
+			]},
 			{"name":"Teracloud-io","items":[
-				{"name":"Desde","value":"Mayo 2020"},
-				{"name":"Hasta","value":"Hoy"},
-				{"name":"Tecnologías","value": "Terraform, Amazon Web Services, Bash scripting, Git, Docker, Jira, Confluence"},
-				{"name":"Engineering","items":[
-					{"name":"URL","value":"https://www.teracloud.io","link":"https://www.teracloud.io"},
-					{"name":"Cargo","value":"DevOp Engineer"},
-					{"name":"Logros","list":[
-						"Creación y mantenimiento de IaaC",
-						"Servicio de salas estáticas de videoconferencia",
-						"Implementación de sistemas de CVE findings y bugtracking para CI/CD",
-						"Responsable de varias notas de prensa positivas para la compañia"
-					]}
+				{"name":"Period","value":"May 2020 - Feb 2021"},
+				{"name":"As","value": "Devop Engineer"},
+				{"name":"Doing","list":[
+					"Terraform IaaC creation and maintenance",
+					"Internal communication product responsible and developer",
+					"Implementing CVE findings y bugtracking",
+					"CI/CD scripts deployments and Jenkins server mainteinance",
+					"Technical blog entries for the company"
 				]}
 			]},
 			{"name":"Northdiving Lanzarote","items":[
-				{"name":"Desde","value":"Julio 2015"},
-				{"name":"Hasta","value":"Hoy"},
+				{"name":"Period","value":"Jul 2015 - Jun 2020"},
+				{"name":"As","value":"Owner / Partner"},
 				{"name":"Tecnologías","value": "RaspberryPI, MontionEYE, GNU/Linux Ubuntu, svn, Bash, Apache, PHP, HTML5, CSS3, Javascript, jQuery, AJAX, DER, MySQL, Telegram API, KDEnLive, gimp"},
 				{"name":"Engineering","items":[
 					{"name":"URL","value":"https://www.northdivinglanzarote.com","link":"https://www.northdivinglanzarote.com"},

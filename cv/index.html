@@ -13,21 +13,20 @@
 	}
 
 	function show(rawObj) {
-console.log(rawObj)
 		const obj=rawObj.cv
 		var d=document.getElementsByTagName("body")[0]
 
 		var h1=document.createElement("h1")
-console.log(obj.name)
 		h1.appendChild(document.createTextNode(obj.name))
-
 		d.appendChild(h1)
 
+		/* removing the image ... just because
 		var img=document.createElement("img")
 		const src=document.createAttribute("src")
 		src.value=obj.image
 		img.setAttributeNode(src)
 		d.appendChild(img)
+		*/
 
 		for (let i=0,j=obj.items.length; i<j; i++) {
 			deploy(d,obj.items[i],2)
@@ -54,3 +53,4 @@ console.log(obj.name)
 </script>
 </body>
 </html>
+

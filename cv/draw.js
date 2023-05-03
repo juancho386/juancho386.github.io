@@ -16,6 +16,12 @@ function deploy(parentNode,obj,level) {
 			spanKey.appendChild(document.createTextNode(obj.name + ": " ))
 			div.appendChild(spanKey)
 		}
+		if ("link" in obj) {
+			const a=document.createElement("a")
+			const href=document.createAttribute("href")
+			href.value=obj.link
+			spanValue.appendChild(link)
+		}
 		div.appendChild(spanValue)
 		parentNode.appendChild(div)
 	}
