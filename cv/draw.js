@@ -10,7 +10,7 @@ function deploy(parentNode,obj,level) {
 	if ("value" in obj) {
 		const div=document.createElement("div")
 		const spanValue=document.createElement("span")
-		spanValue.appendChild(document.createTextNode(obj.value))
+
 		if ("name" in obj) {
 			const spanKey=document.createElement("span")
 			spanKey.appendChild(document.createTextNode(obj.name + ": " ))
@@ -21,7 +21,10 @@ function deploy(parentNode,obj,level) {
 			const href=document.createAttribute("href")
 			href.value=obj.link
 			a.setAttributeNode(href)
+			a.appendChild(document.createTextNode(obj.value))
 			spanValue.appendChild(a)
+		}else{
+			spanValue.appendChild(document.createTextNode(obj.value))
 		}
 		div.appendChild(spanValue)
 		parentNode.appendChild(div)
