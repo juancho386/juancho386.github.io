@@ -12,7 +12,8 @@
 		alert(err)
 	}
 
-	function show(obj) {
+	function show(rawObj) {
+		const obj=rawObj.cv
 		var d=document.getElementById("body")[0]
 
 		var h1=document.createElement("h1")
