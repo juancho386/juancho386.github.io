@@ -43,7 +43,7 @@ function deploy(parentNode,obj,level) {
 		parentNode.appendChild(div)
 	}
 	if ("list" in obj) {
-		const title=document.createElement("h"+level)
+		const title=document.createElement("span")
 		title.appendChild(document.createTextNode(obj.name))
 		parentNode.appendChild(title)
 		var ul=document.createElement("ul")
