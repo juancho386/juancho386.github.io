@@ -19,8 +19,11 @@ function deploy(parentNode,obj,level) {
 		if ("link" in obj) {
 			const a=document.createElement("a")
 			const href=document.createAttribute("href")
+			const target=document.createAttribute("target")
 			href.value=obj.link
+			target.value="_blank"
 			a.setAttributeNode(href)
+			a.setAttributeNode(target)
 			a.appendChild(document.createTextNode(obj.value))
 			spanValue.appendChild(a)
 		}else{
