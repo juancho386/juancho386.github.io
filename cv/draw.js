@@ -20,7 +20,8 @@ function deploy(parentNode,obj,level) {
 			const a=document.createElement("a")
 			const href=document.createAttribute("href")
 			href.value=obj.link
-			spanValue.appendChild(link)
+			a.setAttributeNode(href)
+			spanValue.appendChild(a)
 		}
 		div.appendChild(spanValue)
 		parentNode.appendChild(div)
