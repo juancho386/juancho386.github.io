@@ -160,13 +160,15 @@
 				]}
 			]}
 		]},
-		{"name":"Trainings and studies", "list":[
-			"Robotics, Buenos Aires, Argentina",
-			"Analista de sistemas, I.S.F.D. y T.#114, José G. Tupac Amarú II, Buenos Aires, Argentina",
-			"Técnico en Computación, Escuela de Educación Técnica Nro 5, Buenos Aires, Argentina",
-			"Professional Scuba Instructors Trainer",
-			"Emergency First Response Instructor",
-			"Patrón de Yate, Canarias, España"
+		{"name":"Trainings and studies", "items":[
+			{"name":"Robotics, Buenos Aires, Argentina"},
+			{"name":"AWS Cloud Practitioner"},
+			{"name":"Analista de sistemas, I.S.F.D. y T.#114, José G. Tupac Amarú II, Buenos Aires, Argentina"},
+			{"name":"Técnico en Computación, Escuela de Educación Técnica Nro 5, Buenos Aires, Argentina"},
+			{"name":"Professional Scuba Instructors Trainer"},
+			{"name":"Emergency First Response Instructor"},
+			{"name":"Patrón de Embarcaciones Recreativas, Canarias, España"},
+			{"name":"Patrón de Yate, Canarias, España"}
 		]}
 	]}
 }
