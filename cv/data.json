@@ -135,7 +135,7 @@
 			{"name":"Red Cooperativa de Comunicaciones", "items":[
 				{"name":"Period","value":"Aug 2006 - Apr 2007"},
 				{"name":"As","value":"Analist, DBA and Developer"},
-				{"name":"Doing", "items":[
+				{"name":"Doing", "list":[
 					"ATM software for Banco Credicoop bank",
 					"Autodocumentation engines",
 					"Moving technologies to Open Source (ASP to PHP and Flash to Javascript)",
@@ -146,12 +146,9 @@
 			{"name":"Easy Trade Group SRL", "items":[
 				{"name":"Period","value":"Apr 2005 - Aug 2005"},
 				{"name":"As","value":"Analist and Developer"},
-				{"name":"e-Commerce solutions", "items":[
-					{"name":"URL","value":"http://www.easytradegroup.com/"},
-					{"name":"Cargo","value":"Analista de sistemas, Database administrator y Developer"},
-					{"name":"Doing","list":[
-						"Design of e-commerce product from scratch",
-						"Delphi development: Product catalog on CDROM"]}
+				{"name":"Doing","list":[
+					"Design of e-commerce product from scratch",
+					"Delphi development: Product catalog on CDROM"
 				]}
 			]},
 			{"name":"Pinnacle Systems Latin America", "items":[
