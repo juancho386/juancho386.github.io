@@ -13,21 +13,20 @@
 		{"name":"Languages","items":[
 			{"name":"Espa\u00f1ol","value":"Nativo"},
 			{"name":"English","value":"(C1) Fluent"},
-			{"name":"Italiano","value":"(A1) Orale, essenziale"}
+			{"name":"Italiano","value":"(A1) Orale, di base"}
 		]},
-		{"name":"Tools", "items":[
-			{"name":"Linux Bash scripting","value":"Creating and maintainig scripts since 1994."},
+		{"name":"Competenses", "items":[
+			{"name":"Bash scripting","value":"Creating and maintainig scripts since 1994."},
 			{"name":"Terraform IaaC","value":"I can create scripts and modules; and apply them in hot."},
-			{"name":"AWS Cloud computing","value":""},
-			{"name":"","value":""},
-			{"name":"","value":""},
-			{"name":"","value":""},
+			{"name":"AWS Cloud computing","value":"I have been crating and deploying infrastructure since 2013 using many AWS products."},
+			{"name":"SQL","value":"Creating complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and MS."},
 			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
-			{"name":"Git","value":""}
+			{"name":"Web development","value":"PHP programmer since PHP3. Real Fullstack developer."},
+			{"name":"Git","value":"CICD deployment script creation. Alternative actions using Github API calls."}
 		]},
 		{"name":"Previous jobs","items":[
 			{"name":"Monstarlab CZ","items":[
-				{"name":"Period","value":"Feb 2021 - Today"},
+				{"name":"Period","value":"Feb 2022 - Today"},
 				{"name":"As","value": "Infrastructure Engineer (level 2)"},
 				{"name":"Doing","list":[
 					"Security on AWS, replacing key acceses with OIDC and SSM integrations.",
@@ -38,307 +37,139 @@
 				]}
 			]},
 			{"name":"Teracloud-io","items":[
-				{"name":"Period","value":"May 2020 - Feb 2021"},
+				{"name":"Period","value":"May 2020 - Feb 2022"},
 				{"name":"As","value": "Devop Engineer"},
 				{"name":"Doing","list":[
-					"Terraform IaaC creation and maintenance",
-					"Internal communication product responsible and developer",
-					"Implementing CVE findings y bugtracking",
-					"CI/CD scripts deployments and Jenkins server mainteinance",
-					"Technical blog entries for the company"
+					"Terraform IaaC creation and maintenance.",
+					"Internal communication product responsible and developer.",
+					"Implementing CVE findings y bugtracking.",
+					"CI/CD scripts deployments and Jenkins server mainteinance.",
+					"Mainteinance of Serverless deployed products.",
+					"Technical blog entries for the company."
 				]}
 			]},
 			{"name":"Northdiving Lanzarote","items":[
 				{"name":"Period","value":"Jul 2015 - Jun 2020"},
 				{"name":"As","value":"Owner / Partner"},
-				{"name":"Tecnologías","value": "RaspberryPI, MontionEYE, GNU/Linux Ubuntu, svn, Bash, Apache, PHP, HTML5, CSS3, Javascript, jQuery, AJAX, DER, MySQL, Telegram API, KDEnLive, gimp"},
-				{"name":"Engineering","items":[
-					{"name":"URL","value":"https://www.northdivinglanzarote.com","link":"https://www.northdivinglanzarote.com"},
-					{"name":"Cargo","value":"FullStack Engineer"},
-					{"name":"Logros","list":[
-						"Sistema de vigilancia basado en RaspberryPI y software Open Source",
-						"Desarrollo de software de turismo incluyendo vuelos, estadías y actividades",
-						"Desarrollo de sitio web principal",
-						"Sistema de alertas y logs de actividades a traves de la API de Telegram",
-						"Edición de fotos y videos",
-						"Sistema interno de mensajería bulk",
-						"Configuración de SEO y Apache redirects"
-					]}
+				{"name":"Doing","list":[
+					"Owner and partner of a diving center.",
+					"Scuba and snorkeling trips planning and excecution.",
+					"Professional scubadivers and scuba instructor courses.",
+					"Survillance system based on ARM and open source technologies.",
+					"CRUD system for the company including customers flights, profiles and scuba history activity.",
+					"Main website development in raw PHP -no frameworks-.",
+					"Communications and alert system creation using Telegram API.",
+					"Photo and video edition (GNU tools).",
+					"SEO and Apache redirect configuration."
 				]}
 			]},
 			{"name":"AeriusTech SRL","items":[
-				{"name":"Desde","value":"Junio 2014"},
-				{"name":"Hasta","value":"Mayo 2015"},
-				{"name":"Tecnologías","value": "Wikimedia, RaspberryPI, Python 2.6, GNU/Linux Ubuntu, svn, Bash, Apache, PHP, HTML5, CSS3, Javascript, jQuery, AJAX, MySQL"},
-				{"name":"Aerius survillance","items":[
-					{"name":"URL","value":"https://www.aeriustech.com/"},
-					{"name":"Cargo","value":"Desarrollador Sysadmin"},
-					{"name":"Logros","list":[
-						"Programación de Drones de vigilancia tipo A1",
-						"Desarrollo de software de monitoreo de vehículos",
-						"Interfaz WEB para el control de drones. Desarrollo FullStack",
-						"Desarrollo de software de control de cámaras en Raspberry Pi",
-						"Documentación institucional y procedural"
-					]}
+				{"name":"Period","value":"Jun 2014 - May 2015"},
+				{"name":"As","value":"Sysadmin / Senior Web Developer"},
+				{"name":"Doing","list":[
+					"A1 Survillance drone programming.",
+					"Vehicle monitoring software development."
 				]}
 			]},
 			{"name":"Panarea Digital","items":[
-				{"name":"Desde","value":"Enero 2013"},
-				{"name":"Hasta","value":"Mayo 2014"},
-				{"name":"Tecnologías","value": "GNU/Linux Ubuntu, svn, git, AWS, Bash, awk, Apache, Nagios, Crontab"},
-				{"name":"Nearpod","items":[
-					{"name":"URL","value":"http://www.nearpod.com"},
-					{"name":"Cargo","value":"Sysadmin"},
-					{"name":"Logros","list":[
-						"Implementación de API de Amazon para Route53, S3, IAM, EC2, AMI, Cloudwatch, DynamoDB, AutoScaling",
-						"Automatización de escalabilidad horizontal",
-						"Scripting en PHP, PHP-CLI y BASH",
-						"Administración de Syslog-server",
-						"Mejoras de la arquitectura del sistema en pos de la seguridad y escalabilidad",
-						"Monitoreo de servidores con Nagios y Ganglia",
-						"Mejoras de las queries de MySQL para mejorar el tiempo de respuesta de la aplicación"
-					]}
+				{"name":"Period","value":"Jan 2013 - May 2014"},
+				{"name":"As","value": "Sysadmin"},
+				{"name":"Doing","list":[
+					"Implementing monitoring and autoscalling features.",
+					"Syslog server.",
+					"Monitoring system implementation Nagios y Ganglia.",
+					"MySQL queries rewriting for timing response improvement."
 				]}
 			]},
 			{"name":"Vostu SA","items":[
-				{"name":"Desde","value":"Julio 2011"},
-				{"name":"Hasta","value":"Febrero 2012"},
-				{"name":"Tecnologías","value": "GNU/Linux Ubuntu, Bash, Python, Apache, PHP, HTML5, CSS3, svn, MySQL, Vertica SQL, Microstrategy, Nagios"},
-				{"name":"Business Inteligence","items":[
-					{"name":"URL","value":"http://www.vostu.com"},
-					{"name":"Cargo","value":"SQL Scripter - Operations"},
-					{"name":"Logros","list":[
-						"Administración de accesos a máquinas virtuales, servidores SSH y bases de datos",
-						"Configuración de Nagios para monitoreo de servidores",
-						"Instalación y mantenimiento de Kiosks con Thinclients abaratando miles de dolares en costos",
-						"Instalar Microstrategy Intelligence Server en sistemas Linux no homologados",
-						"Creación de un sistema WEB de marketing interno",
-						"Monitoreo de servidores de bases de datos Vertica y MySQL",
-						"Generar automáticamente documentación sobre los permisos de accesos otorgados a las distintas bases de datos",
-						"Mejorar el proceso de ETL para el equipo de Analistas / Data Minners"
-					]}
+				{"name":"Period","value":"Jul 2011 - Feb 2012"},
+				{"name":"As","value":"SQL Scripter - BI Operations"},
+				{"name":"Doing","list":[
+					"Sysadmin role for BI team. VM, SSH and DB access manager.",
+					"Installing and maintenance of Kiosks Thinclients interfases for cost reduction.",
+					"Microstrategy Intelligence Server instalations on non-supported Linux systems.",
+					"Internal web marketing creation.",
+					"Vertica and MySQL databases management.",
+					"Autodocumentation scripts creation to keep tranking of granted permissons across the system.",
+					"Asistance on ETL procs to Data Minners."
 				]}
 			]},
 			{"name":"Caddis SRL","items":[
-				{"name":"Desde","value":"Marzo 2011"},
-				{"name":"Hasta","value":"Julio 2011"},
-				{"name":"Tecnologías","value": "GNU/Linux Ubuntu, Apache, PHP5, xHTML4.1, CSS2, svn, MySQL, jQuery"},
-				{"name":"Caddis Gestion","items":[
-					{"name":"URL","value":"http://www.caddis.com.ar"},
-					{"name":"Cargo","value":"Senior Developer"},
-					{"name":"Logros","list":[
-						"Desarrollo MVC de sistema procedural en PHP",
-						"Reducción de consultas a bases de datos en un 85%",
-						"Implementación jQuery"
-					]}
+				{"name":"Period","value":"Mar 2011 - Jul 2011"},
+				{"name":"As","value":"Developer"},
+				{"name":"Doing","list":[
+					"PHP MVC system development.",
+					"SQL queries calls reduction (85%).",
+					"jQuery implementation."
 				]}
 			]},
 			{"name":"Atobiz SRL","items":[
-				{"name":"Desde","value":"Diciembre 2009"},
-				{"name":"Hasta","value":"Agosto 2010"},
-				{"name":"Tecnologías","value":"GNU/Linux Ubuntu, Windows XP, Bash, sh, OpenBSD, Apache, SOAP, PHP, MySQL, jQuery, CSS, SVN, MVC Custom Framework"},
-				{"name":"TransIP Datacenter","items":[
-					{"name":"URL","value":"http://www.transip.nl"},
-					{"name":"Cargo","value":"Senior Developer"},
-					{"name":"Logros","list":[
-						"Desarrollo de API para medición de consumo de energía.",
-						"Planemiento y desarrollo de projectos con el cliente viviendo en Holanda por 3 meses.",
-						"Aplicación e-Commerce con manejo de tarjetas de crédito",
-						"Wrapper de fusion entre diferentes versiones de API pública"
-					]}
+				{"name":"Period","value":"Dec 2009 - Aug 2010"},
+				{"name":"As","value":"Senior Developer"},
+				{"name":"Doing","list":[
+					"API development to control the TransIP datacenter energy consumption.",
+					"Move to Netherlands offices for a limited amount of time to work in the client's offices.",
+					"Credit card e-Commerce app planning and development."
 				]}
 			]},
 			{"name":"HRSmart SRL","items":[
-				{"name":"Desde","value":"Abril 2009"},
-				{"name":"Hasta","value":"Noviembre 2009"},
-				{"name":"Tecnologías","value":"GNU/Linux Ubuntu, Bash, sh, Apache, SOAP, PHP, Smarty, MySQL, CSS, SVN, CVS, Framework MVC propio del cliente, Metodologías ágiles"},
-				{"name":"Desarrollo customizado para Clientes", "items":[
-					{"name":"URL","value":"http://www.hrsmart.com/"},
-					{"name":"Cargo","value":"Senior developer"},
-					{"name":"Clientes a mi cargo","value":"Doctor Pepper, SUNOCO, Drexel University, Northern Foods"},
-					{"name":"Logros", "list":[
-						"Modificaciones especiales del sistema según los pedidos de customización"
-					]}
+				{"name":"Period","value":"Apr 2009 - Nov 2009"},
+				{"name":"As","value":"Developer"},
+				{"name":"Doing", "list":[
+					"Doctor Pepper, SUNOCO, Drexel University, Northern Foods HR systems deployment",
+					"Custom software modification per requests"
 				]}
 			]},
 			{"name":"TenRoses SRL","items":[
-				{"name":"Desde","value":"Abril 2007"},
-				{"name":"Hasta","value":"Marzo 2009"},
-				{"name":"Tecnologías","value":"GNU/Linux Debian, Bash, sh, Apache, XML-RPC, XSL, PHP, xHTML4.1, CSS2, Javascript, Codeigniter, CSS, SVN, SEO, Prototype, jQuery, AJAX, YahooUI"},
-				{"name":"Zumbox", "items": [
-					{"name":"URL","value":"http://www.zumbox.com/"},
-					{"name":"Cargo","value":"Developer"},
-					{"name":"Logros", "list":[
-						"Desarrollo frontend del sitio",
-						"Configuración de redirect y load balancing de Apache web server",
-						"Portar esquema frontend de XSL a PHP con Codeigniter",
-						"Implementación AJAX con jQuery",
-						"Implementación de capa de seguridad entre backend Java y frontend XSL",
-						"Implementación de Rewrite Rules para Apache",
-						"Optimización SEO"
-					]}
-				]},
-				{"name":"Ubbi Musica","items":[
-					{"name":"URL","value":"http://www.ubbimusica.com/"},
-					{"name":"Cargo","value":"Developer"},
-					{"name":"Logros", "list":["Adaptar Frontend de Cyloop.com para embeberlo como canal de música"]}
-				]},
-				{"name":"Warner TV - España", "items":[
-					{"name":"URL","value":"http://www.warnertv.es"},
-					{"name":"Cargo","value":"Developer"},
-					{"name":"Logros","list":[
-						"Desarrollo de Canal Música",
-						"Integración AJAX para streaming de música y video",
-						"Implementación de Rewrite Rules de Apache"
-					]}
-				]},
-				{"name":"Canal MUSICA para Terra.es", "items":[
-					{"name":"URL","value":"http://musica.terra.es"},
-					{"name":"Cargo","value":"Developer"},
-					{"name":"Logros","list":["Adaptación estructural del sitio multimedia existente para que funcione como el canal primario de música de Terra en España"]}
-				]},
-				{"name":"Cyloop", "items":[
-					{"name":"URL","value":"http://www.cyloop.com/"},
-					{"name":"Cargo","value":"Developer"},
-					{"name":"Logros","list":[
-						"Desarrollo de paneles flotantes para usuarios y artistas",
-						"Adaptación SEO",
-						"Implementación de AJAX"
-					]}
-				]},
-				{"name":"Warner Musica Latinoamerica", "items":[
-					{"name":"URL","value":"http://www.miwml.com/"},
-					{"name":"Cargo","value":"Developer"},
-					{"name":"Logros","list":[
-						"Módulo principal de noticias",
-						"Frontend especial customizado para Alejandro Sanz, Laura Pausini, Mana, Luis Miguel, Miguel Bose y Motel"
-					]}
-				]},
-				{"name":"elHood", "items":[
-					{"name":"URL","value":"http://www.elhood.com/"},
-					{"name":"Cargo","value":"Analista de sistemas y developer"},
-					{"name":"Logros","list":[
-						"Personalización de la página principal de Pilar Montenegro",
-						"Customización para Video streaming",
-						"Motor de Surveys",
-						"Frontend Javascript del Music player"
-					]}
+				{"name":"Period","value":"Apr 2007 - Mar 2009"},
+				{"name":"As","value":"Developer"},
+				{"name":"Doing", "items": [
+					"Projects list: Zumbox, Ubbi Musica, Warner TV España, Terra.es, Cyloop and elHood",
+					"XSL frontend development",
+					"Apache webserver configuration",
+					"AJAX implementation",
+					"SEO Optimization",
+					"Custom music channel maintenance for Alejandro Sanz, Laura Pausini, Mana, Luis Miguel, Miguel Bose y Motel"
 				]}
 			]},
 			{"name":"Red Cooperativa de Comunicaciones", "items":[
-				{"name":"Desde","value":"Agosto 2006"},
-				{"name":"Hasta","value":"Abril 2007"},
-				{"name":"Tecnologías","value":"GNU/Linux Redhat, Apache, PHP, HTML, CSS, XOOPs, Smarty, DER, MySQL, Microsoft SQL Server 2000, MySQL"},
-				{"name":"Credicoop Bank", "items":[
-					{"name":"URL","value":"http://www.bancocredicoop.coop"},
-					{"name":"Cargo","value":"Analista de sistemas, DBA y Developer"},
-					{"name":"Logros","list":[
-						"Creación de módulos principales para el banco como búsqueda de cajeros, busqueda de subsidiarias y de sucursales",
-						"Documentación integrada",
-						"Traduccion de código antiguo en ASP a PHP, y de Flash a Javascript con mapeo de imágenes"
-					]}
-				]},
-				{"name":"Candidatura de Heller para gobernador", "items":[
-					{"name":"URL","value":"http://www.hellerenlaciudad.coop"},
-					{"name":"Cargo","value":"Webmaster y Developer"},
-					{"name":"Logros","list":[
-						"Diseño y desarrollo completo",
-						"Menu animado de contenido automático",
-						"Audio y video streaming sincronizado con flash"
-					]}
-				]},
-				{"name":"Instituto Movilizador de Fondos Cooperativos", "items":[
-					{"name":"URL","value":"http://www.imfc.coop"},
-					{"name":"Cargo","value":"Analista de sistemas, DBA y developer"},
-					{"name":"Logros","list":[
-						"Creación de manual de usuario",
-						"Creación de módulos en XOOPS"
-					]}
-				]},
-				{"name":"Sistema administrativo interno", "items":[
-					{"name":"Cargo","value":"Integrador y DBA"},
-					{"name":"Logros","list":[
-						"Migración de bases de datos internas de SQL Server2K a MySQL (WaldBott)",
-						"Metodologías de trabajo en producción del sistema de costos online sin interrumpir el trabajo administrativo"
-					]}
+				{"name":"Period","value":"Aug 2006 - Apr 2007"},
+				{"name":"As","value":"Analist, DBA and Developer"},
+				{"name":"Doing", "items":[
+					"ATM software for Banco Credicoop bank",
+					"Autodocumentation engines",
+					"Moving technologies to Open Source (ASP to PHP and Flash to Javascript)",
+					"Political campaign web development",
+					"Database engine migration to Open Source (MS SQL Server2K to MySQL)"
 				]}
 			]},
 			{"name":"Easy Trade Group SRL", "items":[
-				{"name":"Desde","value":"Abril 2005"},
-				{"name":"Hasta","value":"Agosto 2005"},
-				{"name":"Tecnologías","value":"GNU/Linux Debian, Apache, PHP, HTML, CSS, MySQL, PL/Sql, PostgreSQL, Borland Delphi"},
+				{"name":"Period","value":"Apr 2005 - Aug 2005"},
+				{"name":"As","value":"Analist and Developer"},
 				{"name":"e-Commerce solutions", "items":[
 					{"name":"URL","value":"http://www.easytradegroup.com/"},
 					{"name":"Cargo","value":"Analista de sistemas, Database administrator y Developer"},
-					{"name":"Logros","list":[
-						"Diseño y creación de bases de datos",
-						"Librerías para soporte de backoffice en PL/SQL",
-						"Desarrollo backoffice en PHP5 para implementación con tarjetas de crédito"
-					]}
-				]},
-				{"name":"Argentina Soccer Mall", "items":[
-					{"name":"URL","value":"http://www.argentinasoccermall.com/"},
-					{"name":"Cargo","value":"Developer"},
-					{"name":"Logros","list":["Customización de medios de pagos y sistemas de envío en e-Commerce"]}
-				]},
-				{"name":"Argentina Polo Store", "items":[
-					{"name":"URL","value":"http://www.argentinapolostore.com/"},
-					{"name":"Cargo","value":"Developer"},
-					{"name":"Logros","list":["Customización de medios de pagos y sistemas de envío en e-Commerce"]}
-				]},
-				{"name":"Jump And Climb: Inflatable Games", "items":[
-					{"name":"URL","value":"http://www.jumpandclimb.com/"},
-					{"name":"Cargo","value":"Developer"},
-					{"name":"Logros","list":["CDROM con Catalogo Visual para Windows"]}
+					{"name":"Doing","list":[
+						"Design of e-commerce product from scratch",
+						"Delphi development: Product catalog on CDROM"]}
 				]}
 			]},
 			{"name":"Pinnacle Systems Latin America", "items":[
-				{"name":"Desde","value":"Octubre 2002"},
-				{"name":"Hasta","value":"Junio 2004"},
-				{"name":"Tecnologías","value":"Borland Delphi, ADO/DAO, PostgreSQL, Windows 2000, GNU/Linux Ubuntu"},
-				{"name":"Daleclick Portal", "items":[
-					{"name":"URL","value":"http://www.daleclick.com/"},
-					{"name":"Cargo","value":"Analista, DBA y Developer"},
-					{"name":"Logros","list":[
-						"Creación, diseño y administración de bases de datos",
-						"Desarrollo de aplicaciones con servicios multimedia",
-						"Software de e-learning con video on-demand",
-						"Software de conexión telefónica"
-					]}
+				{"name":"Period","value":"Oct 2002 - Jun 2004"},
+				{"name":"As","value":"App Developer and DBA"},
+				{"name":"Doing","list":[
+					"e-leraning app software development on Borland Delphi",
+					"Telephone connection software development"
 				]}
 			]}
 		]},
-		{"name":"Estudios formales", "items":[
-			{"name":"Robotica básica", "items":[
-				{"name":"Fecha","value":"Octubre 2007"},
-				{"name":"Duración","value":"48 horas"},
-				{"name":"Instituto","value":"Club de Programadores"},
-				{"name":"Contenido","value":"Física, Electrónica, Desarrollo en de microcontroladores en C, Sistemas sensoriales: Opticos, tactiles y acústicos"}
-			]},
-			{"name":"Analista de sistemas", "items":[
-				{"name":"Fecha","value":"Febrero 2002"},
-				{"name":"Duración","value":"2 años (incompleto)"},
-				{"name":"Instituto","value":"I.S.F.D. y T.#114, José G. Tupac Amarú II"},
-				{"name":"Contenido","value":"Software development (Borland Pascal), OOP development (Microsoft Visual Basic y Borland Delphi), Database y datawarehousing metodologies, Business document management, Diagram y formal documentation of process y entities, ANSI structure y Relational Database Management., RDBMS implementation with Micosoft SQL Server 6.0 y 2000, Stores Procedures (PL/SQL) y Triggers."}
-			]},
-			{"name":"Técnico en Computación", "items":[
-				{"name":"Fecha","value":"Diciembre 1997"},
-				{"name":"Duración","value":"6 años"},
-				{"name":"Instituto","value":"Escuela de Educación Técnica Nro 5"},
-				{"name":"Contenido","value":"Escuela secundaria técnica orientada al desarrollo de aplicaciones"}
-			]},
-			{"name":"Junior Developer", "items":[
-				{"name":"Fecha","value":"Febrero 1992"},
-				{"name":"Duración","value":"96 horas"},
-				{"name":"Instituto","value":"Instituto Argentino de Computación"},
-				{"name":"Contenido","value":"GW Basic 2.0., FlowCharts"}
-			]}
-		]},
-		{"name":"Otros intereses", "list":[
-			"Instructor Profesional de Buceo Recreativo",
-			"Instructor de Actuación en Emergencias Médicas",
-			"Patrón de Yate",
-			"Violinista (autodidacta)"
+		{"name":"Trainings and studies", "list":[
+			"Robotics, Buenos Aires, Argentina",
+			"Analista de sistemas, I.S.F.D. y T.#114, José G. Tupac Amarú II, Buenos Aires, Argentina",
+			"Técnico en Computación, Escuela de Educación Técnica Nro 5, Buenos Aires, Argentina",
+			"Professional Scuba Instructors Trainer",
+			"Emergency First Response Instructor",
+			"Patrón de Yate, Canarias, España"
 		]}
 	]}
 }

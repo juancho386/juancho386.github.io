@@ -44,7 +44,7 @@ function deploy(parentNode,obj,level) {
 	}
 	if ("list" in obj) {
 		const title=document.createElement("span")
-		title.appendChild(document.createTextNode(obj.name))
+		title.appendChild(document.createTextNode(obj.name+":"))
 		parentNode.appendChild(title)
 		var ul=document.createElement("ul")
 		for (var i=0,j=obj.list.length ; i<j ; i++) {
