@@ -5,7 +5,7 @@
 			{"name":"email","value":"juan+cv@h2obuceo.com","link":"mailto:juan+cv@h2obuceo.com"},
 			{"name":"Telegram ID","value":"Juancho079","link":"https://t.me/Juancho079"}
 		]},
-		{"name":"me","items":[
+		{"name":"About me","items":[
 			{"name":"Born", "value":"April 1979 in Argentina"},
 			{"name":"Gender","value":"Male (he-his-him)"},
 			{"name":"Current Residence","value":"Praha 3, Czech Republic"}
@@ -16,7 +16,7 @@
 			{"name":"Italiano","value":"(A1) Orale, di base"}
 		]},
 		{"name":"Competenses", "items":[
-			{"name":"Bash scripting","value":"Creating and maintainig scripts since 1994."},
+			{"name":"Bash scripting","value":"Creating and maintainig scripts for personal and professional use since 1994."},
 			{"name":"Terraform IaaC","value":"I can create scripts and modules; and apply them in hot."},
 			{"name":"AWS Cloud computing","value":"I have been crating and deploying infrastructure since 2013 using many AWS products."},
 			{"name":"SQL","value":"Creating complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and MS."},
@@ -29,12 +29,13 @@
 				{"name":"Period","value":"Feb 2022 - Today"},
 				{"name":"As","value": "Infrastructure Engineer (level 2)"},
 				{"name":"Doing","list":[
-					"Security on AWS, replacing key acceses with OIDC and SSM integrations.",
+					"Security on AWS. Replacing key acceses with OIDC and SSM integrations.",
 					"Improving Terraform for the IaaC of several clients.",
 					"Bash Scripting complex deployment processes.",
 					"Creating and editing expert entries about technology for the company blog.",
 					"Moving client infrastructure to serverless mode."
 				]}
+
 			]},
 			{"name":"Teracloud-io","items":[
 				{"name":"Period","value":"May 2020 - Feb 2022"},
