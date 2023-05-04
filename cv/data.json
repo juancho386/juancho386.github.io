@@ -123,7 +123,7 @@
 			{"name":"TenRoses SRL","items":[
 				{"name":"Period","value":"Apr 2007 - Mar 2009"},
 				{"name":"As","value":"Developer"},
-				{"name":"Doing", "items": [
+				{"name":"Doing", "list": [
 					"Projects list: Zumbox, Ubbi Musica, Warner TV España, Terra.es, Cyloop and elHood",
 					"XSL frontend development",
 					"Apache webserver configuration",
