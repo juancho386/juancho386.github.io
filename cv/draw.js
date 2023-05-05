@@ -18,12 +18,8 @@ function deploy(parentNode,obj,level) {
 		}
 		if ("link" in obj) {
 			const a=document.createElement("a")
-			const href=document.createAttribute("href")
-			const target=document.createAttribute("target")
-			href.value=obj.link
-			target.value="_blank"
-			a.setAttributeNode(href)
-			a.setAttributeNode(target)
+			a.setAttribute("href",obj.link)
+			a.setAttribute("target","_blank")
 			a.appendChild(document.createTextNode(obj.value))
 			spanValue.appendChild(a)
 		}else{
@@ -34,9 +30,7 @@ function deploy(parentNode,obj,level) {
 	}
 	if ("items" in obj) {
 		const title=document.createElement("h"+level)
-		const style=document.createAttribute("class")
-		style.value=obj.name.toLowerCase().replace(/ /g,"_")
-		title.setAttribute(style)
+		title.setAttribute("class",obj.name.toLowerCase().replace(/ /g,"_"))
 		title.appendChild(document.createTextNode(obj.name))
 		parentNode.appendChild(title)
 		var div=document.createElement("div")
