@@ -34,6 +34,9 @@ function deploy(parentNode,obj,level) {
 	}
 	if ("items" in obj) {
 		const title=document.createElement("h"+level)
+		const style=document.createAttribute("class")
+		style.value=obj.name.toLowerCase().replace(/ /g,"_")
+		title.setAttribute(style)
 		title.appendChild(document.createTextNode(obj.name))
 		parentNode.appendChild(title)
 		var div=document.createElement("div")
