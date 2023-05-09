@@ -13,7 +13,11 @@ h3 {
 }
 h2.contact {
 	position: absolute;
+	top: 2.5em;
+	right: 2em;
 }
 h2.contact + div {
 	position: absolute;
+	top: 7em;
+	right: 2em
 }
