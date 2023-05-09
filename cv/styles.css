@@ -21,3 +21,6 @@ h2.contact + div {
 	top: 7em;
 	right: 2em
 }
+h2.competenses + div + div + span:first-child {
+	background-color: yellow
+}

@@ -8,7 +8,7 @@
 		{"name":"About me","items":[
 			{"name":"Born", "value":"April 1979 in Argentina"},
 			{"name":"Gender","value":"Male (he-his-him)"},
-			{"name":"Current Residence","value":"Praha 3, Czech Republic"}
+			{"name":"Current Residence","value":"Praha, Czech Republic"}
 		]},
 		{"name":"Languages","items":[
 			{"name":"Espa\u00f1ol","value":"Nativo"},
@@ -169,7 +169,8 @@
 			{"value":"Professional Scuba Instructors Trainer"},
 			{"value":"Emergency First Response Instructor"},
 			{"value":"Patrón de Embarcaciones Recreativas, Canarias, España"},
-			{"value":"Patrón de Yate, Canarias, España"}
+			{"value":"Patrón de Yate, Canarias, España"},
+			{"value":"Timonel de Yate a Vela y Motor, Buenos Aires, Argentina"}
 		]}
 	]}
 }
