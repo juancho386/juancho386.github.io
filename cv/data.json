@@ -6,8 +6,9 @@
 			{"name":"Telegram ID","value":"Juancho079","link":"https://t.me/Juancho079"}
 		]},
 		{"name":"About me","items":[
-			{"name":"Born", "value":"April 1979 in Argentina"},
-			{"name":"Gender","value":"Male (he-his-him)"},
+			{"name":"Born", "value":"April 1979"},
+			{"name":"Gender","value":"Male (he-him-his)"},
+			{"name":"Nationalities","value":"Spanish and Argentinian"},
 			{"name":"Current Residence","value":"Praha, Czech Republic"}
 		]},
 		{"name":"Languages","items":[
@@ -16,13 +17,14 @@
 			{"name":"Italiano","value":"(A1) Orale, di base"}
 		]},
 		{"name":"Competenses", "items":[
-			{"name":"Bash scripting","value":"Creating and maintainig scripts for personal and professional use since 1994."},
-			{"name":"Terraform IaaC","value":"I can create scripts and modules; and apply them in hot."},
-			{"name":"AWS Cloud computing","value":"I have been crating and deploying infrastructure since 2013 using many AWS products."},
-			{"name":"SQL","value":"Creating complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and MS."},
+			{"name":"Linux","value":"Linux user since 1994. Evangelist of Linux as Desktop"},
+			{"name":"Bash scripting","value":"I have created and maintained scripts for personal and professional use for many purposes."},
+			{"name":"Terraform","value":"Favorite tool for IaaC."},
+			{"name":"AWS Cloud computing","value":"Creating and maintaining infrastructure since 2013 using many AWS products with resources on instances, on containers and serverless."},
+			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and MS."},
 			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
-			{"name":"Web development","value":"PHP programmer since PHP3. Real Fullstack developer."},
-			{"name":"Git","value":"CICD deployment script creation. Alternative actions using Github API calls."}
+			{"name":"PHP environment","value":"Used to be PHP programmer since PHP3. Then it became to Fullstack developer."},
+			{"name":"Git","value":"CICD deployment script creation. Alternative actions using Github API calls. I also created workflows on Jenkins and Travis as secondary tool."}
 		]},
 		{"name":"Previous jobs","items":[
 			{"name":"Monstarlab CZ","items":[
@@ -35,7 +37,6 @@
 					"Creating and editing expert entries about technology for the company blog.",
 					"Moving client infrastructure to serverless mode."
 				]}
-
 			]},
 			{"name":"Teracloud-io","items":[
 				{"name":"Period","value":"May 2020 - Feb 2022"},
@@ -46,7 +47,7 @@
 					"Implementing CVE findings y bugtracking.",
 					"CI/CD scripts deployments and Jenkins server mainteinance.",
 					"Mainteinance of Serverless deployed products.",
-					"Technical blog entries for the company."
+					"Writing technical blog entries for the company."
 				]}
 			]},
 			{"name":"Northdiving Lanzarote","items":[
