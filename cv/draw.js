@@ -13,8 +13,11 @@ function deploy(parentNode,obj,level) {
 
 		if ("name" in obj) {
 			const spanKey=document.createElement("span")
-			spanKey.appendChild(document.createTextNode(obj.name + ": " ))
+			const spanSeparator=document.createElement("span")
+			spanKey.appendChild(document.createTextNode(obj.name))
+			spanSeparator.appendChild(document.createTextNode(": " ))
 			div.appendChild(spanKey)
+			div.appendChild(spanSeparator)
 		}
 		if ("link" in obj) {
 			const a=document.createElement("a")
