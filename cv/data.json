@@ -16,25 +16,27 @@
 			{"name":"English","value":"(C1) Fluent"},
 			{"name":"Italiano","value":"(A1) Orale, di base"}
 		]},
-		{"name":"Competenses", "items":[
-			{"name":"Linux","value":"Linux user since 1994. Evangelist of Linux as Desktop"},
-			{"name":"Bash scripting","value":"I have created and maintained scripts for personal and professional use for many purposes."},
+		{"name":"TL;DR", "items":[
+			{"name":"Linux","value":"Linux user since 1994. Sometimes, admin. Evangelist of Linux as Desktop"},
+			{"name":"Bash scripting","value":"I have created and maintained scripts for personal and professional use for many purposes. I love to create solutions involving API calls from 3rd parties."},
 			{"name":"Terraform","value":"Favorite tool for IaaC."},
 			{"name":"AWS Cloud computing","value":"Creating and maintaining infrastructure since 2013 using many AWS products with resources on instances, on containers and serverless."},
-			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and MS."},
+
 			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
-			{"name":"PHP environment","value":"Used to be PHP programmer since PHP3. Then it became to Fullstack developer."},
-			{"name":"Git","value":"CICD deployment script creation. Alternative actions using Github API calls. I also created workflows on Jenkins and Travis as secondary tool."}
+			{"name":"PHP environment","value":"Used to be PHP programmer since PHP3. Then I became to Fullstack developer. And after that DevOp."},
+			{"name":"CI/CD","value":"I made deployment scripts in Github, Jenkins and Travis. Alternative actions using Github API calls. I also created workflows on Jenkins and Travis as secondary tool."},
+			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."}
 		]},
 		{"name":"Previous jobs","items":[
 			{"name":"Monstarlab CZ","items":[
 				{"name":"Period","value":"Feb 2022 - Today"},
 				{"name":"As","value": "Infrastructure Engineer (level 2)"},
 				{"name":"Doing","list":[
-					"Security on AWS. Replacing key acceses with OIDC and SSM integrations.",
+					"Security on AWS. Implementing OIDC and SSM integrations to replace keys.",
 					"Improving Terraform for the IaaC of several clients.",
-					"Bash Scripting complex deployment processes.",
+					"Bash Scripting complex deployment processes with ElasticBeanstalk.",
 					"Creating and editing expert entries about technology for the company blog.",
+					"Maintenance of some Python scripts.",
 					"Moving client infrastructure to serverless mode."
 				]}
 			]},
@@ -78,7 +80,7 @@
 				{"name":"As","value": "Sysadmin"},
 				{"name":"Doing","list":[
 					"Implementing monitoring and autoscalling features.",
-					"Syslog server.",
+					"Create a centraliced Syslog server.",
 					"Monitoring system implementation Nagios y Ganglia.",
 					"MySQL queries rewriting for timing response improvement."
 				]}
