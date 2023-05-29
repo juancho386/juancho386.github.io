@@ -35,7 +35,7 @@ function deploy(parentNode,obj,level) {
 		const title=document.createElement("h"+level)
 		title.appendChild(document.createTextNode(obj.name))
 		var div=document.createElement("div")
-		div.setAttribute("class",obj.name.toLowerCase().replace(/ /g,"_"))
+		div.setAttribute("class",obj.name.toLowerCase().replace(/[^a-z]/g,"_"))
 		div.appendChild(title)
 		for (var i=0,j=obj.items.length ; i<j ; i++) {
 			deploy(div,obj.items[i],(1+level))
