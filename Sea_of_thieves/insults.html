@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Sea of Thieves - Legend of Monkey Island - Quest for Guybrush - Swordfighting Insults Guide</title>
+<style>
+* {
+	font-family: sans-serif;
+	font-size: large;
+}
+tr {cursor: pointer;}
+.boss {display: none;}
+.help {
+	display: none;
+	border: 1px solid;
+}
+</style>
+<script type="text/javascript">
+function hint(){
+	help=document.getElementsByClassName("help")
+	if (help[0].style.display=="inline-block") {
+		help[0].style.display="none"
+	}else{
+		help[0].style.display="inline-block"
+	}
+}
+function done(){
+	var insult=document.getElementsByClassName("insult")
+	var boss=document.getElementsByClassName("boss")
+	if (insult[0].style.display!="none"){
+		for (let i = 0; i < insult.length; i++) {
+			insult[i].style.display = "none";
+		}
+		for (let i = 0; i < boss.length; i++) {
+			boss[i].style.display = "table-cell";
+		}
+	}else{
+		for (let i = 0; i < insult.length; i++) {
+			insult[i].style.display = "table-cell";
+		}
+		for (let i = 0; i < boss.length; i++) {
+			boss[i].style.display = "none";
+		}
+	}
+}
+function tr(obj){
+	if (obj.style.backgroundColor=="yellow") {
+		obj.style.backgroundColor="green"
+	}else if(obj.style.backgroundColor=="green") {
+		obj.style.backgroundColor="white"
+	}else{
+		obj.style.backgroundColor="yellow"
+	}
+}
+</script>
+</head>
+<body>
+<input type="button" onclick="done()" value="flip">
+<input type="button" onclick="hint()" value="toogle help">
+<br>
+<div class="help">
+Start your quest.<br>
+Whenever your opponent gives you a new insult, you mark it here as yellow.<br>
+Use your new insult with an opponent.<br>
+When you get the answer, click again on the insult to mark it green.<br>
+Once you have all the insults in green, click on the flip button to see to see the list to be user against Biggsy.<br>
+Refresh this page to clean everything and erase your progress.
+</div>
+<table>
+<tr onclick="tr(this)">
+<td class="insult">My swordplay will AMAZE you</td>
+<td class="boss">I am an amazing fighter</td>
+<td class="ret">Yeah, I am AMAZED you last this long</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">My deeds are spoken worldwide</td>
+<td class="boss">I am welcome everywhere I go</td>
+<td class="ret">Everyone loves a good joke</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">Started to get tired</td>
+<td class="boss">Pirates sees me and they drop to their knees</td>
+<td class="ret">Yes. Looking at you is exhausting</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">Need to catch your breath?</td>
+<td class="boss">You are looking a little flashed</td>
+<td class="ret">Only from laughing at you</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">You will regret to meet me</td>
+<td class="boss">i don't plan on loosing</td>
+<td class="ret">I am sure it is true for everybody</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">I am the greater fighter on the seas</td>
+<td class="boss">this fight is going swimmingly</td>
+<td class="ret">Too bad you meet ME on dry land</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">Soon you will be beging me for mercy</td>
+<td class="boss">you should beg me to train you</td>
+<td class="ret">Right now I am beging you to take a bath</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">No-one has ever beat me in combat</td>
+<td class="boss">My sword is in perfect conditions</td>
+<td class="ret">So this IS your first time?</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">I have met pigs scareer than you</td>
+<td class="boss">i ve met whrechless like you before</td>
+<td class="ret">Glad to hear you stay in touch with your parents</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">Any last request?</td>
+<td class="boss">may be i grant you mercy</td>
+<td class="ret">Ooh, could you put a bag over your head?</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">I am here to take your life</td>
+<td class="boss">looking at you offence my sense of decensy</td>
+<td class="ret">It is about time you got one</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">No one has faced me and lived</td>
+<td class="boss">people tremble whenever i speak</td>
+<td class="ret">With a breath that bad, I am not surprised</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">You are not fit to lick my boots</td>
+<td class="boss">I ll give you a taste of my blade</td>
+<td class="ret">I will be scrapling mine with you shortly</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">You are going to kneel before me</td>
+<td class="boss">ready to turn and flee</td>
+<td class="ret">Sure if that means I don't have to look at your face</td>
+</tr><tr onclick="tr(this)">
+<td class="insult">I will wipe the floor with you</td>
+<td class="boss">This will be a good clean fight</td>
+<td class="ret">I hope you are better cleaning than fighting</td>
+</tr>
+</body>
+</html>
