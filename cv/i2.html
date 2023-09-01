@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Juan Eduardo Castaño Nestares - Curriculum Vitae</title>
+	<meta name="robots" content="noindex,nofollow">
+	<link href="styles.css" rel="stylesheet" type="text/css"></link>
+</head>
+<body>
+<div id="content" />
+<script type="module">
+document.payload={"cv":{
+	"name":"Casta\u00f1o Nestares, Juan Eduardo",
+	"image":"juan.jpg",
+	"items":[
+		{"name":"Contacto","items":[
+			{"name":"email","value":"juan+cv@h2obuceo.com","link":"mailto:juan+cv@h2obuceo.com"},
+			{"name":"Telegram ID","value":"Juancho079","link":"https://t.me/Juancho079"}
+		]},
+		{"name":"Experiencia laboral","items":[
+			{"name":"Teracloud-io","items":[
+				{"name":"Desde","value":"Mayo 2020"},
+				{"name":"Hasta","value":"Hoy"},
+				{"name":"Tecnologías","value": "Terraform, Amazon Web Services, Bash scripting, Git, Docker, Jira, Confluence"},
+				{"name":"Engineering","items":[
+					{"name":"URL","value":"https://www.teracloud.io","link":"https://www.teracloud.io"},
+					{"name":"Cargo","value":"DevOp Engineer"},
+					{"name":"Logros","list":[
+						"Creación y mantenimiento de IaaC",
+						"Servicio de salas estáticas de videoconferencia",
+						"Implementación de sistemas de CVE findings y bugtracking para CI/CD",
+						"Responsable de varias notas de prensa positivas para la compañia"
+					]}
+				]}
+			]},
+			{"name":"Northdiving Lanzarote","items":[
+				{"name":"Desde","value":"Julio 2015"},
+				{"name":"Hasta","value":"Hoy"},
+				{"name":"Tecnologías","value": "RaspberryPI, MontionEYE, GNU/Linux Ubuntu, svn, Bash, Apache, PHP, HTML5, CSS3, Javascript, jQuery, AJAX, DER, MySQL, Telegram API, KDEnLive, gimp"},
+				{"name":"Engineering","items":[
+					{"name":"URL","value":"https://www.northdivinglanzarote.com","link":"https://www.northdivinglanzarote.com"},
+					{"name":"Cargo","value":"FullStack Engineer"},
+					{"name":"Logros","list":[
+						"Sistema de vigilancia basado en RaspberryPI y software Open Source",
+						"Desarrollo de software de turismo incluyendo vuelos, estadías y actividades",
+						"Desarrollo de sitio web principal",
+						"Sistema de alertas y logs de actividades a traves de la API de Telegram",
+						"Edición de fotos y videos",
+						"Sistema interno de mensajería bulk",
+						"Configuración de SEO y Apache redirects"
+					]}
+				]}
+			]},
+			{"name":"TenRoses SRL","items":[
+				{"name":"Desde","value":"Abril 2007"},
+				{"name":"Hasta","value":"Marzo 2009"},
+				{"name":"Tecnologías","value":"GNU/Linux Debian, Bash, sh, Apache, XML-RPC, XSL, PHP, xHTML4.1, CSS2, Javascript, Codeigniter, CSS, SVN, SEO, Prototype, jQuery, AJAX, YahooUI"},
+				{"name":"elHood", "items":[
+					{"name":"URL","value":"http://www.elhood.com/"},
+					{"name":"Cargo","value":"Analista de sistemas y developer"},
+					{"name":"Logros","list":[
+						"Personalización de la página principal de Pilar Montenegro",
+						"Customización para Video streaming",
+						"Motor de Surveys",
+						"Frontend Javascript del Music player"
+					]}
+				]}
+			]},
+		]},
+		{"name":"Estudios formales", "items":[
+			{"name":"Robotica básica", "items":[
+				{"name":"Fecha","value":"Octubre 2007"},
+				{"name":"Duración","value":"48 horas"},
+				{"name":"Instituto","value":"Club de Programadores"},
+				{"name":"Contenido","value":"Física, Electrónica, Desarrollo en de microcontroladores en C, Sistemas sensoriales: Opticos, tactiles y acústicos"}
+			]}
+		]}
+	]}
+}
+
+/*
+n deploy($obj,$level=1){
+		$level=(integer)$level;
+		$h=($level>5?5:$level);
+		if (substr($obj->name,0,1)=='@') return true;
+		echo '<div class="'.strtolower(str_replace(array(' '),'_',$obj->name)).'">';
+		if ($obj->value) {
+			if (isset($obj->name)) {
+				echo '<div><span>'.$obj->name.': </span><span>';
+				if(isset($obj->link))
+					echo '<a href="'.$obj->link.'" target="_blank">'.$obj->value.'</a>';
+				else
+					echo $obj->value;
+				echo '</span></div>';
+			} else
+				echo '<div>'.$obj->value.'</div>';
+		}
+		if ($obj->image) { echo '<img src="'.$obj->image.'" title="'.$obj->name.'" />'; }
+		if ($obj->items) {
+			echo '<h'.$h.'>'.$obj->name.'</h'.$h.'>';
+			echo '<div>';
+			foreach ($obj->items as $item)
+				deploy($item, ($level+1) );
+			echo '</div>';
+		}
+		if ($obj->list) {
+			echo '<h'.$h.'>'.$obj->name.'</h'.$h.'>';
+			echo '<ul>';
+			foreach ($obj->list as $item)
+				echo '<li>'.$item.'</li>';
+			echo '</ul>';
+		}
+		echo '</div>';
+	}
+
+*/
+	function err(err) {
+		alert(err)
+	}
+
+	function deploy(parentNode,obj,level) {
+		if ("value" in obj) {
+			const div=document.createElement("div")
+			const spanValue=document.createElement("span")
+			spanValue.appendChild(document.createTextNode(obj.value))
+			if ("name" in obj) {
+				const spanKey=document.createElement("span")
+				spanKey.appendChild(document.createTextNode(obj.name + ": " ))
+				div.appendChild(spanKey)
+			}
+			div.appendChild(spanValue)
+			parentNode.appendChild(div)
+		}
+		if ("items" in obj) {
+			const title=document.createElement("h"+level)
+			title.appendChild(document.createTextNode(obj.name))
+			parentNode.appendChild(title)
+			var div=document.createElement("div")
+			for (var i=0,j=obj.items.length ; i<j ; i++) {
+				deploy(div,obj.items[i],(1+level))
+			}
+			parentNode.appendChild(div)
+		}
+		if ("list" in obj) {
+			const title=document.createElement("h"+level)
+			title.appendChild(document.createTextNode(obj.name))
+			parentNode.appendChild(title)
+			var ul=document.createElement("ul")
+			for (var i=0,j=obj.list.length ; i<j ; i++) {
+				const li=document.createElement("li")
+				li.appendChild(document.createTextNode(obj.list[i]))
+				ul.appendChild(li)
+			}
+			parentNode.appendChild(ul)
+		}
+
+		return true
+	}
+
+	function show(obj) {
+		var d=document.getElementById("content")
+
+		var h1=document.createElement("h1")
+		h1.appendChild(document.createTextNode(obj.name))
+		d.appendChild(h1)
+
+		var img=document.createElement("img")
+		const src=document.createAttribute("src")
+		src.value=obj.image
+		img.setAttributeNode(src)
+		d.appendChild(img)
+
+		for (let i=0,j=obj.items.length; i<j; i++) {
+			deploy(d,obj.items[i],2)
+		}
+	}
+
+	show(document.payload.cv)
+
+</script>
+</body>
+</html>
+
