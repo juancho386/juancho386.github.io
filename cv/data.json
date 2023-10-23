@@ -20,9 +20,10 @@
 			{"name":"Bash scripting","value":"I have created and maintained scripts for personal and professional use for many purposes. I love to create solutions involving API calls from 3rd parties."},
 			{"name":"Terraform","value":"Favorite tool for IaaC. I can also do Cloud Formation over Serverless."},
 			{"name":"AWS Cloud computing","value":"Creating and maintaining infrastructure since 2013 using many AWS products with resources on instances, on containers and serverless."},
+			{"name":"CI/CD","value":"I made deployment scripts in Github, Jenkins and Travis. Alternative actions using Github API calls."},
+			{"name":"Ansible","value":"I created automated solutions for croned tasks on multiple projects."},
 			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
 			{"name":"PHP environment","value":"Used to be PHP programmer since PHP3. Then I became to Fullstack developer. And after that DevOp and Infrastructure Engineer."},
-			{"name":"CI/CD","value":"I made deployment scripts in Github, Jenkins and Travis. Alternative actions using Github API calls."},
 			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."}
 		]},
 		{"name":"Previous jobs","items":[
