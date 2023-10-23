@@ -2,7 +2,6 @@
 	"name":"Juan Eduardo Casta\u00f1o Nestares",
 	"items":[
 		{"name":"Contact","items":[
-			{"name":"email","value":"juan+cv@h2obuceo.com","link":"mailto:juan+cv@h2obuceo.com"},
 			{"name":"Telegram ID","value":"Juancho079","link":"https://t.me/Juancho079"}
 		]},
 		{"name":"About me","items":[
@@ -19,12 +18,11 @@
 		{"name":"TL;DR", "items":[
 			{"name":"Linux","value":"Linux user since 1994. Sometimes, admin. Evangelist of Linux as Desktop"},
 			{"name":"Bash scripting","value":"I have created and maintained scripts for personal and professional use for many purposes. I love to create solutions involving API calls from 3rd parties."},
-			{"name":"Terraform","value":"Favorite tool for IaaC."},
+			{"name":"Terraform","value":"Favorite tool for IaaC. I can also do Cloud Formation over Serverless."},
 			{"name":"AWS Cloud computing","value":"Creating and maintaining infrastructure since 2013 using many AWS products with resources on instances, on containers and serverless."},
-
 			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
-			{"name":"PHP environment","value":"Used to be PHP programmer since PHP3. Then I became to Fullstack developer. And after that DevOp."},
-			{"name":"CI/CD","value":"I made deployment scripts in Github, Jenkins and Travis. Alternative actions using Github API calls. I also created workflows on Jenkins and Travis as secondary tool."},
+			{"name":"PHP environment","value":"Used to be PHP programmer since PHP3. Then I became to Fullstack developer. And after that DevOp and Infrastructure Engineer."},
+			{"name":"CI/CD","value":"I made deployment scripts in Github, Jenkins and Travis. Alternative actions using Github API calls."},
 			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."}
 		]},
 		{"name":"Previous jobs","items":[
@@ -133,7 +131,7 @@
 					"Apache webserver configuration",
 					"AJAX implementation",
 					"SEO Optimization",
-					"Custom music channel maintenance for Alejandro Sanz, Laura Pausini, Mana, Luis Miguel, Miguel Bose y Motel"
+					"Custom music channel maintenance for Alejandro Sanz, Laura Pausini, Mana, Luis Miguel, Miguel Bose and Motel among others"
 				]}
 			]},
 			{"name":"Red Cooperativa de Comunicaciones", "items":[
@@ -159,7 +157,7 @@
 				{"name":"Period","value":"Oct 2002 - Jun 2004"},
 				{"name":"As","value":"App Developer and DBA"},
 				{"name":"Doing","list":[
-					"e-leraning app software development on Borland Delphi",
+					"e-learning app software development on Borland Delphi",
 					"Telephone connection software development"
 				]}
 			]}
