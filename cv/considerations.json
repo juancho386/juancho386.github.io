@@ -1,0 +1,29 @@
+{"cv":{
+	"name":"Juan Eduardo Casta\u00f1o Nestares",
+	"items":[
+		{"name":"This are my personal values","value":"These values are my personal POV when it comes to situations like a job position interview. No ChatGPT or copy-pasted from a blog words. "},
+		{"name":"Must","items":[
+			{"name":"Salary","value":"Competitive salary and basic yearly adjustment for everyone depending on inflation every year. Show appreciation for the employees. Not having it means you get more poor every year. "},
+			{"name":"Leadership","value":"My leader must come from technical area. Not commercial, and not social."},
+			{"name":"Linux","value":"I use Linux. Not Mac and not Windows. I don't mind the distribution."},
+			{"name":"Teamwork","value":"Not to be forced to be the 10x-person. Small groups of 4-8 ppl is ideal."},
+			{"name":"Permanent position","value":"I don't freelance. If the company respect my times, I respect theirs."}
+		]},
+		{"name":"Highly appreciated","items":[
+			{"name":"Freedom of speech","value":"I love to learn from different cultures. I avoid racism and any general intolerance. A channel for nerd memes and jokes where everyone can express. Direct approach to any collegue."},
+			{"name":"Respectful feedback","value":"Freedom to give and flexible open mind to receive. It is the best way to grow and learn."},
+			{"name":"Not to juggle between tasks", "value":"Organized deliveries. Realistic deadlines."},
+			{"name":"Research time", "value":"Have structured time for research new technologies and check current setups."},
+			{"name":"Health care","value":"Anything better than the standard government insurance. An assosiation with a private clinic, dental plan and retirement plans."},
+			{"name":"Collegues with values","value":"I enjoy and learn from them. Be surrounded by people with a clear but open mindset is a gift."},
+			{"name":"Career plan","value":"I like what I do. To keep passion on the tasks. Having a horizon keeps the spirit up."},
+			{"name":"Vacations","value":"Additional plans of free days on top of the law code. And possibility to take the previous year's days during the next year January is a plus."}
+
+		]},
+		{"name":"I don't care","items":[
+			{"name":"Sport card","value":"I don't use it"},
+			{"name":"Corporate after office activities","value":"Every person has different lifestyle. I am not fan of drinking and forced socialization feels awkward."}
+		]}
+	]}
+}
+
