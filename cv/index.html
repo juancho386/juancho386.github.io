@@ -36,16 +36,11 @@
 	var $_GET = [];
 	if(document.location.toString().indexOf('?') !== -1) {
 		var query = document.location.toString().replace(/#.*$/, '').replace(/^.*?\?/, '').split('&');
-
-	for(var i=0, l=query.length; i<l; i++) {
-		var aux = decodeURIComponent(query[i]).split('=');
-		$_GET[aux[0]] = aux[1];
+		for(var i=0, l=query.length; i<l; i++) {
+			var aux = decodeURIComponent(query[i]).split('=');
+			$_GET[aux[0]] = aux[1];
+		}
 	}
-
-	
-}
-	//get the 'index' query parameter
-
 
 	const doAjax = async () => {
 		var source=(typeof $_GET['model'] == 'undefined')?'data':$_GET['model'];
@@ -56,8 +51,10 @@
 			}
 		});
 		if (response.ok) {
-			var style=document.createElement('style')
-			style.setAttribute('src',source+'.css')
+			var style=document.createElement('link')
+			style.setAttribute('href',source+'.css');
+			style.setAttribute('rel','stylesheet');
+			style.setAttribute('type','text/css');
 			document.getElementsByTagName('head')[0].appendChild(style)
 			const jsonValue = await response.json();
 			return Promise.resolve(jsonValue);
