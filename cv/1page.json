@@ -1,0 +1,77 @@
+{"cv":{
+	"name":"Juan Eduardo Casta\u00f1o Nestares",
+	"items":[
+		{"name":"Contact","items":[
+			{"name":"Telegram ID","value":"Juancho079","link":"https://t.me/Juancho079"}
+		]},
+		{"name":"About me","items":[
+			{"name":"Intro", "value":"Pasionate engineer looking for permanent positions in a solid company. Team member. Don't mind relocations. "},
+			{"name":"Gender","value":"Male (he-him-his)"},
+			{"name":"Nationalities","value":"Spanish and Argentinian"},
+			{"name":"Current Residence","value":"Praha, Czech Republic"}
+		]},
+		{"name":"Languages","items":[
+			{"name":"Espa\u00f1ol","value":"Nativo"},
+			{"name":"English","value":"(C1) Fluent"},
+			{"name":"Italiano","value":"(A1) Orale, di base"}
+		]},
+		{"name":"TL;DR", "items":[
+			{"name":"Linux","value":"Linux user since 1994. Sometimes, admin. Evangelist of Linux as Desktop"},
+			{"name":"Bash scripting","value":"I have created and maintained scripts for personal and professional use for many purposes. I love to create solutions involving API calls from 3rd parties."},
+			{"name":"Terraform","value":"Favorite tool for IaaC. I can also do Cloud Formation over Serverless."},
+			{"name":"AWS Cloud computing","value":"Creating and maintaining infrastructure since 2013 using many AWS products with resources on instances, on containers and serverless."},
+			{"name":"CI/CD","value":"I made deployment scripts in Github, Jenkins and Travis. Alternative actions using Github API calls."},
+			{"name":"Ansible","value":"I created automated solutions for croned tasks on multiple projects."},
+			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
+			{"name":"PHP environment","value":"Used to be PHP programmer since PHP3. Then I became to Fullstack developer. And after that DevOp and Infrastructure Engineer."},
+			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."}
+		]},
+		{"name":"Last jobs","items":[
+			{"name":"Monstarlab CZ","items":[
+				{"name":"Period","value":"Feb 2022 - Today"},
+				{"name":"As","value": "Infrastructure Engineer (level 2)"},
+				{"name":"Learnt","list":[
+					"Security on AWS. Implementing OIDC and SSM.",
+					"D.R.Y. Terraform IaaC.",
+					"Automation Bash Scripting.",
+					"AWS Autoscaling for major cost saving.",
+					"Github Actions as CICD.",
+					"Serverless on Fargate infrastructure."
+				]}
+			]},
+			{"name":"Teracloud-io","items":[
+				{"name":"Period","value":"May 2020 - Feb 2022"},
+				{"name":"As","value": "Devop Engineer"},
+				{"name":"Learnt","list":[
+					"Terraform IaaC.",
+					"Implementing CVE findings y bugtracking.",
+					"Jenkins CICD scripting.",
+					"Serverless on Lambda infrastructure."
+				]}
+			]},
+			{"name":"Northdiving Lanzarote","items":[
+				{"name":"Period","value":"Jul 2015 - Jun 2020"},
+				{"name":"As","value":"Owner / Partner"},
+				{"name":"Learnt","list":[
+					"ARM development.",
+					"CRUD development.",
+					"Telegram BOT development.",
+					"SEO and Apache configuration."
+				]}
+			]},
+			{"name":"others","value":"","link":""}
+		]},
+		{"name":"Trainings and studies", "items":[
+			{"value":"Robotics, Buenos Aires, Argentina"},
+			{"value":"AWS Cloud Practitioner"},
+			{"value":"Analista de sistemas, I.S.F.D. y T.#114, José G. Tupac Amarú II, Buenos Aires, Argentina"},
+			{"value":"Técnico en Computación, Escuela de Educación Técnica Nro 5, Buenos Aires, Argentina"},
+			{"value":"Professional Scuba Instructors Trainer"},
+			{"value":"Emergency First Response Instructor"},
+			{"value":"Patrón de Embarcaciones Recreativas, Canarias, España"},
+			{"value":"Patrón de Yate, Canarias, España"},
+			{"value":"Timonel de Yate a Vela y Motor, Buenos Aires, Argentina"}
+		]}
+	]}
+}
+
