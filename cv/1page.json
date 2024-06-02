@@ -59,7 +59,7 @@
 					"SEO and Apache configuration."
 				]}
 			]},
-			{"name":"other","value":"jobs","link":"/cv/?model=data"}
+			{"name":"all","value":"my jobs","link":"/cv/?model=jobs"}
 		]},
 		{"name":"Trainings and studies", "items":[
 			{"value":"Robotics, Buenos Aires, Argentina"},

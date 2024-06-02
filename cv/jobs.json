@@ -1,0 +1,143 @@
+{"cv":{
+	"name":"Juan Eduardo Casta\u00f1o Nestares",
+	"items":[
+		{"name":"All my jobs","items":[
+			{"name":"Monstarlab CZ","items":[
+				{"name":"Period","value":"Feb 2022 - Today"},
+				{"name":"As","value": "Infrastructure Engineer (level 2)"},
+				{"name":"Doing","list":[
+					"Security on AWS. Implementing OIDC and SSM integrations to replace keys.",
+					"Improving Terraform for the IaaC of several clients.",
+					"Bash Scripting complex deployment processes with ElasticBeanstalk.",
+					"Creating and editing expert entries about technology for the company blog.",
+					"Maintenance of some Python scripts.",
+					"Moving client infrastructure to serverless mode."
+				]}
+			]},
+			{"name":"Teracloud-io","items":[
+				{"name":"Period","value":"May 2020 - Feb 2022"},
+				{"name":"As","value": "Devop Engineer"},
+				{"name":"Doing","list":[
+					"Terraform IaaC creation and maintenance.",
+					"Internal communication product responsible and developer.",
+					"Implementing CVE findings y bugtracking.",
+					"CI/CD scripts deployments and Jenkins server mainteinance.",
+					"Mainteinance of Serverless deployed products.",
+					"Writing technical blog entries for the company."
+				]}
+			]},
+			{"name":"Northdiving Lanzarote","items":[
+				{"name":"Period","value":"Jul 2015 - Jun 2020"},
+				{"name":"As","value":"Owner / Partner"},
+				{"name":"Doing","list":[
+					"Owner and partner of a diving center.",
+					"Scuba and snorkeling trips planning and excecution.",
+					"Professional scubadivers and scuba instructor courses.",
+					"Survillance system based on ARM and open source technologies.",
+					"CRUD system for the company including customers flights, profiles and scuba history activity.",
+					"Main website development in raw PHP -no frameworks-.",
+					"Communications and alert system creation using Telegram API.",
+					"Photo and video edition (GNU tools).",
+					"SEO and Apache redirect configuration."
+				]}
+			]},
+			{"name":"AeriusTech SRL","items":[
+				{"name":"Period","value":"Jun 2014 - May 2015"},
+				{"name":"As","value":"Sysadmin / Senior Web Developer"},
+				{"name":"Doing","list":[
+					"A1 Survillance drone programming.",
+					"Vehicle monitoring software development."
+				]}
+			]},
+			{"name":"Panarea Digital","items":[
+				{"name":"Period","value":"Jan 2013 - May 2014"},
+				{"name":"As","value": "Sysadmin"},
+				{"name":"Doing","list":[
+					"Implementing monitoring and autoscalling features.",
+					"Create a centraliced Syslog server.",
+					"Monitoring system implementation Nagios y Ganglia.",
+					"MySQL queries rewriting for timing response improvement."
+				]}
+			]},
+			{"name":"Vostu SA","items":[
+				{"name":"Period","value":"Jul 2011 - Feb 2012"},
+				{"name":"As","value":"SQL Scripter - BI Operations"},
+				{"name":"Doing","list":[
+					"Sysadmin role for BI team. VM, SSH and DB access manager.",
+					"Installing and maintenance of Kiosks Thinclients interfases for cost reduction.",
+					"Microstrategy Intelligence Server instalations on non-supported Linux systems.",
+					"Internal web marketing creation.",
+					"Vertica and MySQL databases management.",
+					"Autodocumentation scripts creation to keep tranking of granted permissons across the system.",
+					"Asistance on ETL procs to Data Minners."
+				]}
+			]},
+			{"name":"Caddis SRL","items":[
+				{"name":"Period","value":"Mar 2011 - Jul 2011"},
+				{"name":"As","value":"Developer"},
+				{"name":"Doing","list":[
+					"PHP MVC system development.",
+					"SQL queries calls reduction (85%).",
+					"jQuery implementation."
+				]}
+			]},
+			{"name":"Atobiz SRL","items":[
+				{"name":"Period","value":"Dec 2009 - Aug 2010"},
+				{"name":"As","value":"Senior Developer"},
+				{"name":"Doing","list":[
+					"API development to control the TransIP datacenter energy consumption.",
+					"Move to Netherlands offices for a limited amount of time to work in the client's offices.",
+					"Credit card e-Commerce app planning and development."
+				]}
+			]},
+			{"name":"HRSmart SRL","items":[
+				{"name":"Period","value":"Apr 2009 - Nov 2009"},
+				{"name":"As","value":"Developer"},
+				{"name":"Doing", "list":[
+					"Doctor Pepper, SUNOCO, Drexel University, Northern Foods HR systems deployment",
+					"Custom software modification per requests"
+				]}
+			]},
+			{"name":"TenRoses SRL","items":[
+				{"name":"Period","value":"Apr 2007 - Mar 2009"},
+				{"name":"As","value":"Developer"},
+				{"name":"Doing", "list": [
+					"Projects list: Zumbox, Ubbi Musica, Warner TV España, Terra.es, Cyloop and elHood",
+					"XSL frontend development",
+					"Apache webserver configuration",
+					"AJAX implementation",
+					"SEO Optimization",
+					"Custom music channel maintenance for Alejandro Sanz, Laura Pausini, Mana, Luis Miguel, Miguel Bose and Motel among others"
+				]}
+			]},
+			{"name":"Red Cooperativa de Comunicaciones", "items":[
+				{"name":"Period","value":"Aug 2006 - Apr 2007"},
+				{"name":"As","value":"Analist, DBA and Developer"},
+				{"name":"Doing", "list":[
+					"ATM software for Banco Credicoop bank",
+					"Autodocumentation engines",
+					"Moving technologies to Open Source (ASP to PHP and Flash to Javascript)",
+					"Political campaign web development",
+					"Database engine migration to Open Source (MS SQL Server2K to MySQL)"
+				]}
+			]},
+			{"name":"Easy Trade Group SRL", "items":[
+				{"name":"Period","value":"Apr 2005 - Aug 2005"},
+				{"name":"As","value":"Analist and Developer"},
+				{"name":"Doing","list":[
+					"Design of e-commerce product from scratch",
+					"Delphi development: Product catalog on CDROM"
+				]}
+			]},
+			{"name":"Pinnacle Systems Latin America", "items":[
+				{"name":"Period","value":"Oct 2002 - Jun 2004"},
+				{"name":"As","value":"App Developer and DBA"},
+				{"name":"Doing","list":[
+					"e-learning app software development on Borland Delphi",
+					"Telephone connection software development"
+				]}
+			]}
+		]}
+	]}
+}
+
