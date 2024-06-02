@@ -43,7 +43,7 @@
 	}
 
 	const doAjax = async () => {
-		var source=(typeof $_GET['model'] == 'undefined')?'data':$_GET['model'];
+		var source=(typeof $_GET['model'] == 'undefined')?'1page':$_GET['model'];
 		const response = await fetch(source+".json",{
 			method: 'GET',
 			headers: {

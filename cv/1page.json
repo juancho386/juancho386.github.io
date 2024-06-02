@@ -26,7 +26,7 @@
 			{"name":"PHP environment","value":"Used to be PHP programmer since PHP3. Then I became to Fullstack developer. And after that DevOp and Infrastructure Engineer."},
 			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."}
 		]},
-		{"name":"Last jobs","items":[
+		{"name":"Last 3 jobs","items":[
 			{"name":"Monstarlab CZ","items":[
 				{"name":"Period","value":"Feb 2022 - Today"},
 				{"name":"As","value": "Infrastructure Engineer (level 2)"},
@@ -59,7 +59,7 @@
 					"SEO and Apache configuration."
 				]}
 			]},
-			{"name":"others","value":"","link":""}
+			{"name":"other","value":"jobs","link":"/cv/?model=data"}
 		]},
 		{"name":"Trainings and studies", "items":[
 			{"value":"Robotics, Buenos Aires, Argentina"},
