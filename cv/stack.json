@@ -11,8 +11,10 @@
 			{"name":"Ansible","value":"I created automated solutions for croned tasks on multiple projects."},
 			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
 			{"name":"PHP environment","value":"ex PHP developer. Now with more focus on Devops, Automation and Infrastructure."},
-			{"name":"SQL","value":"Designing and managing. From ERD up to speed optimizations. MySQL and PostgreSQL."}
+			{"name":"SQL","value":"Designing and managing. From ERD up to speed optimizations. MySQL and PostgreSQL."},
+			{"name":"Raspberry PI","value":"Developing all-sized custom solutions."},
+			{"name":"Monitoring","value":"Cloudwatch, Nagios, Logs servers administrator."}
 		]}
-	]}
-}
+	]
+}}
 
