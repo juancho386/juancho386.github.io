@@ -1,0 +1,18 @@
+{"cv":{
+	"name":"Juan Eduardo Casta\u00f1o Nestares",
+	"items":[
+		{"name":"See my 1page model cv","value":"here","link":"https://juancho386.github.io/cv/?model=1page"},
+		{"name":"All my stack","items":[
+			{"name":"Linux","value":"Since 1994"},
+			{"name":"Bash","value":"Automating tasks. From simple and repetitive up to complex CICD"},
+			{"name":"Terraform","value":"IaaC. From single EC2 up to serverless autoscalled multizone infrastructures."},
+			{"name":"AWS Cloud computing","value":"Managing over 30 different accounts."},
+			{"name":"CI/CD","value":"Scripting solutions for Github actions, Jenkins and Travis. Alternative actions using Github API calls."},
+			{"name":"Ansible","value":"I created automated solutions for croned tasks on multiple projects."},
+			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
+			{"name":"PHP environment","value":"ex PHP developer. Now with more focus on Devops, Automation and Infrastructure."},
+			{"name":"SQL","value":"Designing and managing. From ERD up to speed optimizations. MySQL and PostgreSQL."}
+		]}
+	]}
+}
+

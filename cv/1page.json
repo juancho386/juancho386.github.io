@@ -24,7 +24,8 @@
 			{"name":"Ansible","value":"I created automated solutions for croned tasks on multiple projects."},
 			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
 			{"name":"PHP environment","value":"Used to be PHP programmer since PHP3. Then I became to Fullstack developer. And after that DevOp and Infrastructure Engineer."},
-			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."}
+			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."},
+			{"name":"my","value":"entire stack","link":"/cv/?model=stack"}
 		]},
 		{"name":"Last 3 jobs","items":[
 			{"name":"Monstarlab CZ","items":[
