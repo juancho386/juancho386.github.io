@@ -1,3 +1,9 @@
 div.tl_dr>div>span:first-child {
 	background-color: yellow
 }
+div.tl_dr>div:last-child {
+	margin-top: 10px;
+}
+div.tl_dr>div:last-child>span {
+	background-color: while
+}
