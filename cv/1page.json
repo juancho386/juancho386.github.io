@@ -2,6 +2,7 @@
 	"name":"Juan Eduardo Casta\u00f1o Nestares",
 	"items":[
 		{"name":"Contact","items":[
+			{"image":"/cv/qr_cv.png"},
 			{"name":"Telegram ID","value":"Juancho079","link":"https://t.me/Juancho079"}
 		]},
 		{"name":"About me","items":[

@@ -7,10 +7,16 @@
 ...
 */
 function deploy(parentNode,obj,level) {
+	if ("image" in obj) {
+		const img=document.createElement("img")
+		const src=document.createAttribute("src")
+		src.value=obj.image
+		img.setAttributeNode(src)
+		parentNode.appendChild(img)
+	}
 	if ("value" in obj) {
 		const div=document.createElement("div")
 		const spanValue=document.createElement("span")
-
 		if ("name" in obj) {
 			const spanKey=document.createElement("span")
 			const spanSeparator=document.createElement("span")
