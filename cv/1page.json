@@ -9,7 +9,8 @@
 			{"name":"Intro", "value":"Pasionate engineer looking for permanent positions in a solid company. Team member. Don't mind relocations. "},
 			{"name":"Gender","value":"Male (he-him-his)"},
 			{"name":"Nationalities","value":"Spanish and Argentinian"},
-			{"name":"Current Residence","value":"Praha, Czech Republic"}
+			{"name":"Current Residence","value":"Praha, Czech Republic"},
+			{"name":"Online version of this CV","value":"click here","link":"https://juancho386.github.io/cv/?model=1page"}
 		]},
 		{"name":"Languages","items":[
 			{"name":"Espa\u00f1ol","value":"Nativo"},
@@ -26,7 +27,7 @@
 			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
 			{"name":"PHP environment","value":"Used to be PHP programmer since PHP3. Then I became to Fullstack developer. And after that DevOp and Infrastructure Engineer."},
 			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."},
-			{"name":"Please check my entire stack","value":"here","link":"/cv/?model=stack"}
+			{"name":"Please check my entire stack","value":"here","link":"https://juancho386.github.io/cv/?model=stack"}
 		]},
 		{"name":"Last 3 jobs","items":[
 			{"name":"Monstarlab CZ","items":[
