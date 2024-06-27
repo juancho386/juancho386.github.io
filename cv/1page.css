@@ -7,3 +7,13 @@ div.tl_dr>div:last-child {
 div.tl_dr>div:last-child>span {
 	background-color: white
 }
+img {
+	display: none;
+	position: absolute;
+	right: 5px;
+}
+@media print {
+	img {
+		display: block;
+	}
+}
