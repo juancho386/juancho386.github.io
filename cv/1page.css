@@ -9,8 +9,7 @@ div.tl_dr>div:last-child>span {
 }
 img {
 	display: none;
-	position: absolute;
-	right: 5px;
+	float: right;
 }
 @media print {
 	img {
