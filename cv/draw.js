@@ -9,6 +9,9 @@
 function deploy(parentNode,obj,level) {
 	if ("image" in obj) {
 		const img=document.createElement("img")
+		const style=document.createAttribute("style")
+		style.value='display: none'
+		img.setAttribute(style)
 		const src=document.createAttribute("src")
 		src.value=obj.image
 		img.setAttributeNode(src)

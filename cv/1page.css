@@ -1,5 +1,8 @@
+div.about_me>div:last-child,div.contact>div:last-child {
+	display: none;
+}
 div.tl_dr>div>span:first-child {
-	background-color: yellow
+	background-color: yellow;
 }
 div.tl_dr>div:last-child {
 	margin-top: 10px;
@@ -8,11 +11,13 @@ div.tl_dr>div:last-child>span {
 	background-color: white
 }
 img {
-	display: none;
 	float: right;
 }
 @media print {
 	img {
+		display: block;
+	}
+	div.about_me>div:last-child {
 		display: block;
 	}
 }
