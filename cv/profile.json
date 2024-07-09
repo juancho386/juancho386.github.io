@@ -1,20 +1,65 @@
 {"cv":{
 	"name":"Juan Eduardo Casta\u00f1o Nestares",
 	"items":[
-		{"name":"See my 1page model cv","value":"here","link":"https://juancho386.github.io/cv/?model=1page"},
-		{"name":"All my stack","items":[
-			{"name":"Linux","value":"Since 1994. Many distributions"},
-			{"name":"Bash","value":"Tasks automations. From simple and repetitive up to complex CICD"},
-			{"name":"Apache","value":"Configuration and customizing webservers since 1998"},
-			{"name":"Terraform","value":"IaaC. From single EC2 up to serverless autoscalled multizone infrastructures."},
-			{"name":"AWS Cloud computing","value":"Managing over 30 different accounts."},
-			{"name":"CI/CD","value":"Scripting solutions for Github actions, Jenkins and Travis. Including non-convensional API calls."},
-			{"name":"Ansible","value":"I created automated solutions for croned tasks on multiple projects."},
-			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
-			{"name":"PHP stack","value":"ex PHP developer. Now with more focus on Devops, Automation and Infrastructure."},
-			{"name":"SQL","value":"Designing and managing. From ERD up to speed optimizations. MySQL and PostgreSQL."},
-			{"name":"Raspberry PI","value":"Developing all-sized custom solutions."},
-			{"name":"Monitoring","value":"Cloudwatch, Nagios, Logs servers administrator."}
+		{"name":"See my 1page model CV","value":"here","link":"https://juancho386.github.io/cv/?model=1page"},
+		{"name":"Personal projects","items":[
+			{"name":"GnT","value":"Python arcade game"},
+			{"name":"Braille for all","value":"Free braille coder, decoder and STL generator for 3D printers"}
+		]},
+		{"name":"Media","items":[
+			{"name":"Stackoverflow","value":"Juan","link":"https://stackoverflow.com/users/783084/juan"},
+			{"name":"Github","value":"@juancho386","link":"https://https://github.com/juancho386"},
+			{"name":"Chess.com","value":"@Threepwood079","link":"https://www.chess.com/member/threepwood079"},
+			{"name":"Instagram","value":"@Juancho079","link":"https://www.instagram.com/juancho079"}
+		]},
+		{"name":"Infrastructure certificates","items":[
+			{"name":"Certificated AWS Practitioner","value":"Since 2019"},
+			{"name":"Terraform","value":"Intense workshop on 2019"}
+		]},
+		{"name":"Programming","items":[
+			{"name":"Borland Pascal","value":""},
+			{"name":"Borland Delphi","value":""},
+			{"name":"Visual Basic","value":""},
+			{"name":"PHP","value":""},
+			{"name":"XSLT","value":""},
+			{"name":"Javascript","value":""},
+			{"name":"HTML/CSS","value":""},
+			{"name":"Python","value":""},
+			{"name":"Bash","value":""},
+			{"name":"C","value":""}
+		]},
+		{"name":"Scubadiving","items":[
+			{"name":"Open Water Diver","value":""},
+			{"name":"Advanced Open Water Diver","value":""},
+			{"name":"SSI Navigator","value":""},
+			{"name":"SSI Search and Recovery Specialist","value":""},
+			{"name":"PADI Ice Diver Specialist","value":""},
+			{"name":"PADI Dry Suit Specialist","value":""},
+			{"name":"SSI Helmet Diver (MarkV) Specialist","value":""},
+			{"name":"","value":""},
+			{"name":"Emergency First Responder","value":""},
+			{"name":"Automated External Defibrilator certified","value":""},
+			{"name":"Rescue Diver","value":""},
+			{"name":"Divemaster","value":""},
+			{"name":"Open Water Scuba Instructor","value":""},
+			{"name":"","value":""},
+			{"name":"","value":""},
+			{"name":"","value":""},
+			{"name":"","value":""},
+			{"name":"","value":""},
+			{"name":"","value":""},
+			{"name":"","value":""},
+			{"name":"","value":""},
+			{"name":"Emergency First Responde Instructor","value":""},
+			{"name":"Master Scuba Diver Trainner","value":""},
+			{"name":"PADI IDC Staff Instructor","value":""},
+			{"name":"PADI Master Instructor","value":""}
+		]},
+		{"name":"Hobbies","items":[
+			{"name":"Pingpon player","value":"Since 2002"},
+			{"name":"Chess player","value":"Since Oct 2021"},
+			{"name":"Violin player","value":"Since 2017"},
+			{"name":"Bicicle and Rollers","value":"Not as serious as it sounds"}
 		]}
 	]
 }}
