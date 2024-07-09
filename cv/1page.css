@@ -4,7 +4,7 @@ div.about_me>div:last-child,div.contact>div:last-child {
 div.tl_dr>div>span:first-child {
 	background-color: yellow;
 }
-div.tl_dr>div:last-child {
+div.tl_dr>div:last-child, div.trainings_and_studies>div:last-child {
 	margin-top: 10px;
 }
 div.tl_dr>div:last-child>span {
