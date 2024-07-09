@@ -12,11 +12,12 @@
 			{"name":"Chess.com","value":"@Threepwood079","link":"https://www.chess.com/member/threepwood079"},
 			{"name":"Instagram","value":"@Juancho079","link":"https://www.instagram.com/juancho079"}
 		]},
-		{"name":"Infrastructure certificates","items":[
-			{"name":"Certificated AWS Practitioner","value":"Since 2019"},
-			{"name":"Terraform","value":"Intense workshop on 2019"}
+		{"name":"Technical ertificates","items":[
+			{"name":"Basic Robotics","value":"Buenos Aires, Argentina, 2010"},
+			{"name":"Certificated AWS Practitioner","value":"Online, 2019"},
+			{"name":"Terraform Intensive Workshop","value":"Online, 2019"}
 		]},
-		{"name":"Programming","items":[
+		{"name":"Programming experience","items":[
 			{"name":"Borland Pascal","value":""},
 			{"name":"Borland Delphi","value":""},
 			{"name":"Visual Basic","value":""},
@@ -27,6 +28,12 @@
 			{"name":"Python","value":""},
 			{"name":"Bash","value":""},
 			{"name":"C","value":""}
+		]},
+		{"name":"Marine","items":[
+			{"name":"Timonel de Yate Vela y Motor","value":"Buenos Aires, Argentina, "},
+			{"name":"Patrón de Embarcaciones Recreativas","value":"Canarias, España, 2019"},
+			{"name":"Seguridad marítima","value":"Canarias, España, 2020"},
+			{"name":"Patrón de Yate","value":"Canarias, España, 2020"}
 		]},
 		{"name":"Scubadiving","items":[
 			{"name":"Open Water Diver","value":""},
@@ -59,7 +66,7 @@
 			{"name":"Pingpon player","value":"Since 2002"},
 			{"name":"Chess player","value":"Since Oct 2021"},
 			{"name":"Violin player","value":"Since 2017"},
-			{"name":"Bicicle and Rollers","value":"Not as serious as it sounds"}
+			{"name":"Bicicle and Rollers","value":"Not as serious as it might sounds"}
 		]}
 	]
 }}
