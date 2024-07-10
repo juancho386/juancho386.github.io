@@ -4,67 +4,35 @@
 		{"name":"See my 1page model CV","value":"here","link":"https://juancho386.github.io/cv/?model=1page"},
 		{"name":"Personal projects","items":[
 			{"name":"GnT","value":"Python arcade game"},
+			{"name":"Sea of Thieves Pro bot","value":"Telegram bot with knowledge base and crew functions for SoT players."},
 			{"name":"Braille for all","value":"Free braille coder, decoder and STL generator for 3D printers"}
 		]},
 		{"name":"Media","items":[
 			{"name":"Stackoverflow","value":"Juan","link":"https://stackoverflow.com/users/783084/juan"},
-			{"name":"Github","value":"@juancho386","link":"https://https://github.com/juancho386"},
-			{"name":"Chess.com","value":"@Threepwood079","link":"https://www.chess.com/member/threepwood079"},
+			{"name":"Github","value":"@juancho386","link":"https://github.com/juancho386"},
 			{"name":"Instagram","value":"@Juancho079","link":"https://www.instagram.com/juancho079"}
 		]},
-		{"name":"Technical ertificates","items":[
+		{"name":"Technical certificates","items":[
 			{"name":"Basic Robotics","value":"Buenos Aires, Argentina, 2010"},
 			{"name":"Certificated AWS Practitioner","value":"Online, 2019"},
 			{"name":"Terraform Intensive Workshop","value":"Online, 2019"}
 		]},
 		{"name":"Programming experience","items":[
-			{"name":"Borland Pascal","value":""},
-			{"name":"Borland Delphi","value":""},
-			{"name":"Visual Basic","value":""},
-			{"name":"PHP","value":""},
-			{"name":"XSLT","value":""},
-			{"name":"Javascript","value":""},
-			{"name":"HTML/CSS","value":""},
-			{"name":"Python","value":""},
-			{"name":"Bash","value":""},
-			{"name":"C","value":""}
-		]},
-		{"name":"Marine","items":[
-			{"name":"Timonel de Yate Vela y Motor","value":"Buenos Aires, Argentina, "},
-			{"name":"Patrón de Embarcaciones Recreativas","value":"Canarias, España, 2019"},
-			{"name":"Seguridad marítima","value":"Canarias, España, 2020"},
-			{"name":"Patrón de Yate","value":"Canarias, España, 2020"}
-		]},
-		{"name":"Scubadiving","items":[
-			{"name":"Open Water Diver","value":""},
-			{"name":"Advanced Open Water Diver","value":""},
-			{"name":"SSI Navigator","value":""},
-			{"name":"SSI Search and Recovery Specialist","value":""},
-			{"name":"PADI Ice Diver Specialist","value":""},
-			{"name":"PADI Dry Suit Specialist","value":""},
-			{"name":"SSI Helmet Diver (MarkV) Specialist","value":""},
-			{"name":"","value":""},
-			{"name":"Emergency First Responder","value":""},
-			{"name":"Automated External Defibrilator certified","value":""},
-			{"name":"Rescue Diver","value":""},
-			{"name":"Divemaster","value":""},
-			{"name":"Open Water Scuba Instructor","value":""},
-			{"name":"","value":""},
-			{"name":"","value":""},
-			{"name":"","value":""},
-			{"name":"","value":""},
-			{"name":"","value":""},
-			{"name":"","value":""},
-			{"name":"","value":""},
-			{"name":"","value":""},
-			{"name":"Emergency First Responde Instructor","value":""},
-			{"name":"Master Scuba Diver Trainner","value":""},
-			{"name":"PADI IDC Staff Instructor","value":""},
-			{"name":"PADI Master Instructor","value":""}
+			{"name":"Bash","value":"Professional level. Since 1994"},
+			{"name":"PHP","value":"Professional level"},
+			{"name":"XSLT","value":"Professional level"},
+			{"name":"Javascript","value":"Professional level"},
+			{"name":"HTML/CSS","value":"Professional level"},
+			{"name":"Python","value":"Junior level"},
+			{"name":"Borland Pascal","value":"Educational level"},
+			{"name":"Borland Delphi","value":"Educational level"},
+			{"name":"Visual Basic","value":"Educational level"},
+			{"name":"C","value":"Educational level"}
 		]},
 		{"name":"Hobbies","items":[
+			{"name":"Scubadiving","value":"Since 2002","link":"https://juancho386.github.com/cv/?index=scuba"},
 			{"name":"Pingpon player","value":"Since 2002"},
-			{"name":"Chess player","value":"Since Oct 2021"},
+			{"name":"Chess player","value":"Since Oct 2021","link":"https://www.chess.com/member/threepwood079"},
 			{"name":"Violin player","value":"Since 2017"},
 			{"name":"Bicicle and Rollers","value":"Not as serious as it might sounds"}
 		]}
