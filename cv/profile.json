@@ -13,9 +13,11 @@
 			{"name":"Instagram","value":"@Juancho079","link":"https://www.instagram.com/juancho079"}
 		]},
 		{"name":"Technical certificates","items":[
-			{"name":"Basic Robotics","value":"Buenos Aires, Argentina, 2010"},
 			{"name":"Certificated AWS Practitioner","value":"Online, 2019"},
-			{"name":"Terraform Intensive Workshop","value":"Online, 2019"}
+			{"name":"Terraform Intensive Workshop","value":"Online, 2019"},
+			{"name":"Basic Robotics","value":"Buenos Aires, Argentina, 2010"},
+			{"name":"Analista de Sistema de Información","value":"Buenos Aires, Argentina, 2002"},
+			{"name":"Técnico superior en computación con orientación en desarrollo de software","value":"Buenos Aires, Argentina, 1997"}
 		]},
 		{"name":"Programming experience","items":[
 			{"name":"Bash","value":"Professional level. Since 1994"},
