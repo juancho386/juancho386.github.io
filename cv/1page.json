@@ -18,16 +18,16 @@
 			{"name":"Italiano","value":"(A1) Orale, di base"}
 		]},
 		{"name":"TL;DR", "items":[
-			{"name":"Linux","value":"Linux user since 1994. Sometimes, admin. Evangelist of Linux as Desktop"},
-			{"name":"Bash scripting","value":"I have created and maintained scripts for personal and professional use for many purposes. I love to create solutions involving API calls from 3rd parties."},
 			{"name":"Terraform","value":"Favorite tool for IaaC. I can also do Cloud Formation over Serverless."},
 			{"name":"AWS Cloud computing","value":"Creating and maintaining infrastructure since 2013 using many AWS products with resources on instances, on containers and serverless."},
+			{"name":"Linux","value":"User and admin. Evangelist of Linux as Desktop"},
+			{"name":"Bash scripting","value":"I have created and maintained scripts for personal and professional use for many purposes. I love to create solutions involving API calls from 3rd parties."},
 			{"name":"CI/CD","value":"I made deployment scripts in Github, Jenkins and Travis. Alternative actions using Github API calls."},
 			{"name":"Ansible","value":"Prefered Configuration Management Tool on multiple projects."},
 			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
 			{"name":"Developer background","value":"ex PHP developer. Forging my career to DevOp and Infrastructure Engineer."},
 			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."},
-			{"name":"Please check my entire stack","value":"here","link":"https://juancho386.github.io/cv/?model=stack"}
+			{"name":"My entire stack","value":"here","link":"https://juancho386.github.io/cv/?model=stack"}
 		]},
 		{"name":"Last 3 jobs","items":[
 			{"name":"Monstarlab CZ","items":[
@@ -36,10 +36,11 @@
 				{"name":"Learnt","list":[
 					"Security on AWS. Implementing OIDC and SSM.",
 					"D.R.Y. Terraform IaaC.",
-					"Automation Bash Scripting.",
-					"AWS Autoscaling for major cost saving.",
+					"Bash Scripting solutions development.",
+					"Hosts automations with Ansible ",
+					"Cloud architect. Costs savings and performance improvements.",
 					"Github Actions as CICD.",
-					"Serverless on Fargate infrastructure."
+					"Serverless autoscalable on Fargate infrastructure."
 				]}
 			]},
 			{"name":"Teracloud-io","items":[
@@ -61,18 +62,13 @@
 					"Telegram BOT development.",
 					"SEO and Apache configuration."
 				]}
-			]},
-			{"name":"all","value":"my jobs","link":"https://juancho386.github.io/cv/?model=jobs"}
+			]}
 		]},
 		{"name":"Trainings and studies", "items":[
-			{"value":"Robotics, Buenos Aires, Argentina"},
 			{"value":"AWS Cloud Practitioner"},
 			{"value":"Analista de sistemas, I.S.F.D. y T.#114, José G. Tupac Amarú II, Buenos Aires, Argentina"},
 			{"value":"Técnico en Computación, Escuela de Educación Técnica Nro 5, Buenos Aires, Argentina"},
-			{"value":"Professional Scuba Instructors Trainer"},
-			{"value":"Emergency First Response Instructor"},
-			{"value":"Patrón de Yate, Canarias, España"},
-			{"value":"Timonel de Yate a Vela y Motor, Buenos Aires, Argentina"},
+			{"value":"Robotics, Buenos Aires, Argentina"},
 			{"name":"my","value":"full profile","link":"https://juancho386.github.io/cv/?model=profile"}
 		]}
 	]}

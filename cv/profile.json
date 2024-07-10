@@ -3,9 +3,9 @@
 	"items":[
 		{"name":"See my 1page model CV","value":"here","link":"https://juancho386.github.io/cv/?model=1page"},
 		{"name":"Personal projects","items":[
-			{"name":"GnT","value":"Python arcade game"},
-			{"name":"Sea of Thieves Pro bot","value":"Telegram bot with knowledge base and crew functions for SoT players."},
-			{"name":"Braille for all","value":"Free braille coder, decoder and STL generator for 3D printers"}
+			{"name":"GnT","value":"2D Python arcade game."},
+			{"name":"Sea of Thieves Pro bot","value":"Telegram bot with knowledge base and crew functions for community players."},
+			{"name":"Braille for all","value":"Free braille coder, decoder and object generator for 3D printers."}
 		]},
 		{"name":"Media","items":[
 			{"name":"Stackoverflow","value":"Juan","link":"https://stackoverflow.com/users/783084/juan"},
@@ -13,29 +13,26 @@
 			{"name":"Instagram","value":"@Juancho079","link":"https://www.instagram.com/juancho079"}
 		]},
 		{"name":"Technical certificates","items":[
-			{"name":"Certificated AWS Practitioner","value":"Online, 2019"},
-			{"name":"Terraform Intensive Workshop","value":"Online, 2019"},
-			{"name":"Basic Robotics","value":"Buenos Aires, Argentina, 2010"},
-			{"name":"Analista de Sistema de Información","value":"Buenos Aires, Argentina, 2002"},
-			{"name":"Técnico superior en computación con orientación en desarrollo de software","value":"Buenos Aires, Argentina, 1997"}
+			{"name":"Certificated AWS Practitioner","value":"Online"},
+			{"name":"Terraform Intensive Workshop","value":"Online"},
+			{"name":"Basic Robotics","value":"Buenos Aires, Argentina"},
+			{"name":"Analista de Sistema de Información","value":"Buenos Aires, Argentina"},
+			{"name":"Técnico superior en computación con orientación en desarrollo de software","value":"Buenos Aires, Argentina"}
 		]},
 		{"name":"Programming experience","items":[
-			{"name":"Bash","value":"Professional level. Since 1994"},
-			{"name":"PHP","value":"Professional level. Since 2002"},
+			{"name":"Bash","value":"Professional level"},
+			{"name":"PHP","value":"Professional level"},
 			{"name":"XSLT/XML","value":"Professional level. 4 years"},
-			{"name":"Javascript","value":"Professional level. Since 2002"},
-			{"name":"HTML/CSS","value":"Professional level. Since 2002"},
+			{"name":"Javascript","value":"Professional level."},
+			{"name":"HTML/CSS","value":"Professional level."},
 			{"name":"Python","value":"Junior level"},
-			{"name":"Borland Pascal","value":"Educational level"},
-			{"name":"Borland Delphi","value":"Educational level"},
-			{"name":"Visual Basic","value":"Educational level"},
 			{"name":"C","value":"Educational level"}
 		]},
 		{"name":"Hobbies","items":[
-			{"name":"Scubadiving","value":"Since 2002","link":"https://juancho386.github.io/cv/?model=scuba"},
-			{"name":"Pinpong player","value":"Since 2002"},
+			{"name":"Pinpong player","value":"For fun."},
 			{"name":"Chess enthuciast","value":"Since Oct 2021","link":"https://www.chess.com/member/threepwood079"},
-			{"name":"Violin player","value":"Since 2017"},
+			{"name":"Violin player","value":"Started on 2017"},
+			{"name":"Scubadiving","value":"Since 2007","link":"https://juancho386.github.io/cv/?model=scuba"},
 			{"name":"Bicicle and Rollers","value":"Not as serious as it might sounds"}
 		]}
 	]
