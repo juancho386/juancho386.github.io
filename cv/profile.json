@@ -19,10 +19,10 @@
 		]},
 		{"name":"Programming experience","items":[
 			{"name":"Bash","value":"Professional level. Since 1994"},
-			{"name":"PHP","value":"Professional level"},
-			{"name":"XSLT","value":"Professional level"},
-			{"name":"Javascript","value":"Professional level"},
-			{"name":"HTML/CSS","value":"Professional level"},
+			{"name":"PHP","value":"Professional level. Since 2002"},
+			{"name":"XSLT/XML","value":"Professional level. 4 years"},
+			{"name":"Javascript","value":"Professional level. Since 2002"},
+			{"name":"HTML/CSS","value":"Professional level. Since 2002"},
 			{"name":"Python","value":"Junior level"},
 			{"name":"Borland Pascal","value":"Educational level"},
 			{"name":"Borland Delphi","value":"Educational level"},
@@ -31,8 +31,8 @@
 		]},
 		{"name":"Hobbies","items":[
 			{"name":"Scubadiving","value":"Since 2002","link":"https://juancho386.github.io/cv/?model=scuba"},
-			{"name":"Pingpon player","value":"Since 2002"},
-			{"name":"Chess player","value":"Since Oct 2021","link":"https://www.chess.com/member/threepwood079"},
+			{"name":"Pinpong player","value":"Since 2002"},
+			{"name":"Chess enthuciast","value":"Since Oct 2021","link":"https://www.chess.com/member/threepwood079"},
 			{"name":"Violin player","value":"Since 2017"},
 			{"name":"Bicicle and Rollers","value":"Not as serious as it might sounds"}
 		]}
