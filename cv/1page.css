@@ -1,29 +1,32 @@
 body {
 	display: grid;
-	grid-template-columns: 1fr 1fr;
+	grid-template-columns: 15% max-content;
 	grid-template-rows: auto;
 	gap: 10px;
 }
 h1 {
-	grid-column: 1 / span 2;
+	grid-column: 2;
 	grid-row: 1;
+}
+div.contact {
+	grid-column: 2;
+	grid-row: 2;
+}
+div.about_me {
+	grid-column: 1;
+	grid-row: 2 / span 4;
 }
 div.about_me>div:last-child,div.contact>div:last-child {
 	display: none;
 }
-div.contact {
-	grid-column: 1;
-	grid-row: 1 / span 2;
-}
 div.languages {
 	grid-column: 1;
-	grid-row: 1 / span 4;
+	grid-row: 3 / span 4;
 }
 div.td_dr {
-	grid-column: 1;
-	grid-row: 1 / span 2;
+	grid-column: 2;
+	grid-row: span 2;
 }
-
 div.tl_dr>div>span:first-child {
 	background-color: yellow;
 }
@@ -33,6 +36,10 @@ div.tl_dr>div:last-child, div.trainings_and_studies>div:last-child {
 div.tl_dr>div:last-child>span {
 	background-color: white
 }
+div.last___jobs {
+	grid-column: 2
+}
+
 img {
 	float: right;
 }

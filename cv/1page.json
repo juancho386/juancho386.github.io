@@ -7,8 +7,8 @@
 			{"name":"Email","value":"kamaedb.a+cv1@gmail.com","link":"mailto:kamaedb.a+cv1@gmail.com?subject=Job%20position"}
 		]},
 		{"name":"About me","items":[
-			{"name":"Intro", "value":"Experienced and pasionate engineer. Looking for permanent positions in a solid company. Team member. OK with relocations."},
-			{"name":"Nationalities and gender","value":"Spanish and Argentinian (he-him-his)"},
+			{"name":"Nationalities","value":"Spanish and Argentinian"},
+			{"name":"Pronouns","value":"He / His / Him"},
 			{"name":"Current Residence","value":"Praha, Czech Republic"},
 			{"name":"Online version of this CV","value":"click here","link":"https://juancho386.github.io/cv/?model=1page"}
 		]},
@@ -17,14 +17,13 @@
 			{"name":"English","value":"(C1) Fluent"},
 			{"name":"Italiano","value":"(A1) Orale, di base"}
 		]},
-		{"name":"TL;DR", "items":[
-			{"name":"Terraform","value":"Favorite tool for IaaC. I can also do Cloud Formation over Serverless."},
-			{"name":"AWS Cloud computing","value":"Creating and maintaining infrastructure since 2013 using many AWS products with resources on instances, on containers and serverless."},
-			{"name":"Linux","value":"User and admin. Evangelist of Linux as Desktop"},
-			{"name":"Bash scripting","value":"I have created and maintained scripts for personal and professional use for many purposes. I love to create solutions involving API calls from 3rd parties."},
-			{"name":"CI/CD","value":"I made deployment scripts in Github, Jenkins and Travis. Alternative actions using Github API calls."},
+		{"name":"Summary", "items":[
+			{"name":"Terraform","value":"5 years in multiple projects. With Cloud Formation over Serverless experience."},
+			{"name":"AWS","value":"Since 2013. Multiple products. Multiregion. High availability. Container oriented and serverless."},
+			{"name":"Linux","value":"Evangelist of Linux as Desktop since more than 20 years"},
+			{"name":"Bash scripting","value":"Automating proceudres since Linux Kernel v1.2.34."},
+			{"name":"CI/CD","value":"Mainly using Github actions but also experience with Jenkins and Travis."},
 			{"name":"Ansible","value":"Prefered Configuration Management Tool on multiple projects."},
-			{"name":"Attlassian Cloud","value":"Jira, Confluence, regular day of work"},
 			{"name":"Developer background","value":"ex PHP developer. Forging my career to DevOp and Infrastructure Engineer."},
 			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."},
 			{"name":"My entire stack","value":"here","link":"https://juancho386.github.io/cv/?model=stack"}
@@ -33,7 +32,7 @@
 			{"name":"Monstarlab CZ","items":[
 				{"name":"Period","value":"Feb 2022 - Today"},
 				{"name":"As","value": "Infrastructure Engineer (level 2)"},
-				{"name":"Learnt","list":[
+				{"name":"Responsibilities","list":[
 					"Security on AWS. Implementing OIDC and SSM.",
 					"D.R.Y. Terraform IaaC.",
 					"Bash Scripting solutions development.",
@@ -46,7 +45,7 @@
 			{"name":"Teracloud-io","items":[
 				{"name":"Period","value":"May 2020 - Feb 2022"},
 				{"name":"As","value": "Devop Engineer"},
-				{"name":"Learnt","list":[
+				{"name":"Responsibilities","list":[
 					"Terraform IaaC.",
 					"Implementing CVE findings y bugtracking.",
 					"Jenkins CICD scripting.",
@@ -56,7 +55,7 @@
 			{"name":"Northdiving Lanzarote","items":[
 				{"name":"Period","value":"Jul 2015 - Jun 2020"},
 				{"name":"As","value":"Owner / Partner"},
-				{"name":"Learnt","list":[
+				{"name":"Responsibilities","list":[
 					"ARM development.",
 					"CRUD development.",
 					"Telegram BOT development.",
@@ -64,11 +63,9 @@
 				]}
 			]}
 		]},
-		{"name":"Trainings and studies", "items":[
-			{"value":"AWS Cloud Practitioner"},
+		{"name":"Technical degree", "items":[
 			{"value":"Analista de sistemas, I.S.F.D. y T.#114, José G. Tupac Amarú II, Buenos Aires, Argentina"},
 			{"value":"Técnico en Computación, Escuela de Educación Técnica Nro 5, Buenos Aires, Argentina"},
-			{"value":"Robotics, Buenos Aires, Argentina"},
 			{"name":"my","value":"full profile","link":"https://juancho386.github.io/cv/?model=profile"}
 		]}
 	]}
