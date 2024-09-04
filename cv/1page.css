@@ -44,12 +44,12 @@ img {
 /*	float: right; */
 }
 @media print {
-	img {
+	.contact>img {
 		display: block !important;
 		position: absolute;
-		top: 1px;
-		left: 1px;
-		width: 8%;
+		top: 10px;
+		left: 15px;
+		width: 6%;
 	}
 	div.about_me>div:last-child {
 		display: block;
