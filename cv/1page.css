@@ -1,27 +1,27 @@
 body {
-	display: flex;
-	flex-wrap: wrap;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-template-rows: auto;
+	gap: 10px;
 }
-
 h1 {
-	align-self: self-start;
-	width: 98%;
-}
-body>div {
-	width: 45%
+	grid-column: 1 / span 2;
+	grid-row: 1;
 }
 div.about_me>div:last-child,div.contact>div:last-child {
 	display: none;
 }
 div.contact {
-	width: 20%;
+	grid-column: 1;
+	grid-row: 1 / span 2;
 }
 div.languages {
-	align-self: self-start;
-	width: 20%;
+	grid-column: 1;
+	grid-row: 1 / span 4;
 }
 div.td_dr {
-	align-self: self-end;
+	grid-column: 1;
+	grid-row: 1 / span 2;
 }
 
 div.tl_dr>div>span:first-child {
