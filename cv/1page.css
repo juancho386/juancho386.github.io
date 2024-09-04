@@ -13,9 +13,15 @@ body>div {
 div.about_me>div:last-child,div.contact>div:last-child {
 	display: none;
 }
+div.contact {
+	width: 20%;
+}
 div.languages {
 	align-self: self-start;
-	width: 35%;
+	width: 20%;
+}
+div.td_dr {
+	align-self: self-end;
 }
 
 div.tl_dr>div>span:first-child {
