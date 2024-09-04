@@ -23,17 +23,17 @@ div.languages {
 	grid-column: 1;
 	grid-row: 3 / span 4;
 }
-div.td_dr {
+div.summary {
 	grid-column: 2;
 	grid-row: span 2;
 }
-div.tl_dr>div>span:first-child {
+div.summary>div>span:first-child {
 	background-color: yellow;
 }
-div.tl_dr>div:last-child, div.trainings_and_studies>div:last-child {
+div.summary>div:last-child, div.trainings_and_studies>div:last-child {
 	margin-top: 10px;
 }
-div.tl_dr>div:last-child>span {
+div.summary>div:last-child>span {
 	background-color: white
 }
 div.last___jobs {
