@@ -1,6 +1,5 @@
 body {
 	display: grid;
-	grid-template-columns: 15% max-content;
 	grid-template-rows: auto;
 	gap: 10px;
 }
@@ -44,7 +43,15 @@ div.last___jobs {
 img {
 /*	float: right; */
 }
-@media print {
+@media only screen {
+	body {
+		grid-template-columns: 15% max-content;
+	}
+}
+@media only print {
+	body {
+		grid-template-columns: max-content 800px;
+	}
 	.contact>img {
 		display: block !important;
 		position: absolute;
