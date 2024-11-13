@@ -50,6 +50,10 @@ div.summary>div:last-child>span {
 div.last___jobs {
 	grid-column: 2
 }
+div.technical_degree {
+	grid-column: 2;
+	grid-row: 8;
+}
 
 img {
 /*	float: right; */
