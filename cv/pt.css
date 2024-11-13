@@ -65,7 +65,10 @@ img {
 }
 @media only print {
 	body {
-		grid-template-columns: 20% 800px;
+		grid-template-columns: 30% 800px;
+	}
+	div.intro {
+		width: 700px;
 	}
 	.contact>img {
 		display: block !important;
