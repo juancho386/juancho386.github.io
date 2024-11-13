@@ -6,10 +6,13 @@
 			{"name":"Telegram ID","value":"Juancho079","link":"https://t.me/Juancho079"},
 			{"name":"Email","value":"kamaedb.a+cv1@gmail.com","link":"mailto:kamaedb.a+cv_pt@gmail.com?subject=Job%20position"}
 		]},
+		{"name":"Intro","items":[
+			{"name":"","value":"Native Spanish Engineer with a strong background on linux machines, solid infrastructure and devops experience looking for oportunities on Portugal."}
+		]},
 		{"name":"About me","items":[
 			{"name":"Nationalities","value":"Spanish and Argentinian"},
 			{"name":"Pronouns","value":"He / His / Him"},
-			{"name":"Current Residence","value":"Praha, Czech Republic but looking for <b>move to Portugal</b>"},
+			{"name":"Current Residence","value":"Praha, Czech Republic but looking for move to Portugal"},
 			{"name":"Online version of this CV","value":"click here","link":"https://juancho386.github.io/cv/?model=pt"}
 		]},
 		{"name":"Languages","items":[
@@ -26,7 +29,7 @@
 			{"name":"CI/CD","value":"Mainly using Github actions but also experience with Jenkins and Travis."},
 			{"name":"Ansible","value":"Prefered Configuration Management Tool on multiple projects."},
 			{"name":"Developer background","value":"ex PHP developer. Forging my career to DevOp and Infrastructure Engineer."},
-			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."},
+			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Ms SQL server."},
 			{"name":"My entire stack","value":"here","link":"https://juancho386.github.io/cv/?model=stack"}
 		]},
 		{"name":"Last 3 jobs","items":[
