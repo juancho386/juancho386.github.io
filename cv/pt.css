@@ -12,8 +12,11 @@ div.intro {
 	grid-column: 2;
 	grid-row: 2;
 }
-div.intro > div > span:nth-child(2) {
+div.intro > div > span:nth-child(2), div.intro > div > h2 {
 	display: none;
+}
+div.intro > div > span:nth-child(3) {
+	font-size: 1.5em;
 }
 div.about_me {
 	grid-column: 1;
