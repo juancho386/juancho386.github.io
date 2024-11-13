@@ -25,7 +25,7 @@ div.contact {
 }
 div.about_me {
 	grid-column: 1;
-	grid-row: 4 / span 4;
+	grid-row: 5;
 }
 div.about_me>div:last-child,div.contact>div:last-child {
 	display: none;
@@ -65,7 +65,7 @@ img {
 }
 @media only print {
 	body {
-		grid-template-columns: max-content 800px;
+		grid-template-columns: 20% 800px;
 	}
 	.contact>img {
 		display: block !important;
