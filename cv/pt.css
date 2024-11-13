@@ -12,7 +12,7 @@ div.intro {
 	grid-column: 2;
 	grid-row: 2;
 }
-div.intro>div>span:nth-child(1), div.intro>div>span:nth-child(2) {
+div.intro > div > span:nth-child(2) {
 	display: none;
 }
 div.about_me {
