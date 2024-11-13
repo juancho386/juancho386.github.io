@@ -10,7 +10,7 @@ h1 {
 }
 div.intro {
 	grid-column: 2;
-	grid-row: 2;
+	grid-row: 3;
 }
 div.intro > div > span:nth-child(2),
 div.intro h2 {
@@ -32,7 +32,7 @@ div.about_me>div:last-child,div.contact>div:last-child {
 }
 div.languages {
 	grid-column: 1;
-	grid-row: 3;
+	grid-row: 3 / span 4;
 }
 div.summary {
 	grid-column: 2;
