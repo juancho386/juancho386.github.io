@@ -19,7 +19,7 @@
 			{"name":"Espa\u00f1ol","value":"Nativo"},
 			{"name":"English","value":"(C1) Fluent"},
 			{"name":"Italiano","value":"(A1) Orale, di base"},
-			{"name":"Português","value":"Começando a aprender"}
+			{"name":"Português","value":"Começando"}
 		]},
 		{"name":"Summary", "items":[
 			{"name":"Terraform","value":"5 years in multiple projects. With Cloud Formation over Serverless experience."},

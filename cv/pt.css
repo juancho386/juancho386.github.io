@@ -79,5 +79,6 @@ img {
 	}
 	div.about_me>div:last-child {
 		display: block;
+		margin-top: 38px;
 	}
 }
