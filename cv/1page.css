@@ -10,7 +10,7 @@ h1 {
 }
 div.intro {
 	grid-column: 2;
-	grid-row: 2;
+	grid-row: 3;
 }
 div.intro > div > span:nth-child(2), div.intro h2 {
 	display: none;
@@ -55,7 +55,7 @@ img {
 }
 @media only screen {
 	body {
-		grid-template-columns: 15% auto;
+		grid-template-columns: 15% 70%;
 	}
 }
 @media only print {
