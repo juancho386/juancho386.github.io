@@ -1,7 +1,9 @@
 {"cv":{
 	"name":"Juan Eduardo Casta\u00f1o Nestares",
 	"items":[
-		{"name":"Intro","value":"I am a versatile professional with experience in technology, teaching, and diving. I have developed skills in software development, electronics, and cybersecurity, complemented by a strong background as a certified diving instructor. My passion for continuous learning and teaching allows me to adapt to diverse environments, while my technical expertise ensures effective and efficient solutions. I seek opportunities that combine innovation and teamwork, with a particular interest in contributing to impactful technology projects."},
+		{"name":"Intro","items":[
+			{"name":"","value":"I am a versatile professional with experience in technology, teaching, and diving. I have developed skills in software development, electronics, and cybersecurity, complemented by a strong background as a certified diving instructor. My passion for continuous learning and teaching allows me to adapt to diverse environments, while my technical expertise ensures effective and efficient solutions. I seek opportunities that combine innovation and teamwork, with a particular interest in contributing to impactful technology projects."}
+		]},
 		{"name":"Contact","items":[
 			{"image":"https://juancho386.github.io/cv/qr_cv.png"},
 			{"name":"Telegram ID","value":"Juancho079","link":"https://t.me/Juancho079"},
