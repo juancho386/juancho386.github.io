@@ -60,7 +60,7 @@ img {
 }
 @media only print {
 	body {
-		grid-template-columns: max-content 800px;
+		grid-template-columns: 30% 800px;
 	}
 	.contact>img {
 		display: block !important;
