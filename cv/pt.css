@@ -60,7 +60,7 @@ img {
 }
 @media only screen {
 	body {
-		grid-template-columns: 15% max-content;
+		grid-template-columns: 15% 70%;
 	}
 }
 @media only print {

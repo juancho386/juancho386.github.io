@@ -14,7 +14,15 @@
 			{"name":"PHP stack","value":"ex PHP developer. Now with more focus on Devops, Automation and Infrastructure."},
 			{"name":"SQL","value":"Designing and managing. From ERD up to speed optimizations. MySQL and PostgreSQL."},
 			{"name":"Raspberry PI","value":"Developing all-sized custom solutions."},
-			{"name":"Monitoring","value":"Cloudwatch, Nagios, Logs servers administrator."}
+			{"name":"Monitoring","value":"Cloudwatch, Nagios, Logs servers administrator."},
+			{"name":"Arduino","value":"Experimenting with Arduino-IDE over ESP32 and Raspberry Pi Pico."},
+			{"name":"Python","value":""},
+			{"name":"","value":""}
+		]},
+		{"name":"Personal projects","items":[
+			{"name":"SHHH","value":"."},
+			{"name":"Cyberdeck","value":"."},
+			{"name":"","value":"."}
 		]}
 	]
 }}

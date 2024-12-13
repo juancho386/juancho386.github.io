@@ -8,20 +8,24 @@ h1 {
 	grid-column: 2;
 	grid-row: 1;
 }
+div.intro {
+	grid-column: 3;
+	grid-row: 2;
+}
 div.contact {
 	grid-column: 2;
 	grid-row: 2;
 }
 div.about_me {
 	grid-column: 1;
-	grid-row: 4 / span 4;
+	grid-row: 5;
 }
 div.about_me>div:last-child,div.contact>div:last-child {
 	display: none;
 }
 div.languages {
 	grid-column: 1;
-	grid-row: 3;
+	grid-row: 3 / span 4;
 }
 div.summary {
 	grid-column: 2;
@@ -45,7 +49,7 @@ img {
 }
 @media only screen {
 	body {
-		grid-template-columns: 15% max-content;
+		grid-template-columns: 15% auto;
 	}
 }
 @media only print {
