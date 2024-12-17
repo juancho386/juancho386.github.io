@@ -12,12 +12,12 @@ div.intro {
 	grid-column: 2;
 	grid-row: 3;
 }
+body>div>div.intro {
+	margin: 0;
+}
 div.intro > div > span:nth-child(2),
 div.intro h2 {
 	display: none;
-}
-div.intro > div > span:nth-child(3) {
-	font-size: 1.5em;
 }
 div.contact {
 	grid-column: 2;

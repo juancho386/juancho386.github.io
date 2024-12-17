@@ -21,10 +21,10 @@
 		{"name":"Personal projects","items":[
 			{"name":"SHHH","value":"Open source implementation of message encription, decryption, signing and verification using OpenSSL."},
 			{"name":"Linux Cyberdeck","value":"Handheld computer with integrated circuits of my design."},
-			{"name":"Clockify CLI","value":"Kiosk for time management."},
+			{"name":"Clockify CLI","value":"Kiosk for task's time management."},
 			{"name":"xEnv","value":"Local password management using OpenSSL libreries for encription."},
 			{"name":"AFK dondle","value":"USB dondle that emulates a keyboard that sends key interruptions to avoid being kicked from computer games by timeout."},
-			{"name":"Braille","value":"Creates 3D printer objects with braile texts."},
+			{"name":"Braille","value":"Creates STL files for 3D printer objects with braille texts."},
 			{"name":"SoT Bot","value":"Telegram bot with Knowledge base tools and groupal activities coordination."}
 		]}
 	]
