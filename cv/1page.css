@@ -12,12 +12,12 @@ div.intro {
 	grid-column: 2;
 	grid-row: 3;
 }
+body > div.intro > div {
+	margin: 0;
+}
 div.intro > div > span:nth-child(2),
 div.intro h2 {
 	display: none;
-}
-div.intro > div > span:nth-child(3) {
-	font-size: 1.5em;
 }
 div.contact {
 	grid-column: 2;
@@ -52,9 +52,8 @@ div.last___jobs {
 }
 div.technical_degree {
 	grid-column: 2;
-	grid-row:8;
+	grid-row: 8;
 }
-
 
 img {
 /*	float: right; */
@@ -68,6 +67,9 @@ img {
 	body {
 		grid-template-columns: 30% 800px;
 	}
+	div.intro {
+		width: 700px;
+	}
 	.contact>img {
 		display: block !important;
 		position: absolute;
@@ -77,6 +79,7 @@ img {
 	}
 	div.about_me>div:last-child {
 		display: block;
+		margin-top: 38px;
 	}
 }
 
