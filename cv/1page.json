@@ -1,13 +1,13 @@
 {"cv":{
 	"name":"Juan Eduardo Casta\u00f1o Nestares",
 	"items":[
-		{"name":"Intro","items":[
-			{"name":"","value":"I am a versatile professional with experience in technology, teaching, and diving. I have developed skills in software development, electronics, and cybersecurity, complemented by a strong background as a certified diving instructor. My passion for continuous learning and teaching allows me to adapt to diverse environments, while my technical expertise ensures effective and efficient solutions. I seek opportunities that combine innovation and teamwork, with a particular interest in contributing to impactful technology projects."}
-		]},
 		{"name":"Contact","items":[
 			{"image":"https://juancho386.github.io/cv/qr_cv.png"},
 			{"name":"Telegram ID","value":"Juancho079","link":"https://t.me/Juancho079"},
 			{"name":"Email","value":"kamaedb.a+cv1@gmail.com","link":"mailto:kamaedb.a+cv1@gmail.com?subject=Job%20position"}
+		]},
+		{"name":"Intro","items":[
+			{"name":"","value":"I am a versatile professional with experience in technology, teaching, and diving. I have developed skills in software development, electronics, and cybersecurity, complemented by a strong background as a certified diving instructor. My passion for continuous learning and teaching allows me to adapt to diverse environments, while my technical expertise ensures effective and efficient solutions. I seek opportunities that combine innovation and teamwork, with a particular interest in contributing to impactful technology projects."}
 		]},
 		{"name":"About me","items":[
 			{"name":"Nationalities","value":"Spanish and Argentinian"},
@@ -21,21 +21,21 @@
 			{"name":"Italiano","value":"(A1) Orale, di base"}
 		]},
 		{"name":"Summary", "items":[
-			{"name":"Terraform","value":"5 years in multiple projects. With Cloud Formation over Serverless experience."},
-			{"name":"AWS","value":"Since 2013. Multiple products. Multiregion. High availability. Container oriented and serverless."},
 			{"name":"Linux","value":"Evangelist of Linux as Desktop since more than 20 years"},
 			{"name":"Bash scripting","value":"Automating proceudres since Linux Kernel v1.2.34."},
+			{"name":"Terraform","value":"5 years in multiple projects. With Cloud Formation over Serverless experience."},
+			{"name":"AWS","value":"Since 2013. Multiple products. Multiregion. High availability. Container oriented and serverless."},
 			{"name":"CI/CD","value":"Mainly using Github actions but also experience with Jenkins and Travis."},
 			{"name":"Ansible","value":"Prefered Configuration Management Tool on multiple projects."},
 			{"name":"Developer background","value":"ex PHP developer. Forging my career to DevOp and Infrastructure Engineer."},
-			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and Microsoft SQL server."},
+			{"name":"SQL","value":"Creating data structures and complex queries for developers and BI engineers. Including functions and procs for MySQL, PostgreSQL and MsSQL server."},
 			{"name":"My entire stack","value":"here","link":"https://juancho386.github.io/cv/?model=stack"}
 		]},
 		{"name":"Last 3 jobs","items":[
 			{"name":"Monstarlab CZ","items":[
 				{"name":"Period","value":"Feb 2022 - Dec 2024"},
 				{"name":"As","value": "Infrastructure Engineer (level 2)"},
-				{"name":"Responsibilities","list":[
+				{"name":"Main responsibilities","list":[
 					"Security on AWS. Implementing OIDC and SSM.",
 					"D.R.Y. Terraform IaaC.",
 					"Bash Scripting solutions development.",
@@ -48,20 +48,20 @@
 			{"name":"Teracloud-io","items":[
 				{"name":"Period","value":"May 2020 - Feb 2022"},
 				{"name":"As","value": "Devop Engineer"},
-				{"name":"Responsibilities","list":[
-					"Terraform IaaC.",
+				{"name":"Main responsibilities","list":[
+					"Terraform IaaC on many accounts.",
 					"Implementing CVE findings y bugtracking.",
-					"Jenkins CICD scripting.",
-					"Serverless on Lambda infrastructure."
+					"Jenkins CICD scripting for IOT.",
+					"Serverless on Lambda infrastructure for banking."
 				]}
 			]},
 			{"name":"Northdiving Lanzarote","items":[
 				{"name":"Period","value":"Jul 2015 - Jun 2020"},
 				{"name":"As","value":"Owner / Partner"},
-				{"name":"Responsibilities","list":[
+				{"name":"Main responsibilities","list":[
 					"ARM development.",
 					"CRUD development.",
-					"Telegram BOT development.",
+					"Telegram BOT development on LAMP.",
 					"SEO and Apache configuration."
 				]}
 			]}
