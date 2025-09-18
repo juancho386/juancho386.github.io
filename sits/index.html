@@ -19,9 +19,9 @@ file://///wsl.localhost/Ubuntu/home/j/work/juancho386/juancho386.github.io/sits/
 
 	function show(rawObj) {
 		const obj=rawObj.sits
-		var d=document.getElementsById("map")
+		var d=document.getElementById("map")
 		for (let i=0,j=obj.items.length; i<j; i++) {
-			deploy(obj.items[i])
+			deploy(d,obj.items[i])
 		}
 	}
 

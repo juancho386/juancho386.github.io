@@ -1,4 +1,4 @@
-function deploy(obj) {
+function deploy(parentNode,obj) {
 	const map=document.getElementById("map")
 	const btn=document.createElement("input")
 	const tpe=document.createAttribute("type")
@@ -11,6 +11,6 @@ function deploy(obj) {
 	val.value=obj.status
 	const nme=document.createAttribute("name")
 	nme.value=obj.name
-	map.appendChild(btn)
+	parentNode.appendChild(btn)
 }
 
