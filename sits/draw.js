@@ -8,7 +8,10 @@ function deploy(parentNode,obj) {
 	style.value='left:'+obj.x+'px;top:'+obj.y+'px;rotate:'+obj.rotate+'deg;position:absolute;'
 	btn.setAttributeNode(style)
 	const val=document.createAttribute("value")
-	val.value=obj.status
+	if (obj.status)
+		val.value="Free"
+	else
+		val.value="Taken"
 	btn.setAttributeNode(val)
 	const nme=document.createAttribute("name")
 	nme.value=obj.name

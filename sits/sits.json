@@ -1,7 +1,24 @@
 {"sits":[
-{"name":"a1","x":20,"y":30,"rotate":"90","status":"taken"},
-{"name":"a1","x":20,"y":130,"rotate":"0","status":"not taken"},
-{"name":"a1","x":320,"y":230,"rotate":"0","status":"taken"}
+{"name":"a1","x":45, "y":40 ,"rotate":"90","status":true},
+{"name":"a2","x":88, "y":40 ,"rotate":"90","status":true},
+{"name":"a3","x":140,"y":40 ,"rotate":"90","status":false},
+{"name":"b1","x":45, "y":80 ,"rotate":"90","status":true},
+{"name":"b2","x":88, "y":80 ,"rotate":"90","status":true},
+{"name":"b3","x":140,"y":80 ,"rotate":"90","status":false},
+{"name":"c1","x":45, "y":120,"rotate":"90","status":false},
+{"name":"c2","x":88, "y":120,"rotate":"90","status":true},
+{"name":"c3","x":140,"y":120,"rotate":"90","status":true},
+{"name":"d1","x":45, "y":160,"rotate":"90","status":true},
+{"name":"d2","x":88, "y":160,"rotate":"90","status":false},
+{"name":"d3","x":140,"y":160,"rotate":"90","status":true},
+{"name":"e1","x":45, "y":200,"rotate":"90","status":true},
+{"name":"e2","x":88, "y":200,"rotate":"90","status":true},
+{"name":"e3","x":140,"y":200,"rotate":"90","status":true},
+{"name":"f1","x":45, "y":240,"rotate":"90","status":true},
+{"name":"f2","x":88, "y":240,"rotate":"90","status":false},
+{"name":"f3","x":140,"y":240,"rotate":"90","status":true},
+{"name":"g1","x":140,"y":200,"rotate":"0","status":false},
+{"name":"a1","x":320,"y":230,"rotate":"0","status":true}
 
 
 ]}
