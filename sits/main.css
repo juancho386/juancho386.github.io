@@ -1,0 +1,11 @@
+.map {
+	position: relative;
+	width: 300px;
+	height: 300px;
+	border: 1px solid black;
+}
+.a1 {
+  background-color=#a0a0a0;
+  rotate: 90deg;
+}
+
