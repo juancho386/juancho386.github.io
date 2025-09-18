@@ -1,7 +1,7 @@
 {"sits":[
-{"name":"a1","x":20,"y":30,"position":"90deg","status":"taken"},
-{"name":"a1","x":20,"y":130,"position":"0deg","status":"not taken"},
-{"name":"a1","x":320,"y":230,"position":"0deg","status":"taken"}
+{"name":"a1","x":20,"y":30,"rotate":"90","status":"taken"},
+{"name":"a1","x":20,"y":130,"rotate":"0","status":"not taken"},
+{"name":"a1","x":320,"y":230,"rotate":"0","status":"taken"}
 
 
 ]}

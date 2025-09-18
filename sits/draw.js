@@ -5,7 +5,7 @@ function deploy(parentNode,obj) {
 	tpe.value='submit'
 	btn.setAttributeNode(tpe)
 	const style=document.createAttribute("style")
-	style.value='left:'+obj.x+';top:'+obj.y+';rotate:'+obj.rotate+';'
+	style.value='left:'+obj.x+'px;top:'+obj.y+'px;rotate:'+obj.rotate+'deg;position:absolute;'
 	btn.setAttributeNode(style)
 	const val=document.createAttribute("value")
 	val.value=obj.status
