@@ -1,5 +1,5 @@
 # Guide to Buenos Aires
-This is an honest and uncensored guide created with the intention of make HX collegues have a good experience while traveling to Buenos Aires using the Friends and Family benefit with Antarctica destination. If you have a few extra days in Buenos Aires prior or post the vessel trip, you might want some secrets. The guide is formatted with bullet points to make easier to navigate through different topics and aspects.
+This is an honest and uncensored guide created with the intention of make HX collegues have a good experience while traveling to Buenos Aires using the Friends and Family benefit with Antarctica destination. If you have a few extra days in Buenos Aires prior or post the vessel trip, you might want some secrets. The guide is formatted with bullet points to make easier to navigate through different topics and aspects. To make your life easier, I will write the pronunciation between parentesis next to the spanish words, unless it doesn't require it.
 
 ## Who created the guide:
 Juan is Argentinian and lived in Buenos Aires for about 35 years. Moved to Europe in 2015 and keeps constant communication with his family there.
@@ -73,14 +73,19 @@ In Buenos Aires, there is a very big percentage of the population that speaks En
   - What: Qué (ke)
   - Who: Quien (kien)
 - Numbers
-  - 1. un
-  - 2. dos
-  - 3. tres
-  - 4. cuatro
-  - 5. cinco (sinko)
-  - 6. seis
-  - 7. siete
-  - 8. ocho
-  - 9. nueve
-  - 10. diez
+  - 1 un
+  - 2 dos
+  - 3 tres
+  - 4 cuatro
+  - 5 cinco (sinko)
+  - 6 seis
+  - 7 siete
+  - 8 ocho
+  - 9 nueve
+  - 10 diez (dies)
+- Food
+  - Beer: cerveza (cerbesa)
+  - Wine: vino
+  - Shnitsels: Milanesa
+  - My personal favorite meat cut: Churrasco a la plancha
 
