@@ -38,45 +38,79 @@ Juan is Argentinian and lived in Buenos Aires for about 35 years. Moved to Europ
 - Uber could be a good idea if you are not in the downtown (because of traffic)
 - Subway is great choice to move fast along the entire city
 - If you want to take a bus, there are a little list of single rules:
+  - The bus will not stop unless the people on the bus stop rises the hand. Usually the first person does it. Don't be affraid of what it looks like when you rise your hand.
   - Argentinians respect queue and lines.
   - To get into the bus use the front door only.
-  - Pregnate and seniors always has priority. If you don't want to be yeled, give you sit, let them go first, and offer them your hand to desend.
+  - Pregnate and seniors always has priority. If you don't want to be yeled, offer your sit, let them go first, and offer them your hand to desend.
   - Desend only using the middle and last door. Any but the first. Even if technically you can desend by the first door, if takes you more than 2 seconds, you will be yealled at.
   - The bus does not stop unless the stop is requested. Be ready to ring the bell at least 100m before your stop.
   - Equilibrium and good grabbing reflex are not overrated. Some bus drivers drives really reclesly. Could not be your case, but be prepared for some adrenaline.
-  - Backpacks are on the front. If you have it on your back, don't be surprised to find it open or cut when you reach your destination.
+  - While traveling, backpacks needs to be on the front. If you have it on your back, don't be surprised to find it open or cut when you reach your destination.
 
 ### Walking the city
 - If you have extra time before your trip, watch "nueve reinas" (nine queens). It's an argentinian movie that describes how you can be robbed. From pick pockets and runners, up to violent assaults. Follow a little list of simple rules and you will be safe.
   - Stay at the north of the city. The southern people do not expect turists.
   - Avoid walking and watching your phone. Specially if you are close to the edge of the sidewalk.
   - Wallets and phones goes in the internal pockets. Never outside pockets.
-  - Do not flash money, rings, expensive phones, watches, etc. Try to show nothing.
+  - Do not flash money, big rings, expensive phones (iphones), (smart) watches, etc. Try to show no values.
   - The most common scams starts with a woman approaching you and offering tango shows or any other cliche. Just say "No, Gracias" (No, thank you) and keep walking.
-  - Try to use your handbag crossed as possible.
-- Car drivers believes they have priority. Even if you are stanging on the white lines ready to cross, if there is no traffic light, always wait until the cars passes.
+  - Try to use your handbag diagonally crossed as possible.
+- Car drivers believes they have priority. Even if you are stanging on the white lines ready to cross the street, if there is no traffic light, always wait until the cars passes.
 - During the night, traffic lights are "only a suggestion"
 - Drugstores are called "Kioskos". They have literally everything and most of them are open until very late.
-- Insults are common: Depend on what you are being told is how serious it gets. As a general rule, single words are not serious. Try to read the face expresions. You can call boludo a person and depending on the context could be a compliment or an insult
+- Insults are common but almost never with bad intentions: Depend on what you are being told is how serious it gets. As a general rule, single words are not serious. Try to read the face expresions. You can call 'boludo' a person and depending on the context could be a compliment or an insult. But there are other that will never be heard as compliment like 'cornudo' (kornudo)
 
 ### Eating
+- Restaurants
+  - Carritos de la Costanera
+  - Siga la Vaca
+- Kioskos
 
 ### Interesting places to visit
+This is a quick guide of places I personally like from my city. But probably you can get more custom places on Google:
+- El Ateneo
+- El Malba
+- Obelisco
+- Plaza de Mayo / Casa Rosada
+- Teatro Colón
+- Puerto Madero
+- Recoleta - Feria de Artesanos
+- Cancha de Boca
+- Cancha de River
 
-### Useful words
-In Buenos Aires, there is a very big percentage of the population that speaks English. If you are lucky, Italian, Chinese, German (yes, don't ask why) and French. In that order. But if you want to get a smile from the people, you can try the following.
+### Language: Spanish
+The oficial language is Spanish with a weird accent for people that are not used to it.
+- We do not differenciate the sound of S and Z. And also C when it is followed by E or I.
+- If C is followed by an H it sounds like in Chocolate.
+- If C is followed by any other letter, sounds like K.
+- J sounds like a very strong English H
+- G also sounds like a very strong English H when it's followed by E or I
+- H does not sound at all. Just forget you see it. Except If it has a C before it (see above)
+- We do not differenciate the sound between V and B. It sounds always like B
+- Q must be always followed by U. And together sounds like K
+- R at the beginning of the word sounds stronger. The same sound at the middle of the word requires "RR"
+
+In Buenos Aires, there is a very big percentage of the population that speaks English. If you are lucky, also Italian, Chinese, German (yes, don't ask why) and French. In that order. But if you want to get a smile from the people, you can try the following.
 - Basics
+  - Yes: Si
+  - No: No
   - Please: Por favor
   - Sorry: Perdón
   - Thank you: Gracias
   - Where: Dónde
   - What: Qué (ke)
-  - Who: Quien (kien)
+  - Who: Quién (kien)
+- Useful:
+  - Stop (to a person): Pará
+  - Stop to the bus driver (if you are far from the exit door): Parada por favor
+  - Go: Dale
+  - Exit: Salida
+  - Entrance: Entrada
 - Numbers
   - 1 un
   - 2 dos
   - 3 tres
-  - 4 cuatro
+  - 4 cuatro (kuatro)
   - 5 cinco (sinko)
   - 6 seis
   - 7 siete
@@ -84,8 +118,9 @@ In Buenos Aires, there is a very big percentage of the population that speaks En
   - 9 nueve
   - 10 diez (dies)
 - Food
-  - Beer: cerveza (cerbesa)
+  - Beer: cerveza (serbesa)
   - Wine: vino
-  - Shnitsels: Milanesa
+  - Sichnitzel: milanesa
+  - Mashed potatoes: puré
   - My personal favorite meat cut: Churrasco a la plancha
 
