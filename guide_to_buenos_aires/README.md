@@ -62,16 +62,7 @@ Currency should be a simple thing, I know. But in Argentina is a world of econom
 - Kioskos
 
 ### Interesting places to visit
-This is a quick guide of places I personally like from my city. But probably you can get more custom places on Google:
-- El Ateneo
-- El Malba
-- Obelisco
-- Plaza de Mayo / Casa Rosada
-- Teatro Colón
-- Puerto Madero
-- Recoleta - Feria de Artesanos
-- Cancha de Boca
-- Cancha de River
+I believe this list requires a separated page. So [here](./places_to_visit.md) is a list with my favorite ones
 
 ### Language: Spanish
 The oficial language is Spanish with a weird accent for people that are not used to it. I made [here](./language.md) a quick guide for you.

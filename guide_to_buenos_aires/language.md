@@ -1,5 +1,5 @@
 # Guide to Buenos Aires
-[< back](./index.md)
+[< back](./README.md)
 
 This is a quick guide for people that never tried to speak spanish before. I am leaving some terms that I think are going to be usefull. I also write the pronounsation between parentesis with the closest to English I can. Enjoy it :)
 

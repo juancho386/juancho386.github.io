@@ -1,5 +1,5 @@
 # Guide to Buenos Aires
-[< back](./index.md)
+[< back](./README.md)
 ## Currency
 - The local currency is Pesos (ARS)
 - Locals love US Dolars and Euros because they can make a difference on the exchange in the cuevas (see bellow)
