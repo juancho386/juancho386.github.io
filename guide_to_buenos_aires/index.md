@@ -23,12 +23,7 @@ Juan is Argentinian and lived in Buenos Aires for about 35 years. Moved to Europ
   - Always make your luggage wrapped with plastic. It is common to have open bags or missing content on the destination
 
 ### Currency
-- The local currency is Pesos
-- Locals love US Dolars and Euros because they can make a difference on the exchange in the cuevas (see bellow)
-- Any other currency is almost unknown for the locals
-- If you dare to go adventurous, ask for local "cuevas" where you can exchange at a better rate. Bear in mind that the cuevas are not legal but commonly used
-- Fake currency was not common. But ChatGPT says that now a days it could be.
-- If you need to, use only ATM machines that are inside the banks
+Currency should be a simple thing, I know. But in Argentina is a world of economics and some people thinks that you need a college degree to understand it. In any case, [here](./currency.md) I left a little guide for you. I hope it get's useful.
 
 ### Transport
 - Any public transport requires a SUBE card which is a prepaid card that you use inside the transport to get your ticket.
@@ -79,48 +74,5 @@ This is a quick guide of places I personally like from my city. But probably you
 - Cancha de River
 
 ### Language: Spanish
-The oficial language is Spanish with a weird accent for people that are not used to it.
-- We do not differenciate the sound of S and Z. And also C when it is followed by E or I.
-- If C is followed by an H it sounds like in Chocolate.
-- If C is followed by any other letter, sounds like K.
-- J sounds like a very strong English H
-- G also sounds like a very strong English H when it's followed by E or I
-- H does not sound at all. Just forget you see it. Except If it has a C before it (see above)
-- We do not differenciate the sound between V and B. It sounds always like B
-- Q must be always followed by U. And together sounds like K
-- R at the beginning of the word sounds stronger. The same sound at the middle of the word requires "RR"
-
-In Buenos Aires, there is a very big percentage of the population that speaks English. If you are lucky, also Italian, Chinese, German (yes, don't ask why) and French. In that order. But if you want to get a smile from the people, you can try the following.
-- Basics
-  - Yes: Si
-  - No: No
-  - Please: Por favor
-  - Sorry: Perdón
-  - Thank you: Gracias
-  - Where: Dónde
-  - What: Qué (ke)
-  - Who: Quién (kien)
-- Useful:
-  - Stop (to a person): Pará
-  - Stop to the bus driver (if you are far from the exit door): Parada por favor
-  - Go: Dale
-  - Exit: Salida
-  - Entrance: Entrada
-- Numbers
-  - 1 un
-  - 2 dos
-  - 3 tres
-  - 4 cuatro (kuatro)
-  - 5 cinco (sinko)
-  - 6 seis
-  - 7 siete
-  - 8 ocho
-  - 9 nueve
-  - 10 diez (dies)
-- Food
-  - Beer: cerveza (serbesa)
-  - Wine: vino
-  - Sichnitzel: milanesa
-  - Mashed potatoes: puré
-  - My personal favorite meat cut: Churrasco a la plancha
+The oficial language is Spanish with a weird accent for people that are not used to it. I made [here](./language.md) a quick guide for you.
 
