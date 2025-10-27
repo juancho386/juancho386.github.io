@@ -4,16 +4,18 @@ This is an honest and uncensored guide created with the intention of make HX col
 ## Who created the guide:
 Juan is Argentinian and lived in Buenos Aires for about 35 years. Moved to Europe in 2015 and keeps constant communication with his family there.
 
+So, let's get to it....
+
 ### Airport
 - General
   - The airport is 35km from the city.
   - The area is not particularly friendly. Don't leave the airport to explore the surroundings.
   - Uber is better idea than Taxi since Taxis are not really regulated nor controlled.
   - "Tienda Leon" is reliable and cheap. You can save maybe 200 usd by getting closer to your destination using its bus.
-  - The airport's name is Ministro Pistarini. But locals barely know that name. If you need to refer to the airport, just say Ezeiza
+  - The airport's name is Ministro Pistarini. But locals barely know that name. If you need to refer to the airport, just say Ezeiza (a-say-sah)
 - Arrival
-  - Right before exit the airport, there is a drugstore where you can get a local SIM card and probably a SUBE card for the public transport (if you plan to move as a local)
-  - If you dare to travel like a local, the local bus number 8 starts right at the airport entrance and can take you to the center of Buenos Aires downtown. It is the cheapest and not recommended for small groups unless you know what you are doing. Have in mind that will need a SUBE card (more about that later)
+  - Right before exit the airport, there is a drugstore on your left where you can get a local SIM card and probably a SUBE card for the public transport (if you plan to move as a local)
+  - If you dare to travel like a local, the local bus number 8 starts right at the airport entrance and can take you to the center of Buenos Aires downtown. It is the cheapest way to travel but it is not recommended for small groups that does not know what you are doing. Have in mind that will need a SUBE card (more about that later)
 - Departure
   - Have in mind the distance from the city to calculate the transport time. A normal bus takes around 2 hours from the city to the airport.
     - So make your math to leave the hotel with enough time. (Personally, I go 4 hours earlier. Two for the bus and 2 for the luggage handling)
@@ -23,37 +25,42 @@ Juan is Argentinian and lived in Buenos Aires for about 35 years. Moved to Europ
   - Always make your luggage wrapped with plastic. It is common to have open bags or missing content on the destination
 
 ### Currency
-Currency should be a simple thing, I know. But in Argentina is a world of economics and some people thinks that you need a college degree to understand it. In any case, [here](./currency.md) I left a little guide for you. I hope it get's useful.
+Currency should be a simple thing, I know. But in Argentina is a world of economic concepts and some people thinks that you need a college degree to understand it. In any case, [here](./currency.md) I left a little guide for you. I hope it get's useful.
 
 ### Transport
 - Any public transport requires a SUBE card which is a prepaid card that you use inside the transport to get your ticket.
-  - As far as I remember, you can buy it at the airport and charge it right there.
-- SUBE card works on bus, metro and local area trains
-- Taxi is not really recommended
+  - As far as I remember, you can buy it at the airport and charge it at any [Kiosko](#eating).
+- The SUBE card works on bus, metro and local area trains
+- Taxi is not really recommended due internal mafia-like organizations. There are stories about taxi drivers faking getting robbed so the passager give the thief all their belongs, and after the Taxi driver leave you at the police station, they go back to get their share.
 - Uber could be a good idea if you are not in the downtown (because of traffic)
-- Subway is great choice to move fast along the entire city
+- Subway (we call it Subte - short for Sub-terraneo) is great choice to move fast along the entire city. [Here](https://subtebuenosaires.com.ar/mapa/) is the main website with the station's map.
+  - The northern, the most touristic.
+  - The light-blue line (Line A) separates North / South areas of Buenos Aires.
+  - There are very few interesting points at the south and it is more dangerous.
 - If you want to take a bus, there are a little list of single rules:
-  - The bus will not stop unless the people on the bus stop rises the hand. Usually the first person does it. Don't be affraid of what it looks like when you rise your hand.
+  - If you are waiting for a bus note that the bus driver will not stop at you unless you rise your hand (the first person on the line must do it). Germans could feel unconfortable with the hand signal but we do not relate to their history. Don't be affraid of what it looks like when you rise your hand.
+  - If you are on the bus, note that the bus driver us will not stop unless the somebody press the stop button. Do it at least 100 mts (one street) before your destination. Otherwise the bus will stop on the next stop and you will have to walk about 200 mts backwards.
   - Argentinians respect queue and lines.
   - To get into the bus use the front door only.
-  - Pregnate and seniors always has priority. If you don't want to be yeled, offer your sit, let them go first, and offer them your hand to desend.
-  - Desend only using the middle and last door. Any but the first. Even if technically you can desend by the first door, if takes you more than 2 seconds, you will be yealled at.
-  - The bus does not stop unless the stop is requested. Be ready to ring the bell at least 100m before your stop.
+  - Pregnate and seniors always has priority. If you don't want to be yeled, offer your sit, let them go first, and offer them your hand to desend. Good maners are a must.
+  - Desend by any door except the front door. Even if technically you can desend by the first door, if takes you more than 2 seconds, you will be yealled at.
   - Equilibrium and good grabbing reflex are not overrated. Some bus drivers drives really reclesly. Could not be your case, but be prepared for some adrenaline.
-  - While traveling, backpacks needs to be on the front. If you have it on your back, don't be surprised to find it open or cut when you reach your destination.
+  - While traveling, backpacks should not stay at your back. Put it on the floor or at your chest. If you have it on your back, don't be surprised to find it open or cut when you reach your destination.
 
 ### Walking the city
-- If you have extra time before your trip, watch "nueve reinas" (nine queens). It's an argentinian movie that describes how you can be robbed. From pick pockets and runners, up to violent assaults. Follow a little list of simple rules and you will be safe.
+- If you have extra time before your trip, watch "nueve reinas" [Nine Queens](https://www.imdb.com/title/tt0247586/). It's an argentinian movie that describes how you can be robbed. From pick pockets and runners, up to violent assaults. Follow a little list of simple rules and you will be safe.
   - Stay at the north of the city. The southern people do not expect turists.
-  - Avoid walking and watching your phone. Specially if you are close to the edge of the sidewalk.
+   Avoid walking and watching your phone at the same time. Specially if you are close to the edge of the sidewalk.
   - Wallets and phones goes in the internal pockets. Never outside pockets.
-  - Do not flash money, big rings, expensive phones (iphones), (smart) watches, etc. Try to show no values.
-  - The most common scams starts with a woman approaching you and offering tango shows or any other cliche. Just say "No, Gracias" (No, thank you) and keep walking.
-  - Try to use your handbag diagonally crossed as possible.
-- Car drivers believes they have priority. Even if you are stanging on the white lines ready to cross the street, if there is no traffic light, always wait until the cars passes.
-- During the night, traffic lights are "only a suggestion"
+  - Do not flash money, big rings, expensive phones (specially iphones), (smart) watches, etc. Try to show no values.
+  - The most common scams starts with a woman approaching you and offering tango shows or any other cliche. Just say "No, Gracias" (No, thank you) and keep walking. If you engage in a conversation you are falling in their trap.
+  - Try to use your handbag strap diagonally crossed as possible. Runner thieves do not even try when they see you well handled.
+- Car drivers believes they have priority. Even if you are stepping on the street, standing on the white lines ready to cross it, if there is no traffic light, always wait until the cars passes.
+  - Always look at the driver's hand. Specially professionals (bus, taxi, trucks, etc) will make a hand gesture telling you "pass" when they "allow you" to pass. Yes. it is crazy. I know.
+  - Rising the hand saying "thank you" to the vehicle driver when they let you cross is well seen. Even when theoretically you have priority.
+- During the night, traffic lights are "only a suggestion". Cross avenues at accelerated step of even running is common.
 - Drugstores are called "Kioskos". They have literally everything and most of them are open until very late.
-- Insults are common but almost never with bad intentions: Depend on what you are being told is how serious it gets. As a general rule, single words are not serious. Try to read the face expresions. You can call 'boludo' a person and depending on the context could be a compliment or an insult. But there are other that will never be heard as compliment like 'cornudo' (kornudo)
+- Insults are common but almost never with bad intentions: Depend on what you are being told is how serious it gets. As a general rule, single words are not serious. Try to read the face expresions more than listening the words. You can call 'boludo' a person and depending on the context could be a compliment or an insult. But there are other insults that will never be heard as compliment like 'cornudo' (kornudo)
 
 ### Eating
 - Restaurants
@@ -62,8 +69,8 @@ Currency should be a simple thing, I know. But in Argentina is a world of econom
 - Kioskos
 
 ### Interesting places to visit
-I believe this list requires a separated page. So [here](./places_to_visit.md) is a list with my favorite ones
+I believe this list requires a separated page. [Here](./places_to_visit.md) I prepared a list with my favorite ones.
 
 ### Language: Spanish
-The oficial language is Spanish with a weird accent for people that are not used to it. I made [here](./language.md) a quick guide for you.
+The oficial language is Spanish with a weird accent for people that are not used to it. Therefore I made [this quick guide](./language.md) for you. 
 
