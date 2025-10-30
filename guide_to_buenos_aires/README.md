@@ -2,12 +2,17 @@
 This is an honest and uncensored guide created with the intention of make HX collegues have a good experience while traveling to Buenos Aires using the Friends and Family benefit with Antarctica destination. If you have a few extra days in Buenos Aires prior or post the vessel trip, you might want some secrets. The guide is formatted with bullet points to make easier to navigate through different topics and aspects. To make your life easier, I will write the pronunciation between parentesis next to the spanish words, unless it doesn't require it.
 
 ## Who created the guide:
-Juan is Argentinian and lived in Buenos Aires for about 35 years. Moved to Europe in 2015 and keeps constant communication with his family there.
+- Juan is Argentinian and lived in Buenos Aires for about 35 years. Moved to Europe in 2015 and keeps constant communication with his family there.
 
 So, let's get to it....
 
+
+## Buenos Aires
+Buenos Aires is a beautiful city. It only has ~200 years old. Its demonym is "Porteño". Its architecture is borrowed from Europe. The comon porteño is very passionate compared to the standard european and because of that, are notorious around the world. Basically because it's standard to talk very loud and some times move the hands and arms excesively while having a conversation. 
+
 ### Airport
 - General
+  - It is located [here](https://maps.app.goo.gl/dJMdGh1DkvmTPpND9)
   - The airport is 35km from the city.
   - The area is not particularly friendly. Don't leave the airport to explore the surroundings.
   - Uber is better idea than Taxi since Taxis are not really regulated nor controlled.
@@ -15,7 +20,7 @@ So, let's get to it....
   - The airport's name is Ministro Pistarini. But locals barely know that name. If you need to refer to the airport, just say Ezeiza (a-say-sah)
 - Arrival
   - Right before exit the airport, there is a drugstore on your left where you can get a local SIM card and probably a SUBE card for the public transport (if you plan to move as a local)
-  - If you dare to travel like a local, the local bus number 8 starts right at the airport entrance and can take you to the center of Buenos Aires downtown. It is the cheapest way to travel but it is not recommended for small groups that does not know what you are doing. Have in mind that will need a SUBE card (more about that later)
+  - If you dare to travel like a local, the local bus number 8 starts right at the airport entrance and can take you to the center of Buenos Aires downtown. It is the cheapest way to travel but it is not really recommended for small groups that does not know what you are doing. Have in mind that will need a SUBE card (more about that later).
 - Departure
   - Have in mind the distance from the city to calculate the transport time. A normal bus takes around 2 hours from the city to the airport.
     - So make your math to leave the hotel with enough time. (Personally, I go 4 hours earlier. Two for the bus and 2 for the luggage handling)
@@ -34,18 +39,20 @@ Currency should be a simple thing, I know. But in Argentina is a world of econom
 - Taxi is not really recommended due internal mafia-like organizations. There are stories about taxi drivers faking getting robbed so the passager give the thief all their belongs, and after the Taxi driver leave you at the police station, they go back to get their share.
 - Uber could be a good idea if you are not in the downtown (because of traffic)
 - Subway (we call it Subte - short for Sub-terraneo) is great choice to move fast along the entire city. [Here](https://subtebuenosaires.com.ar/mapa/) is the main website with the station's map.
-  - The northern, the most touristic.
+  - The northern you go, the more touristic.
   - The light-blue line (Line A) separates North / South areas of Buenos Aires.
   - There are very few interesting points at the south and it is more dangerous.
 - If you want to take a bus, there are a little list of single rules:
   - If you are waiting for a bus note that the bus driver will not stop at you unless you rise your hand (the first person on the line must do it). Germans could feel unconfortable with the hand signal but we do not relate to their history. Don't be affraid of what it looks like when you rise your hand.
   - If you are on the bus, note that the bus driver us will not stop unless the somebody press the stop button. Do it at least 100 mts (one street) before your destination. Otherwise the bus will stop on the next stop and you will have to walk about 200 mts backwards.
-  - Argentinians respect queue and lines.
+  - Argentinians respect queue and lines and might get mad at you if they were waiting since before your arrival and you get on the transport first.
   - To get into the bus use the front door only.
   - Pregnate and seniors always has priority. If you don't want to be yeled, offer your sit, let them go first, and offer them your hand to desend. Good maners are a must.
   - Desend by any door except the front door. Even if technically you can desend by the first door, if takes you more than 2 seconds, you will be yealled at.
+  - It is forbiden by law to talk to the bus driver but if you feel really lost, she would help anyway
   - Equilibrium and good grabbing reflex are not overrated. Some bus drivers drives really reclesly. Could not be your case, but be prepared for some adrenaline.
   - While traveling, backpacks should not stay at your back. Put it on the floor or at your chest. If you have it on your back, don't be surprised to find it open or cut when you reach your destination.
+  - To descend of the bus, ring the door bell at least 100m before the stop.
 
 ### Walking the city
 - If you have extra time before your trip, watch "nueve reinas" [Nine Queens](https://www.imdb.com/title/tt0247586/). It's an argentinian movie that describes how you can be robbed. From pick pockets and runners, up to violent assaults. Follow a little list of simple rules and you will be safe.
