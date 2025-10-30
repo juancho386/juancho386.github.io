@@ -52,7 +52,6 @@ Currency should be a simple thing, I know. But in Argentina is a world of econom
   - It is forbiden by law to talk to the bus driver but if you feel really lost, she would help anyway
   - Equilibrium and good grabbing reflex are not overrated. Some bus drivers drives really reclesly. Could not be your case, but be prepared for some adrenaline.
   - While traveling, backpacks should not stay at your back. Put it on the floor or at your chest. If you have it on your back, don't be surprised to find it open or cut when you reach your destination.
-  - To descend of the bus, ring the door bell at least 100m before the stop.
 
 ### Walking the city
 - If you have extra time before your trip, watch "nueve reinas" [Nine Queens](https://www.imdb.com/title/tt0247586/). It's an argentinian movie that describes how you can be robbed. From pick pockets and runners, up to violent assaults. Follow a little list of simple rules and you will be safe.
@@ -70,6 +69,35 @@ Currency should be a simple thing, I know. But in Argentina is a world of econom
 - Insults are common but almost never with bad intentions: Depend on what you are being told is how serious it gets. As a general rule, single words are not serious. Try to read the face expresions more than listening the words. You can call 'boludo' a person and depending on the context could be a compliment or an insult. But there are other insults that will never be heard as compliment like 'cornudo' (kornudo)
 
 ### Eating
+
+Buenos Aires is well known for the meat. There are fancy restaurants everywhere, some of them are well known by turists, other by locals, and very few of them by both.
+#### Meat
+- Argentinian way to cut meat is very different than the european way. 
+#### Empanadas
+- Even though around the world empanadas are common, people might want to try "the original ones".
+- Turistically, the way of "closing" the empanada is a fancy decoration. Locally, all are closed very similarly. The variation is inside.
+- A common empanadas place has from 10 to 30 different types.
+- Originals are big. A normal person can eat between 2 and 5. Generally I go with 3.
+- There are "sweet" empanadas that historically were for desert, for kids. Not common in other places of the world. Definitevily worth to try. Go with "Dulce de membrillo" and "Dulce de Batata". The "Dulce de Leche" version is not in the original culture. It is turistic but it's very nice too.
+- Chains of Empanadas:
+  - El Noble Repulgue
+  - Solo Empanadas
+#### Pizza
+- Even though pizza is not an argentinian cliché, we have our version which porteños (and me) consider it is even better than ANY other pizza. Including italian.
+- We have thick and spongee versions we call "Media Masa" and flat and crunchy versions which we call "a la piedra". Be mindful of that before order.
+- Argentinians exhagerates with everything they can, so do not expect to be able to finish one pizza by yourself. It is just not possible.
+- There are more combinations than any other country I visited so far. If you want to try something new and you feel adventurous, ask for "pizza de palmitos" (one of my favorites)
+- Here is a list of my favorite places:
+  - El cuartito
+  - Las Cuartetas
+  - Perón
+  - La Continental
+  - Kentuky
+
+#### Sanguches de Miga
+
+#### Sweets
+
 - Restaurants
   - Carritos de la Costanera
   - Siga la Vaca
