@@ -8,7 +8,7 @@ So, let's get to it....
 
 
 ## Buenos Aires
-Buenos Aires is a beautiful city. It only has ~200 years old. Its demonym is "Porteño". Its architecture is borrowed from Europe. The comon porteño is very passionate compared to the standard european and because of that, are notorious around the world. Basically because it's standard to talk very loud and some times move the hands and arms excesively while having a conversation. 
+Buenos Aires is a beautiful city. It only has ~200 years old. Its demonym is "Porteño". Its architecture is borrowed from Europe. The comon porteño is very passionate compared to the standard european and because of that, are notorious around the world. Basically because it's standard to talk very loud and some times move the hands and arms excesively while having a conversation.
 
 ### Airport
 - General
@@ -50,20 +50,20 @@ Currency should be a simple thing, I know. But in Argentina is a world of econom
   - Pregnate and seniors always has priority. If you don't want to be yeled, offer your sit, let them go first, and offer them your hand to desend. Good maners are a must.
   - Desend by any door except the front door. Even if technically you can desend by the first door, if takes you more than 2 seconds, you will be yealled at.
   - It is forbiden by law to talk to the bus driver but if you feel really lost, she would help anyway
-  - Equilibrium and good grabbing reflex are not overrated. Some bus drivers drives really reclesly. Could not be your case, but be prepared for some adrenaline.
+  - Equilibrium and good grabbing reflex are not overrated. Some bus drivers drives really reclesly. It depends on their mood on that day, so it could not be your case. But just in case be prepared for some adrenaline.
   - While traveling, backpacks should not stay at your back. Put it on the floor or at your chest. If you have it on your back, don't be surprised to find it open or cut when you reach your destination.
 
 ### Walking the city
 - If you have extra time before your trip, watch "nueve reinas" [Nine Queens](https://www.imdb.com/title/tt0247586/). It's an argentinian movie that describes how you can be robbed. From pick pockets and runners, up to violent assaults. Follow a little list of simple rules and you will be safe.
   - Stay at the north of the city. The southern people do not expect turists.
-   Avoid walking and watching your phone at the same time. Specially if you are close to the edge of the sidewalk.
+  - Avoid walking and watching your phone at the same time. Specially if you are close to the edge of the sidewalk. Bickers can steal your phone without even reducing their speed.
   - Wallets and phones goes in the internal pockets. Never outside pockets.
   - Do not flash money, big rings, expensive phones (specially iphones), (smart) watches, etc. Try to show no values.
-  - The most common scams starts with a woman approaching you and offering tango shows or any other cliche. Just say "No, Gracias" (No, thank you) and keep walking. If you engage in a conversation you are falling in their trap.
+  - The most common scams starts with a woman approaching you and offering tango shows or any other cliche. Just say "No, Gracias" (No, thank you) and keep walking. If you engage in a conversation you are already falling in their trap.
   - Try to use your handbag strap diagonally crossed as possible. Runner thieves do not even try when they see you well handled.
 - Car drivers believes they have priority. Even if you are stepping on the street, standing on the white lines ready to cross it, if there is no traffic light, always wait until the cars passes.
-  - Always look at the driver's hand. Specially professionals (bus, taxi, trucks, etc) will make a hand gesture telling you "pass" when they "allow you" to pass. Yes. it is crazy. I know.
-  - Rising the hand saying "thank you" to the vehicle driver when they let you cross is well seen. Even when theoretically you have priority.
+  - Always look at the driver's hands. Specially professionals (bus, taxi, trucks, etc) will make a hand gesture telling you "pass" when they "allow you" to pass. Yes. it is crazy. I know.
+  - Rising the hand saying "thank you" to the vehicle driver when they let you cross is well seen. Even when theoretically and legally you have priority.
 - During the night, traffic lights are "only a suggestion". Cross avenues at accelerated step of even running is common.
 - Drugstores are called "Kioskos". They have literally everything and most of them are open until very late.
 - Insults are common but almost never with bad intentions: Depend on what you are being told is how serious it gets. As a general rule, single words are not serious. Try to read the face expresions more than listening the words. You can call 'boludo' a person and depending on the context could be a compliment or an insult. But there are other insults that will never be heard as compliment like 'cornudo' (kornudo)
@@ -71,28 +71,34 @@ Currency should be a simple thing, I know. But in Argentina is a world of econom
 ### Eating
 
 Buenos Aires is well known for the meat. There are fancy restaurants everywhere, some of them are well known by turists, other by locals, and very few of them by both.
+
 #### Meat
-- Argentinian way to cut meat is very different than the european way. 
-#### Empanadas
+- Argentinian way to cut meat is very different than the european way.
+- if you are not familiar with Argentinian cuts, ask for a "parrillada para N personas" (parrishada). N is the amount of people that will eat. They make the math. It is usually about 500 grams per person distributed in several pieces of meat. Try them all without asking what part of the cow is.
+- Pick a food truck from the [Costanera Sur](https://maps.app.goo.gl/G6eXvPX5HvL2AMN19), you can get the best street food in the world. Ask for "Un chivito". Thank me later.
+- [Siga La Vaca](): Meat specialiced restaurant very famous among locals.
+
+### Empanadas
 - Even though around the world empanadas are common, people might want to try "the original ones".
 - Turistically, the way of "closing" the empanada is a fancy decoration. Locally, all are closed very similarly. The variation is inside.
 - A common empanadas place has from 10 to 30 different types.
 - Originals are big. A normal person can eat between 2 and 5. Generally I go with 3.
-- There are "sweet" empanadas that historically were for desert, for kids. Not common in other places of the world. Definitevily worth to try. Go with "Dulce de membrillo" and "Dulce de Batata". The "Dulce de Leche" version is not in the original culture. It is turistic but it's very nice too.
+- There are also "sweet" empanadas that historically were desert for kids. Not common in other places of the world. Definitevily worth to try. Go with "Dulce de Membrillo" and "Dulce de Batata". The "Dulce de Leche" version is not in the original culture. It is turistic but it's very nice too.
 - Chains of Empanadas:
-  - El Noble Repulgue
-  - Solo Empanadas
+  - [El Noble](https://www.instagram.com/elnoblear/)
+  - [Solo Empanadas](http://soloempanadas.com/)
+
 #### Pizza
 - Even though pizza is not an argentinian cliché, we have our version which porteños (and me) consider it is even better than ANY other pizza. Including italian.
 - We have thick and spongee versions we call "Media Masa" and flat and crunchy versions which we call "a la piedra". Be mindful of that before order.
-- Argentinians exhagerates with everything they can, so do not expect to be able to finish one pizza by yourself. It is just not possible.
+- Argentinians exhagerates with everything they can, so do not expect to be able to finish one pizza by yourself like with the italian pizza. It is just not possible.
 - There are more combinations than any other country I visited so far. If you want to try something new and you feel adventurous, ask for "pizza de palmitos" (one of my favorites)
 - Here is a list of my favorite places:
-  - El cuartito
-  - Las Cuartetas
-  - Perón
-  - La Continental
-  - Kentuky
+  - [El Cuartito](https://maps.app.goo.gl/Tda3HovMqDH8F2Sd7): Legendary pizza place where a lot of history. The walls are decorated with original pieces of argentinian history.
+  - [Las Cuartetas](https://maps.app.goo.gl/vcgBgigkH9S1KPkg6): Standard Pizzería in the heart of Buenos Aires.
+  - [Perón](https://maps.app.goo.gl/WzwXAUqSgWJvaYWw5): Tipical Restaurante with an ambience refering a very popular political period of Argentina
+  - [La Continental]()
+  - [Kentuky]()
 
 #### Sanguches de Miga
 
@@ -107,5 +113,5 @@ Buenos Aires is well known for the meat. There are fancy restaurants everywhere,
 I believe this list requires a separated page. [Here](./places_to_visit.md) I prepared a list with my favorite ones.
 
 ### Language: Spanish
-The oficial language is Spanish with a weird accent for people that are not used to it. Therefore I made [this quick guide](./language.md) for you. 
+The oficial language is Spanish with a weird accent for people that are not used to it. Therefore I made [this quick guide](./language.md) for you.
 
