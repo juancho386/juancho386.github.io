@@ -33,7 +33,7 @@ Buenos Aires is a beautiful city. It only has ~200 years old. Its demonym is "Po
 Currency should be a simple thing, I know. But in Argentina is a world of economic concepts and some people thinks that you need a college degree to understand it. In any case, [here](./currency.md) I left a little guide for you. I hope it get's useful.
 
 ### Transport
-- Any public transport requires a SUBE card which is a prepaid card that you use inside the transport to get your ticket.
+- Any public transport requires a [SUBE](https://www.argentina.gob.ar/servicio/consegui-la-tarjeta-sube) card which is a prepaid card that you use inside the transport to get your ticket.
   - As far as I remember, you can buy it at the airport and charge it at any [Kiosko](#eating).
 - The SUBE card works on bus, metro and local area trains
 - Taxi is not really recommended due internal mafia-like organizations. There are stories about taxi drivers faking getting robbed so the passager give the thief all their belongs, and after the Taxi driver leave you at the police station, they go back to get their share.
@@ -77,6 +77,7 @@ Buenos Aires is well known for the meat. There are fancy restaurants everywhere,
 - if you are not familiar with Argentinian cuts, ask for a "parrillada para N personas" (parrishada). N is the amount of people that will eat. They make the math. It is usually about 500 grams per person distributed in several pieces of meat. Try them all without asking what part of the cow is.
 - Pick a food truck from the [Costanera Sur](https://maps.app.goo.gl/G6eXvPX5HvL2AMN19), you can get the best street food in the world. Ask for "Un chivito". Thank me later.
 - [Siga La Vaca](): Meat specialiced restaurant very famous among locals.
+TODO
 
 ### Empanadas
 - Even though around the world empanadas are common, people might want to try "the original ones".
@@ -99,15 +100,19 @@ Buenos Aires is well known for the meat. There are fancy restaurants everywhere,
   - [Perón](https://maps.app.goo.gl/WzwXAUqSgWJvaYWw5): Tipical Restaurante with an ambience refering a very popular political period of Argentina
   - [La Continental]()
   - [Kentuky]()
+TODO
 
 #### Sanguches de Miga
-
+TODO
 #### Sweets
-
-- Restaurants
+TODO
+#### Restaurants
   - Carritos de la Costanera
   - Siga la Vaca
-- Kioskos
+TODO
+
+#### Kioskos
+TODO
 
 ### Interesting places to visit
 I believe this list requires a separated page. [Here](./places_to_visit.md) I prepared a list with my favorite ones.
