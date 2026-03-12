@@ -22,7 +22,7 @@
 		]},
 		{"name":"Summary", "items":[
 			{"name":"Linux","value":"Evangelist of Linux as Desktop since more than 20 years"},
-			{"name":"Bash scripting","value":"Automating proceudres since Linux Kernel v1.2.34."},
+			{"name":"Bash scripting","value":"Automating procedures since Linux Kernel v1.2.34."},
 			{"name":"Terraform","value":"5 years in multiple projects. With Cloud Formation over Serverless experience."},
 			{"name":"AWS","value":"Since 2013. Multiple products. Multiregion. High availability. Container oriented and serverless."},
 			{"name":"CI/CD","value":"Mainly using Github actions but also experience with Jenkins and Travis."},
@@ -32,6 +32,19 @@
 			{"name":"My entire stack","value":"here","link":"https://juancho386.github.io/cv/?model=stack"}
 		]},
 		{"name":"Last 3 jobs","items":[
+			{"name":"HX CZE s.r.o. / Travel HX","items":[
+				{"name":"Period","value":"Jan 2025 - Present day"},
+				{"name":"As","value": "DevOps Specialist"},
+				{"name":"Main responsibilities","list":[
+					"Multi account / Multi environments AWS Terraform setup and implementation",
+					"AI assited develpment with active fixing of its outcome",
+					"Bash scripts automation for multiple purposes such as AWS account crawling for gather information and users management setup",
+					"Github Actions for standard and non standard automations",
+					"Remote and on-place asistance on vessels sailing remotely across the ocean",
+					"Tech Team lead: Actively create a group that prioritize communication and sync",
+					"Ansible setup for secured finantial processes aswell as Fortigate rules management on CICD scenario"
+				]}
+			]},
 			{"name":"Monstarlab CZ","items":[
 				{"name":"Period","value":"Feb 2022 - Dec 2024"},
 				{"name":"As","value": "Infrastructure Engineer (level 2)"},
@@ -45,7 +58,7 @@
 					"Serverless autoscalable on Fargate infrastructure."
 				]}
 			]},
-			{"name":"Teracloud-io","items":[
+			{"name":"Teracloud IO","items":[
 				{"name":"Period","value":"May 2020 - Feb 2022"},
 				{"name":"As","value": "Devop Engineer"},
 				{"name":"Main responsibilities","list":[
